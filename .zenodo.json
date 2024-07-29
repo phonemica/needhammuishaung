@@ -1,0 +1,25 @@
+{
+    "title": "CLDF dataset derived from Needham 1897",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [
+        {
+            "name": "Kellen Parker van Dam",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>van Dam, Kellen Parker &amp; Wanglung Kelim Mossang. (in review). &#x27;A Classified Account of J. F. Needham\u2019s A Collection of A Few M\u00f4sh\u00e2ng Naga Words&#x27;.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

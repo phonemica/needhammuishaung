@@ -1,0 +1,265 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_above,above,1741,ABOVE
+2_acid,acid,1906,SOUR
+3_all,all,98,ALL
+4_alive,alive,1422,BE ALIVE
+5_anger,anger,82,ANGER
+6_arm,arm,1673,ARM
+7_arrow,arrow,977,ARROW
+8_ash,ash,646,ASH
+9_aunt,aunt,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER)
+10_axe,axe,677,AXE
+11_bad,bad,1292,BAD
+12_bag,bag,2468,BAG
+13_bamboo,bamboo,1927,BAMBOO
+14_basketmans,"basket, man's",2468,BAG
+15_basketwomans,"basket, woman's",1539,BASKET
+16_basketsmallflat,"basket, small flat",1539,BASKET
+17_bead,bead,1961,NECKLACE
+18_bear,bear,1820,BEAR
+19_bee,bee,665,BEE
+20_belly,belly,1251,BELLY
+21_bird,bird,937,BIRD
+22_black,black,163,BLACK
+23_bitev,"bite, v",1403,BITE
+24_bitter,bitter,887,BITTER
+25_blood,blood,946,BLOOD
+26_bone,bone,1394,BONE
+27_bow,bow,994,BOW
+28_bough,bough,346,BANYAN
+29_bracelet,bracelet,1754,BRACELET
+30_bridge,bridge,1011,BRIDGE
+31_brotherelder,"brother, elder",1759,OLDER BROTHER
+32_brotheryounger,"brother, younger",427,YOUNGER SIBLING
+33_buffalo,buffalo,2516,WATER BUFFALO
+34_bullet,bullet,1114,BULLET
+35_buryv,"bury, v",1719,BURY
+36_buyv,"buy, v",1869,BUY
+37_calfofleg,calf of leg,498,CALF OF LEG
+38_callv,"call, v",1458,SAY
+39_canesmallkind,cane (small kind),659,REED
+40_canelargekind,cane (large kind),2497,RATTAN
+41_catchholdofv,"catch hold of, v",702,CATCH
+42_caoutchouc,caoutchouc,,
+43_childabletowalk,child (able to walk),2099,CHILD
+44_childbaby,child (baby),2099,CHILD
+45_chillic,chillic,919,CHILI PEPPER
+46_claw,claw,1258,FINGERNAIL
+47_climbv,"climb, v",1102,CLIMB
+48_clothchudder,cloth (chudder),806,BLANKET
+49_cloud,cloud,1489,CLOUD
+50_cold,cold,2483,COLD (OF WEATHER)
+51_comb,comb,2070,COMB (VERB)
+52_comev,"come, v",1446,COME
+53_corpse,corpse,,
+54_cookingpot,cooking pot,3653,COOKING POT
+55_cotton,cotton,1850,COTTON
+56_cow,cow,3044,BOVINE
+57_cry,cry,1839,CRY
+58_crossbow,cross bow,3193,CROSSBOW
+59_crow,crow,913,CROW
+60_dancev,"dance, v",1879,DANCE
+61_daughter,daughter,1357,DAUGHTER
+62_today,to-day,1283,TODAY
+63_morrow,morrow,1329,TOMORROW
+64_dhao,dhao,2680,MACHETE
+65_daily,daily,,
+66_deer,deer,619,ANIMAL
+67_dhanpaddy,dhan (paddy),2749,UNHUSKED RICE
+68_different,different,2504,DIFFERENT
+69_dog,dog,2009,DOG
+70_door,door,1567,DOOR
+71_drink,drink,1401,DRINK
+72_drinkingcupofbamboo,drinking cup (of bamboo),476,CUP
+73_drum,drum,908,DRUM
+74_beatdrum,beat drum,,
+75_dung,dung,2057,DUNG (ANIMAL FAECES)
+76_dust,dust,2,DUST
+77_ear,ear,1247,EAR
+78_earring,earring,770,EARRING
+79_earth,earth,626,LAND
+80_eat,eat,1336,EAT
+81_egg,egg,744,EGG
+82_empty,empty,1624,EMPTY
+83_eye,eye,1248,EYE
+84_face,face,1560,FACE
+85_false,false,3069,FALSE
+86_elephant,elephant,1290,ELEPHANT
+87_fatnotlean,fat (not lean),323,FAT (ORGANIC SUBSTANCE)
+88_far,far,1406,FAR
+89_father,father,1217,FATHER
+90_fear,fear,781,FEAR (FRIGHT)
+91_feather,feather,1201,FEATHER
+92_female,female,2105,FEMALE PERSON
+93_finger,finger,1303,FINGER
+94_fire,fire,221,FIRE
+95_fireplace,fire-place,185,FIREPLACE
+96_firegun,fire-gun,1172,SHOOT
+97_fish,fish,227,FISH
+98_flame,flame,889,FLAME
+99_flea,flea,2241,WILD CAT
+100_flintstriker,flint striker,737,LIGHT (IGNITE)
+101_flyv,"fly, v",1441,FLY (MOVE THROUGH AIR)
+102_fog,fog,249,FOG
+103_foot,foot,1301,FOOT
+104_forget,forget,1523,FORGET
+105_forest,forest,420,FOREST
+106_forehead,forehead,123,FOREHEAD
+107_fowl,fowl,265,FOWL
+108_friend,friend,1325,FRIEND
+109_getupvrise,"get up, v (rise)",1512,RISE (ONESELF)
+110_girl,girl,1646,GIRL
+111_give,give,1447,GIVE
+112_goawayv,"go away, v",,
+113_goat,goat,1502,GOAT
+114_gong,gong,2502,GONG
+115_good,good,1035,GOOD
+116_granary,granary,3657,GRANARY
+117_gun,gun,1566,GUN
+118_gunpowder,gunpowder,1798,GUNPOWDER
+119_flintforditto,flint for ditto,,
+120_hail,hail,609,HAIL
+121_hair,hair,2648,HAIR (HEAD)
+122_hand,hand,1277,HAND
+123_hat,hat,771,HAT
+124_he,he,2642,HE OR SHE
+125_here,here,136,HERE
+126_here,here,136,HERE
+127_head,head,1256,HEAD
+128_heavy,heavy,1210,HEAVY
+129_hill,hill,614,HILL
+130_horn,horn,1393,HORN (ANATOMY)
+131_hot,hot,2272,HOT OR WARM
+132_house,house,1252,HOUSE
+133_notchedstepsleadinguptohouse,notched steps leading up to house,,
+134_how,how,1239,HOW
+135_high,high,1202,BIG
+136_i,I,1209,I
+137_ill,ill,1847,SICK
+138_indiancorn,Indian corn,506,MAIZE
+139_iron,iron,621,IRON
+140_jungle,jungle,3808,JUNGLE
+141_kill,kill,1417,KILL
+142_knee,knee,1371,KNEE
+143_knife,knife,1352,KNIFE
+144_kochu,kochu,351,TARO
+145_large,large,1202,BIG
+146_laughv,"laugh, v",1355,LAUGH
+147_leech,leech,2273,LEECH
+148_leaf,leaf,628,LEAF
+149_leg,leg,1297,LEG
+150_lightning,lightning,1654,LIGHTNING
+151_lip,lip,478,LIP
+152_lightnotheavy,light (not heavy),1052,LIGHT (WEIGHT)
+153_loincloth,loin cloth,1965,LOINCLOTH
+154_lookv,"look, v",1819,LOOK
+155_louse,louse,1392,LOUSE
+156_makev,"make, v",2575,DO OR MAKE
+157_male,male,2106,MALE PERSON
+158_many,many,1198,MANY
+159_mat,mat,195,MAT
+160_monkey,monkey,1350,MONKEY
+161_mortarforpoundingpaddy,mortar for pounding paddy,224,MORTAR
+162_pestle,pestle,225,PESTLE
+163_mother,mother,1216,MOTHER
+164_moon,moon,1313,MOON
+165_mod,mod,,
+166_mouth,mouth,674,MOUTH
+167_mud,mud,640,MUD
+168_nail,nail,502,NAIL (TOOL)
+169_name,name,1405,NAME
+170_near,near,1942,NEAR
+171_nest,nest,3549,BIRD NEST
+172_net,net,2963,NET
+173_now,now,1376,NOW
+174_old,old,2112,OLD (AGED)
+175_oldman,old man,406,OLD MAN
+176_oldwoman,old woman,907,OLD WOMAN
+177_petticoat,petticoat,,
+178_womanschudder,woman's chudder,,
+179_pig,pig,1337,PIG
+180_pipe,pipe,2956,TUBE
+181_placeorputv,"place or put, v",998,PUT
+182_poison,poison,655,POISON
+183_post,post,281,POST
+184_plantain,plantain,399,PLANTAIN
+185_rice,rice,3289,UNCOOKED RICE
+186_cookedrice,cooked rice,1191,COOKED RICE
+187_rain,rain,2108,RAINING OR RAIN
+188_red,red,156,RED
+189_ring,ring,1374,RING
+190_ripe,ripe,178,RIPE
+191_riveralsowater,"river, also water",666,RIVER
+192_road,road,2457,PATH OR ROAD
+193_roofofhouse,roof of house,769,ROOF
+194_run,run,1519,RUN
+195_salt,salt,1274,SALT
+196_sand,sand,671,SAND
+197_seev,"see, v",1409,SEE
+198_seekv,"seek, v",1468,LOOK FOR
+199_seizev,"seize, v",855,SEIZE
+200_sellv,"sell, v",1571,SELL
+201_sendv,"send, v",1127,SEND
+202_sharp,sharp,1396,SHARP
+203_shootv,"shoot, v",1172,SHOOT
+204_similaralike,similar (alike),1558,SIMILAR
+205_singv,"sing, v",1261,SING
+206_sitdownv,"sit down, v",1649,SIT DOWN
+207_skin,skin,763,SKIN
+208_sky,sky,1732,SKY
+209_slave,slave,812,SLAVE
+210_slippery,slippery,3702,SLIPPERY
+211_sleepv,"sleep, v",215,LIE DOWN
+212_small,small,1246,SMALL
+213_smell,smell,3704,ODOR (SMELL)
+214_smoke,smoke,778,SMOKE (EXHAUST)
+215_snake,snake,730,SNAKE
+216_snow,snow,784,SNOW
+217_son,son,1620,SON
+218_sowv,"sow, v",1486,PLANT (SOMETHING)
+219_spear,spear,945,SPEAR
+220_spark,spark,518,SPARK
+221_spiritevil,spirit (evil),1175,GHOST
+222_stand,stand,1442,STAND
+223_star,star,1430,STAR
+224_stayv,"stay, v",987,REMAIN
+225_stead,stead,2329,LACK (NOT HAVE)
+226_stone,stone,857,STONE
+227_sun,sun,1343,SUN
+228_tail,tail,1220,TAIL
+229_takev,"take, v",1749,TAKE
+230_that,that,78,THAT
+231_themorthey,them or they,817,THEY
+232_there,there,1937,THERE
+233_thief,thief,1160,THIEF
+234_thinnotthick,thin (not thick),2306,THIN (OF LEAF AND CLOTH)
+235_thinnotthick,thin (not thick),2306,THIN (OF LEAF AND CLOTH)
+236_thinnotfat,thin (not fat),1400,THIN (SLIM)
+237_this,this,1214,THIS
+238_thorn,thorn,124,THORN
+239_thumb,thumb,1303,FINGER
+240_thunder,thunder,1150,THUNDER
+241_tiger,tiger,846,TIGER
+242_tobacco,tobacco,974,TOBACCO
+243_toe,toe,1389,TOE
+244_tongue,tongue,1205,TONGUE
+245_tooth,tooth,1380,TOOTH
+246_touchwood,touch wood,,
+247_trackv,"track, v",,
+248_true,true,1657,TRUE
+249_tree,tree,906,TREE
+250_uncle,uncle,1985,PATERNAL UNCLE (FATHER'S BROTHER)
+251_unripe,unripe,1958,UNRIPE
+252_village,village,930,VILLAGE
+253_war,war,935,WAR
+254_what,what?,1236,WHAT
+255_where,where,1237,WHERE
+256_white,white,1335,WHITE
+257_who,who?,1235,WHO
+258_why,why?,1270,WHY
+259_wing,wing,1257,WING
+260_worm,worm,1219,WORM
+261_yesterday,yesterday,1174,YESTERDAY
+262_you,you,1215,THOU
+263_youngman,young man,76,YOUNG MAN
+264_youngwoman,young woman,77,YOUNG WOMAN

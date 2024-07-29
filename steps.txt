@@ -1,0 +1,20 @@
+mkdir etc
+mkdir raw
+
+cut -f1,2,8,9,10 Needham-1897-264.tsv > etc/concepts.tsv
+echo "ID,Name,Glottocode" > etc/languages.csv
+echo "PangwaNaga,Pangwa Naga,tase1235" >> etc/languages.csv
+
+git mv *.tsv raw/
+git mv *.csv raw/
+git add etc/*.tsv
+git add etc/*.csv
+git add raw/sources.bib # contains reference in bibtex
+
+git add lexibank_needhammoshang.py setup.py # first scaffold
+
+
+
+
+
+
