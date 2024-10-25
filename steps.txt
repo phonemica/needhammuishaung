@@ -3,7 +3,7 @@ mkdir raw
 
 cut -f1,2,8,9,10 Needham-1897-264.tsv > etc/concepts.tsv
 echo "ID,Name,Glottocode" > etc/languages.csv
-echo "PangwaNaga,Pangwa Naga,tase1235" >> etc/languages.csv
+echo "Muishaung,Muishaung,mosa1240" >> etc/languages.csv
 
 git mv *.tsv raw/
 git mv *.csv raw/
