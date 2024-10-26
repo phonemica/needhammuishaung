@@ -1,0 +1,136 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+$	NULL				
+.	+	jɑ.ʃɪk.ʃɑ, jɑ.ʃɪk.ʃɑ̃	MuishaungNeedham	100	U+002e
+^	NULL				
+^[ka₁li₃]laʔ₄	k a ₁ + l i ₃ + l a ʔ ₄	[ka₁li₃]laʔ₄	MuishaungModern	1	U+005b U+006b U+0061 U+2081 U+006c U+0069 U+2083 U+005d U+006c U+0061 U+0294 U+2084
+^b	b	bok₄, ba₁	MuishaungModern, MuishaungNeedham	5	U+005e U+0062
+^d	d	dy, dʌm	MuishaungNeedham, MuishaungModern	13	U+005e U+0064
+^g	g	gɑp, gʌ.ny	MuishaungNeedham	7	U+005e U+0067
+^h	h	hɛt, het₄	MuishaungNeedham, MuishaungModern	6	U+005e U+0068
+^i	i	i.nʌp, i.hi.wɑ	MuishaungNeedham, MuishaungModern	8	U+005e U+0069
+^j	j	jɒk.tʰɪn, jɑ.ʃɪk.ʃɑ	MuishaungNeedham	35	U+005e U+006a
+^k	k	ku, kʌ.tɛn	MuishaungNeedham, MuishaungModern	29	U+005e U+006b
+^kʰ	kʰ	kʰi₁, kʰɑ.ly	MuishaungModern, MuishaungNeedham	24	U+005e U+006b U+02b0
+^l	l	lu₁, lu	MuishaungModern, MuishaungNeedham	29	U+005e U+006c
+^m	m	man₂sɨu₂, mi.βɑ.ʃɑ̃	MuishaungNeedham, MuishaungModern	32	U+005e U+006d
+^n	n	nɨŋ₂, ni.tyr	MuishaungNeedham, MuishaungModern	28	U+005e U+006e
+^n̪	n̪	n̪ɨiʔ₄sa₁, n̪ɨi₂	MuishaungModern	2	U+005e U+006e U+032a
+^p	p	pɨ₂βuŋ₂, pu	MuishaungNeedham, MuishaungModern	12	U+005e U+0070
+^pʰ	pʰ	pʰɑŋ.pʰɒi̯, pʰe₃	MuishaungNeedham, MuishaungModern	8	U+005e U+0070 U+02b0
+^r	r	ri, rɨi₂	MuishaungNeedham, MuishaungModern	28	U+005e U+0072
+^s	s	sɑ, sʌm	MuishaungNeedham, MuishaungModern	4	U+005e U+0073
+^t	t	tə₀li₃, tʌp.tʰɑ	MuishaungModern, MuishaungNeedham	20	U+005e U+0074
+^tʰ	tʰ	tʰɐl₂, tʰi	MuishaungNeedham, MuishaungModern	16	U+005e U+0074 U+02b0
+^t̪	t̪	t̪ɨŋ₂, t̪ɐt₄	MuishaungModern	3	U+005e U+0074 U+032a
+^t̪ʰ	t̪ʰ	t̪ʰɨk₄	MuishaungModern	1	U+005e U+0074 U+032a U+02b0
+^u	u	u.lɑ, u₁la₃	MuishaungNeedham, MuishaungModern	2	U+005e U+0075
+^w	w	wɪn, wu.di	MuishaungNeedham	8	U+005e U+0077
+^ŋ	ŋ	ŋɑ, ŋɐm₂	MuishaungModern, MuishaungNeedham	9	U+005e U+014b
+^ɑ	ɑ	ɑ.tʰɪŋ, ɑ.hʌl	MuishaungNeedham	45	U+005e U+0251
+^ə	ə	ə₀re₂, ə₀pɐuŋ₃	MuishaungModern	42	U+005e U+0259
+^ɣ	ɣ	ɣap₄, ɣaʔ₄	MuishaungModern	6	U+005e U+0263
+^ɲ	ɲ	ɲer₂lɔ₂, ɲa₃tɨk₄	MuishaungModern, MuishaungNeedham	10	U+005e U+0272
+^ʃ	ʃ	ʃɪp, ʃɒk.tʰy	MuishaungModern, MuishaungNeedham	13	U+005e U+0283
+^ʌ	ʌ	ʌ.dɒi̯, ʌn.jyr	MuishaungNeedham	2	U+005e U+028c
+^ʒ	ʒ	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	29	U+005e U+0292
+^ʦ	ts	ʦɨŋ₃ʃiʔ₄, ʦɨk₄hek₄	MuishaungModern	5	U+005e U+02a6
+^ʧ	tʃ	ʧɑ.ry, ʧɑn	MuishaungNeedham	2	U+005e U+02a7
+^ʧʰ	tʃʰ	ʧʰɑˀ, ʧʰɒɑl	MuishaungNeedham	8	U+005e U+02a7 U+02b0
+^ʨ	tɕ	ʨak₄, ʨɐp₄bɔ₂	MuishaungModern	8	U+005e U+02a8
+^β	β	βɑ, βu₁	MuishaungModern, MuishaungNeedham	40	U+005e U+03b2
+_	+	miʔ₄ t̪ɨi₃ ka₁, ʒan₂ hi₂	MuishaungModern	14	U+005f
+a	a	ʒal₂ʨɨk₄sa₁, laʔ₄san₁	MuishaungModern	84	U+0061
+b	b	ʨɐp₄bɔ₂, nɨ₂bɨr₁	MuishaungModern, MuishaungNeedham	7	U+0062
+d	d	ə₀dɐi₂, wu.di	MuishaungNeedham, MuishaungModern	8	U+0064
+e	e	ə₀re₂, ke₁	MuishaungModern, MuishaungNeedham	18	U+0065
+e$	e	pʰe	MuishaungNeedham	1	U+0065 U+0024
+g	g	mut.guɪ, ɑ.gu	MuishaungNeedham	6	U+0067
+h	h	ɑ.hi, ʒan₂ hi₂	MuishaungNeedham, MuishaungModern	13	U+0068
+i	i	rɨi₂, ʒɐuk₄ʃi₂	MuishaungModern, MuishaungNeedham	78	U+0069
+i$	i	ri, jɒk.ʃi	MuishaungNeedham	29	U+0069 U+0024
+iˀ$	i ˀ/ʔ	ɑ.hiˀ, diˀ	MuishaungNeedham	3	U+0069 U+02c0 U+0024
+i̯	i̯	kʰɒi̯.tʰum, kʰɒi̯.pɑ̃	MuishaungNeedham	3	U+0069 U+032f
+i̯$	i̯	ʌ.dɒi̯, βʌr.pɒi̯	MuishaungNeedham	3	U+0069 U+032f U+0024
+j	j	n.ju, ɑn.jʌk	MuishaungNeedham	10	U+006a
+k	k	ʒɐuk₄t̪ʰɨn₃, ʦɨk₄hek₄	MuishaungModern, MuishaungNeedham	71	U+006b
+k$	k	βʌk, tʰɪk.hɛk	MuishaungNeedham	20	U+006b U+0024
+kw	kʷ	ɑ.kwʌr	MuishaungNeedham	1	U+006b U+0077
+kʰ	kʰ	rə₀kʰɐt₄, βu₁kʰa₂	MuishaungModern, MuishaungNeedham	15	U+006b U+02b0
+l	l	ʒal₂ʨɨk₄sa₁, tə₀li₃	MuishaungModern, MuishaungNeedham	55	U+006c
+l$	l	mul, ku.mul	MuishaungNeedham	12	U+006c U+0024
+m	m	ŋɐm₂, ɑ.mi	MuishaungModern, MuishaungNeedham	39	U+006d
+m$	m	dʌm, jɪm	MuishaungNeedham	17	U+006d U+0024
+n	n	ʒɐuk₄t̪ʰɨn₃, man₂sɨu₂	MuishaungModern, MuishaungNeedham	40	U+006e
+n$	n	jɒk.tʰɪn, jɒk.sɑn	MuishaungNeedham	15	U+006e U+0024
+n̪	n̪	tə₀n̪ɨiʔ₄, βə₀rɐuŋ₂n̪ɨiʔ₄	MuishaungModern	2	U+006e U+032a
+o	o	ka₁loʔ₄, jɑ.ro.wɑ	MuishaungModern, MuishaungNeedham	20	U+006f
+o$	o	kɑ.lo, i.no	MuishaungNeedham	2	U+006f U+0024
+p	p	ɣap₄, ə₀pɐuŋ₃	MuishaungModern, MuishaungNeedham	34	U+0070
+p$	p	gɑp, i.nʌp	MuishaungNeedham	12	U+0070 U+0024
+pʰ	pʰ	kʰu.pʰuk, jɒk.pʰum	MuishaungNeedham, MuishaungModern	16	U+0070 U+02b0
+r	r	βʌr.kru, ə₀re₂	MuishaungNeedham, MuishaungModern	55	U+0072
+r$	r	nyr, ɑ.kwʌr	MuishaungNeedham	14	U+0072 U+0024
+s	s	ʒal₂ʨɨk₄sa₁, man₂sɨu₂	MuishaungModern, MuishaungNeedham	23	U+0073
+t	t	mɨt₄kat₄, βu₁ti₁	MuishaungModern, MuishaungNeedham	29	U+0074
+t$	t	hɛt, tʌ.wʌt	MuishaungNeedham	6	U+0074 U+0024
+tʰ	tʰ	jɒk.tʰɪn, ɑ.tʰɪŋ	MuishaungNeedham, MuishaungModern	11	U+0074 U+02b0
+t̪	t̪	ʨun₂t̪ɨi₁, miʔ₄ t̪ɨi₃ ka₁	MuishaungModern	5	U+0074 U+032a
+t̪ʰ	t̪ʰ	ʒɐuk₄t̪ʰɨn₃, ə₀t̪ʰɨŋ₂	MuishaungModern	6	U+0074 U+032a U+02b0
+u	u	rɐuŋ₂ʒun₃, mut.guɪ	MuishaungModern, MuishaungNeedham	100	U+0075
+u$	u	ku, lu	MuishaungNeedham	24	U+0075 U+0024
+u̯	u̯	jɒu̯ŋ	MuishaungNeedham	1	U+0075 U+032f
+u̯$	u̯	kʌ.rɒu̯, ɑ.rɒu̯	MuishaungNeedham	2	U+0075 U+032f U+0024
+w	w	tʌ.wʌt, i.hi.wɑ	MuishaungNeedham	8	U+0077
+y	y	nyr, gyr	MuishaungNeedham	9	U+0079
+y$	y	dy, kʌ.ry	MuishaungNeedham	19	U+0079 U+0024
+ŋ	ŋ	rɐuŋ₂, rɐuŋ₂suŋ₃	MuishaungModern, MuishaungNeedham	54	U+014b
+ŋ$	ŋ	rʌŋ, ɑ.tʰɪŋ	MuishaungNeedham	34	U+014b U+0024
+ũ$	ũ	βʌr.kũ	MuishaungNeedham	1	U+0169 U+0024
+ɐ	ɐ	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	69	U+0250
+ɐu	ɐu
+ɑ	ɑ	jɑ.kʰɑk, gɑp	MuishaungNeedham	54	U+0251
+ɑ$	ɑ	βɑ, jɑ.ʃɪk.ʃɑ	MuishaungNeedham	38	U+0251 U+0024
+ɑˀ$	ɑˀ	ʧʰɑˀ, ŋɑˀ	MuishaungNeedham	5	U+0251 U+02c0 U+0024
+ɑ̃	ɑ̃	βi.kɑ̃.wɑ	MuishaungNeedham	1	U+0251 U+0303
+ɑ̃$	ɑ̃	jɑ.ʃɪk.ʃɑ̃, βɑ̃	MuishaungNeedham	11	U+0251 U+0303 U+0024
+ɒ	ɒ	jɒk.tʰɪn, jɒk.tu.ɒp	MuishaungNeedham	42	U+0252
+ɒi̯	ɒi̯
+ɒu̯	ɒu̯				
+ɒ̃$	ɒ̃	kɒ̃, ɑ.kiɒ̃	MuishaungNeedham	2	U+0252 U+0303 U+0024
+ɔ	ɔ	ʨɐp₄bɔ₂, ɲer₂lɔ₂	MuishaungModern	13	U+0254
+ə	ə	tə₀li₃, rə₀kʰɐt₄	MuishaungModern	20	U+0259
+ɛ	ɛ	hɛt, rɒŋ.lɛp	MuishaungNeedham	6	U+025b
+ɛ̃$	ɛ̃	guɪ.hɛ̃	MuishaungNeedham	1	U+025b U+0303 U+0024
+ɣ	ɣ	ə₀ɣɤ₁, ə₀ɣɨuʔ₄βa₁	MuishaungModern	4	U+0263
+ɤ	ɤ	ə₀nɤ₂, βʌ.nɤm	MuishaungModern, MuishaungNeedham	9	U+0264
+ɨ	ɨ	rɨi₂, ʒɐuk₄t̪ʰɨn₃	MuishaungModern	80	U+0268
+ɨi	ɨi
+ɨu	ɨu
+ɪ	ɪ	jɒk.tʰɪn, jɑ.ʃɪk.ʃɑ	MuishaungNeedham	36	U+026a
+ɪ$	ɪ	mut.guɪ, tʌ.grɪ	MuishaungNeedham	2	U+026a U+0024
+ɲ	ɲ	ə₀ɲer₂, ə₀ɲɐuk₄	MuishaungModern	5	U+0272
+ʃ	ʃ	jɑ.ʃɪk.ʃɑ, ʒɐuk₄ʃi₂	MuishaungNeedham, MuishaungModern	27	U+0283
+ʌ	ʌ	tʌ.wʌt, lʌm.βʌn	MuishaungNeedham	60	U+028c
+ʌ̃$	ʌ̃	ki.ʌ̃, wu.ʃʌn.ʧʰiʌ̃	MuishaungNeedham	2	U+028c U+0303 U+0024
+ʒ	ʒ	m₁ʒuʔ₄la₃, m₁ʒa₃	MuishaungModern	6	U+0292
+ʔ	ʔ	ka₁loʔ₄, paʔ₄	MuishaungModern	27	U+0294
+ʧ	tʃ	m.ʧu.lɑ, ɑ.ʧɑl	MuishaungNeedham	2	U+02a7
+ʧʰ	tʃʰ	nɑ.ʧʰi, ɑ.ʧʰɑn	MuishaungNeedham	5	U+02a7 U+02b0
+ʨ	tɕ	ʒal₂ʨɨk₄sa₁, na₃ʨi₃	MuishaungModern	8	U+02a8
+β	β	mi.βɑ.ʃɑ̃, ə₀βar₂	MuishaungModern, MuishaungNeedham	21	U+03b2
+ẽ$	ẽ	kʰẽ	MuishaungNeedham	1	U+1ebd U+0024
+₀	⁰	ə₀t̪ə₀rɐuŋ₂, ə₀re₂	MuishaungModern	60	U+2080
+₀_	₀ +
+₁	¹ +	βu₁ti₁, ʦəm₁tap₄	MuishaungModern	30	U+2081
+₁$	¹	lu₁, ʒal₂ʨɨk₄sa₁	MuishaungModern	77	U+2081 U+0024
+₁_	₁ +
+₂	² +	li₂kɔ₂ βa₁, ʒal₂ro₂βa₁	MuishaungModern	40	U+2082
+₂$	²	ʒɐuk₄ʃi₂, rɐuŋ₂	MuishaungModern	83	U+2082 U+0024
+₂_	₂ +
+₃	³ +	ʦɨŋ₃ʃiʔ₄, ʒa₃pi₂	MuishaungModern	12	U+2083
+₃$	³	ʒɐuk₄t̪ʰɨn₃, ə₀pɐuŋ₃	MuishaungModern	45	U+2083 U+0024
+₃_	₃ +
+₄	⁴ +	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	26	U+2084
+₄_	₄ +
+₄$	⁴	ɣap₄, ʨak₄	MuishaungModern	58	U+2084 U+0024
+₃_$	₃

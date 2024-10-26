@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "van Dam, Kellen Parker & Wanglung Kelim Mossang. (in review). 'A Classified Account of J. F. Needham\u2019s A Collection of A Few M\u00f4sh\u00e2ng Naga Words'.",
+    "dc:bibliographicCitation": "van Dam, Kellen Parker & Wanglung Kelim Mossang. (2025). 'A Classified Account of J. F. Needham\u2019s A Collection of A Few M\u00f4sh\u00e2ng Naga Words'. Journal of Asian and African Studies. No. 109. Tokyo: Research Institute for Languages and Cultures of Asia and Africa (ILCAA), Tokyo University of Foreign Studies",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -13,11 +13,11 @@
         {
             "rdf:about": "git@github.com:patkaiist/Needham-1897-264",
             "rdf:type": "prov:Entity",
-            "dc:created": "7b9649b",
+            "dc:created": "a5e28f6",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
             "dc:created": "v5.0",
             "dc:title": "Glottolog"
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.12.4"
         },
         {
             "dc:title": "python-packages",
@@ -54,8 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 264,
+            "dc:extent": 540,
             "tableSchema": {
                 "columns": [
                     {
@@ -124,6 +123,14 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Orthographic_Entry"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Attestation"
                     }
                 ],
                 "foreignKeys": [
@@ -158,7 +165,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1,
+            "dc:extent": 2,
             "tableSchema": {
                 "columns": [
                     {
