@@ -13,11 +13,11 @@
         {
             "rdf:about": "git@github.com:patkaiist/Needham-1897-264",
             "rdf:type": "prov:Entity",
-            "dc:created": "a5e28f6",
+            "dc:created": "af78eaa",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "git@github.com:glottolog/glottolog",
             "rdf:type": "prov:Entity",
             "dc:created": "v5.0",
             "dc:title": "Glottolog"
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.12.7"
         },
         {
             "dc:title": "python-packages",

@@ -21,15 +21,15 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 2
-- **Concepts:** 264
+- **Varieties:** 2 (linked to 1 different Glottocodes)
+- **Concepts:** 264 (linked to 244 different Concepticon concept sets)
 - **Lexemes:** 540
 - **Sources:** 2
 - **Synonymy:** 1.04
 - **Invalid lexemes:** 0
 - **Tokens:** 2,830
-- **Segments:** 71 (0 BIPA errors, 0 CLTS sound class errors, 71 CLTS modified)
-- **Inventory size (avg):** 48.00
+- **Segments:** 70 (0 BIPA errors, 0 CLTS sound class errors, 70 CLTS modified)
+- **Inventory size (avg):** 47.50
 
 | Name                   | GitHub user | Description                              | Role     |
 |------------------------|-------------|------------------------------------------|----------|

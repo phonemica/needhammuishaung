@@ -1,541 +1,541 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Orthographic_Entry,Attestation
 MuishaungNeedham-1_above-1,,MuishaungNeedham,1_above,rʌŋ,rʌŋ,r ʌ ŋ,,Needham1897,,,^r ʌ ŋ$,default,rang,1897
-MuishaungModern-1_above-1,,MuishaungModern,1_above,rɐuŋ₂,rɐuŋ₂,r ɐu ŋ ²,,VanDam2025,,,^r ɐu ŋ ₂$,default,rvungx,2024
+MuishaungModern-1_above-1,,MuishaungModern,1_above,rɐuŋ₂,rɐuŋ₂,r ɐu ŋ ₂/²³¹,,VanDam2025,,,^r ɐu ŋ ₂$,default,rvungx,2024
 MuishaungNeedham-2_acid-1,,MuishaungNeedham,2_acid,ɑ.hiˀ,ɑ.hiˀ,ɑ + h i ˀ/ʔ,,Needham1897,,,^ɑ . h iˀ$,default,â´hî,1897
-MuishaungModern-2_acid-1,,MuishaungModern,2_acid,ə₀hi₂,ə₀hi₂,ə ⁰ h i ²,,VanDam2025,,,^ə ₀ h i ₂$,default,v.hix,2024
+MuishaungModern-2_acid-1,,MuishaungModern,2_acid,ə₀hi₂,ə₀hi₂,ə ₀/⁰ h i ₂/²³¹,,VanDam2025,,,^ə ₀ h i ₂$,default,v.hix,2024
 MuishaungNeedham-3_all-1,,MuishaungNeedham,3_all,wʌ.tɒŋ,wʌ.tɒŋ,w ʌ + t ɒ ŋ,,Needham1897,,,^w ʌ . t ɒ ŋ$,default,wa´tong,1897
-MuishaungModern-3_all-1,,MuishaungModern,3_all,βə₀tɐuŋ₂,βə₀tɐuŋ₂,β ə ⁰ t ɐu ŋ ²,,VanDam2025,,,^β ə ₀ t ɐu ŋ ₂$,default,wv.tvungx,2024
+MuishaungModern-3_all-1,,MuishaungModern,3_all,βə₀tɐuŋ₂,βə₀tɐuŋ₂,β ə ₀/⁰ t ɐu ŋ ₂/²³¹,,VanDam2025,,,^β ə ₀ t ɐu ŋ ₂$,default,wv.tvungx,2024
 MuishaungNeedham-4_alive-1,,MuishaungNeedham,4_alive,ɑ.tʌ.rɒŋ,ɑ.tʌ.rɒŋ,ɑ + t ʌ + r ɒ ŋ,,Needham1897,,,^ɑ . t ʌ . r ɒ ŋ$,default,â-ta´rong,1897
-MuishaungModern-4_alive-1,,MuishaungModern,4_alive,ə₀t̪ə₀rɐuŋ₂,ə₀t̪ə₀rɐuŋ₂,ə ⁰ t̪ ə ⁰ r ɐu ŋ ²,,VanDam2025,,,^ə ₀ t̪ ə ₀ r ɐu ŋ ₂$,default,v.thv.rvungx,2024
+MuishaungModern-4_alive-1,,MuishaungModern,4_alive,ə₀t̪ə₀rɐuŋ₂,ə₀t̪ə₀rɐuŋ₂,ə ₀/⁰ t̪ ə ₀/⁰ r ɐu ŋ ₂/²³¹,,VanDam2025,,,^ə ₀ t̪ ə ₀ r ɐu ŋ ₂$,default,v.thv.rvungx,2024
 MuishaungNeedham-5_anger-1,,MuishaungNeedham,5_anger,ʌn.jyr,ʌn.jyr,ʌ n + j y r,,Needham1897,,,^ʌ n . j y r$,default,an´yürr,1897
-MuishaungModern-5_anger-1,,MuishaungModern,5_anger,ə₀ɲer₂,ə₀ɲer₂,ə ⁰ ɲ e r ²,,VanDam2025,,,^ə ₀ ɲ e r ₂$,default,v.nyerx,2024
+MuishaungModern-5_anger-1,,MuishaungModern,5_anger,ə₀ɲer₂,ə₀ɲer₂,ə ₀/⁰ ɲ e r ₂/²³¹,,VanDam2025,,,^ə ₀ ɲ e r ₂$,default,v.nyerx,2024
 MuishaungNeedham-6_arm-1,,MuishaungNeedham,6_arm,jɒk.pʰum,jɒk.pʰum,j ɒ k + pʰ u m,,Needham1897,,,^j ɒ k . pʰ u m$,default,yok´phûm,1897
-MuishaungModern-6_arm-1,,MuishaungModern,6_arm,ʒɐuk₄pʰum₁,ʒɐuk₄pʰum₁,ʒ ɐu k ⁴ + pʰ u m ¹,,VanDam2025,,,^ʒ ɐu k ₄ pʰ u m ₁$,default,yvuk.phumz,2024
+MuishaungModern-6_arm-1,,MuishaungModern,6_arm,ʒɐuk₄pʰum₁,ʒɐuk₄pʰum₁,ʒ ɐu k ₄/⁵⁵ + pʰ u m ₁/³¹,,VanDam2025,,,^ʒ ɐu k ₄ pʰ u m ₁$,default,yvuk.phumz,2024
 MuishaungNeedham-7_arrow-1,,MuishaungNeedham,7_arrow,lɑ.sʌn,lɑ.sʌn,l ɑ + s ʌ n,,Needham1897,,,^l ɑ . s ʌ n$,default,lâ´san,1897
-MuishaungModern-7_arrow-1,,MuishaungModern,7_arrow,laʔ₄san₁,laʔ₄san₁,l a ʔ ⁴ + s a n ¹,,VanDam2025,,,^l a ʔ ₄ s a n ₁$,default,laq.sanz,2024
+MuishaungModern-7_arrow-1,,MuishaungModern,7_arrow,laʔ₄san₁,laʔ₄san₁,l a ʔ ₄/⁵⁵ + s a n ₁/³¹,,VanDam2025,,,^l a ʔ ₄ s a n ₁$,default,laq.sanz,2024
 MuishaungNeedham-8_ash-1,,MuishaungNeedham,8_ash,tʌp.tʰɑ,tʌp.tʰɑ,t ʌ p + tʰ ɑ,,Needham1897,,,^t ʌ p . tʰ ɑ$,default,tap´thâ,1897
-MuishaungModern-8_ash-1,,MuishaungModern,8_ash,tɐp₄tʰaʔ₄,tɐp₄tʰaʔ₄,t ɐ p ⁴ + tʰ a ʔ ⁴,,VanDam2025,,,^t ɐ p ₄ tʰ a ʔ ₄$,default,tvp.htaq,2024
+MuishaungModern-8_ash-1,,MuishaungModern,8_ash,tɐp₄tʰaʔ₄,tɐp₄tʰaʔ₄,t ɐ p ₄/⁵⁵ + tʰ a ʔ ₄/⁵⁵,,VanDam2025,,,^t ɐ p ₄ tʰ a ʔ ₄$,default,tvp.htaq,2024
 MuishaungNeedham-9_aunt-1,,MuishaungNeedham,9_aunt,i.si,i.si,i + s i,,Needham1897,,,^i . s i$,default,î´sî,1897
-MuishaungModern-9_aunt-1,,MuishaungModern,9_aunt,i₁sɨi₁,i₁sɨi₁,i ¹ + s ɨi ¹,,VanDam2025,,,^i ₁ s ɨi ₁$,default,iz.suiyz,2024
+MuishaungModern-9_aunt-1,,MuishaungModern,9_aunt,i₁sɨi₁,i₁sɨi₁,i ₁/³¹ + s ɨi ₁/³¹,,VanDam2025,,,^i ₁ s ɨi ₁$,default,iz.suiyz,2024
 MuishaungNeedham-10_axe-1,,MuishaungNeedham,10_axe,mʌŋ.ki,mʌŋ.ki,m ʌ ŋ + k i,,Needham1897,,,^m ʌ ŋ . k i$,default,mang´kî,1897
-MuishaungModern-10_axe-1,,MuishaungModern,10_axe,mɨŋ₂ ki₂,mɨŋ₂_ki₂,m ɨ ŋ ₂ + k i ²,,VanDam2025,,,^m ɨ ŋ ₂_ k i ₂$,default,muingx.kix,2024
+MuishaungModern-10_axe-1,,MuishaungModern,10_axe,mɨŋ₂ ki₂,mɨŋ₂_ki₂,m ɨ ŋ ₂/²³¹ + k i ₂/²³¹,,VanDam2025,,,^m ɨ ŋ ₂_ k i ₂$,default,muingx.kix,2024
 MuishaungNeedham-11_bad-1,,MuishaungNeedham,11_bad,ɑ.bɑ,ɑ.bɑ,ɑ + b ɑ,,Needham1897,,,^ɑ . b ɑ$,default,â´bâ,1897
-MuishaungModern-11_bad-1,,MuishaungModern,11_bad,ə₀ba₃,ə₀ba₃,ə ⁰ b a ³,,VanDam2025,,,^ə ₀ b a ₃$,default,v.bac,2024
+MuishaungModern-11_bad-1,,MuishaungModern,11_bad,ə₀ba₃,ə₀ba₃,ə ₀/⁰ b a ₃/³³,,VanDam2025,,,^ə ₀ b a ₃$,default,v.bac,2024
 MuishaungNeedham-12_bag-1,,MuishaungNeedham,12_bag,jɑ.kʰɑk,jɑ.kʰɑk,j ɑ + kʰ ɑ k,,Needham1897,,,^j ɑ . kʰ ɑ k$,default,yâ´khâk,1897
-MuishaungModern-12_bag-1,,MuishaungModern,12_bag,ɲa₃kʰak₄,ɲa₃kʰak₄,ɲ a ³ + kʰ a k ⁴,,VanDam2025,,,^ɲ a ₃ kʰ a k ₄$,default,nyac.khak,2024
+MuishaungModern-12_bag-1,,MuishaungModern,12_bag,ɲa₃kʰak₄,ɲa₃kʰak₄,ɲ a ₃/³³ + kʰ a k ₄/⁵⁵,,VanDam2025,,,^ɲ a ₃ kʰ a k ₄$,default,nyac.khak,2024
 MuishaungNeedham-13_bamboo-1,,MuishaungNeedham,13_bamboo,wɑ̃,wɑ̃,w ɑ̃,,Needham1897,,,^w ɑ̃$,default,wâṉ,1897
-MuishaungModern-13_bamboo-1,,MuishaungModern,13_bamboo,βɔ₂,βɔ₂,β ɔ ²,,VanDam2025,,,^β ɔ ₂$,default,wawx,2024
+MuishaungModern-13_bamboo-1,,MuishaungModern,13_bamboo,βɔ₂,βɔ₂,β ɔ ₂/²³¹,,VanDam2025,,,^β ɔ ₂$,default,wawx,2024
 MuishaungNeedham-14_basketmans-1,,MuishaungNeedham,14_basketmans,pʰɑŋ.pʰɒi̯,pʰɑŋ.pʰɒi̯,pʰ ɑ ŋ + pʰ ɒi̯,,Needham1897,,,^pʰ ɑ ŋ . pʰ ɒi̯ $,default,phâng´phai,1897
-MuishaungModern-14_basketmans-1,,MuishaungModern,14_basketmans,pʰaŋ₂pʰɐi₃,pʰaŋ₂pʰɐi₃,pʰ a ŋ ² + pʰ ɐ i ³,,VanDam2025,,,^pʰ a ŋ ₂ pʰ ɐ i ₃$,default,phangx.phvyc,2024
+MuishaungModern-14_basketmans-1,,MuishaungModern,14_basketmans,pʰaŋ₂pʰɐi₃,pʰaŋ₂pʰɐi₃,pʰ a ŋ ₂/²³¹ + pʰ ɐ i ₃/³³,,VanDam2025,,,^pʰ a ŋ ₂ pʰ ɐ i ₃$,default,phangx.phvyc,2024
 MuishaungNeedham-15_basketwomans-1,,MuishaungNeedham,15_basketwomans,kʰẽ,kʰẽ,kʰ ẽ,,Needham1897,,,^kʰ ẽ$,default,khêṉ,1897
-MuishaungModern-15_basketwomans-1,,MuishaungModern,15_basketwomans,kʰe₃,kʰe₃,kʰ e ³,,VanDam2025,,,^kʰ e ₃$,default,khec,2024
+MuishaungModern-15_basketwomans-1,,MuishaungModern,15_basketwomans,kʰe₃,kʰe₃,kʰ e ₃/³³,,VanDam2025,,,^kʰ e ₃$,default,khec,2024
 MuishaungNeedham-16_basketsmallflat-1,,MuishaungNeedham,16_basketsmallflat,pʰe,pʰe,pʰ e,,Needham1897,,,^pʰ e$,default,phê,1897
-MuishaungModern-16_basketsmallflat-1,,MuishaungModern,16_basketsmallflat,pʰe₃,pʰe₃,pʰ e ³,,VanDam2025,,,^pʰ e ₃$,default,phec,2024
+MuishaungModern-16_basketsmallflat-1,,MuishaungModern,16_basketsmallflat,pʰe₃,pʰe₃,pʰ e ₃/³³,,VanDam2025,,,^pʰ e ₃$,default,phec,2024
 MuishaungNeedham-17_bead-1,,MuishaungNeedham,17_bead,lɪk.sɑ,lɪk.sɑ,l ɪ k + s ɑ,,Needham1897,,,^l ɪ k . s ɑ$,default,lik´sâ,1897
-MuishaungModern-17_bead-1,,MuishaungModern,17_bead,lɨk₄t̪ɨi₁,lɨk₄t̪ɨi₁,l ɨ k ⁴ + t̪ ɨi ¹,,VanDam2025,,,^l ɨ k ₄ t̪ ɨi ₁$,default,luik.thuiyz,2024
+MuishaungModern-17_bead-1,,MuishaungModern,17_bead,lɨk₄t̪ɨi₁,lɨk₄t̪ɨi₁,l ɨ k ₄/⁵⁵ + t̪ ɨi ₁/³¹,,VanDam2025,,,^l ɨ k ₄ t̪ ɨi ₁$,default,luik.thuiyz,2024
 MuishaungNeedham-18_bear-1,,MuishaungNeedham,18_bear,ʧʰʌ.bɑ,ʧʰʌ.bɑ,tʃʰ ʌ + b ɑ,,Needham1897,,,^ʧʰ ʌ . b ɑ$,default,cha´bâ,1897
-MuishaungModern-18_bear-1,,MuishaungModern,18_bear,ʨɐp₄bɔ₂,ʨɐp₄bɔ₂,tɕ ɐ p ⁴ + b ɔ ²,,VanDam2025,,,^ʨ ɐ p ₄ b ɔ ₂$,default,jvp.bawx,2024
+MuishaungModern-18_bear-1,,MuishaungModern,18_bear,ʨɐp₄bɔ₂,ʨɐp₄bɔ₂,tɕ ɐ p ₄/⁵⁵ + b ɔ ₂/²³¹,,VanDam2025,,,^ʨ ɐ p ₄ b ɔ ₂$,default,jvp.bawx,2024
 MuishaungNeedham-19_bee-1,,MuishaungNeedham,19_bee,jɑ̃,jɑ̃,j ɑ̃,,Needham1897,,,^j ɑ̃$,default,yâṉ,1897
-MuishaungModern-19_bee-1,,MuishaungModern,19_bee,ɲaʔ₄,ɲaʔ₄,ɲ a ʔ ⁴,,VanDam2025,,,^ɲ a ʔ ₄$,default,nyaq,2024
+MuishaungModern-19_bee-1,,MuishaungModern,19_bee,ɲaʔ₄,ɲaʔ₄,ɲ a ʔ ₄/⁵⁵,,VanDam2025,,,^ɲ a ʔ ₄$,default,nyaq,2024
 MuishaungNeedham-20_belly-1,,MuishaungNeedham,20_belly,βʌk,βʌk,β ʌ k,,Needham1897,,,^β ʌ k$,default,vak,1897
-MuishaungModern-20_belly-1,,MuishaungModern,20_belly,βuk₄,βuk₄,β u k ⁴,,VanDam2025,,,^β u k ₄$,default,wuk,2024
+MuishaungModern-20_belly-1,,MuishaungModern,20_belly,βuk₄,βuk₄,β u k ₄/⁵⁵,,VanDam2025,,,^β u k ₄$,default,wuk,2024
 MuishaungNeedham-21_bird-1,,MuishaungNeedham,21_bird,βu,βu,β u,,Needham1897,,,^β u$,default,vû,1897
-MuishaungModern-21_bird-1,,MuishaungModern,21_bird,βu₁,βu₁,β u ¹,,VanDam2025,,,^β u ₁$,default,wuz,2024
+MuishaungModern-21_bird-1,,MuishaungModern,21_bird,βu₁,βu₁,β u ₁/³¹,,VanDam2025,,,^β u ₁$,default,wuz,2024
 MuishaungNeedham-22_black-1,,MuishaungNeedham,22_black,ɑn.jʌk,ɑn.jʌk,ɑ n + j ʌ k,,Needham1897,,,^ɑ n . j ʌ k$,default,ân´yak,1897
-MuishaungModern-22_black-1,,MuishaungModern,22_black,ə₀ɲɐuk₄,ə₀ɲɐuk₄,ə ⁰ ɲ ɐu k ⁴,,VanDam2025,,,^ə ₀ ɲ ɐu k ₄$,default,v.nyvuk,2024
+MuishaungModern-22_black-1,,MuishaungModern,22_black,ə₀ɲɐuk₄,ə₀ɲɐuk₄,ə ₀/⁰ ɲ ɐu k ₄/⁵⁵,,VanDam2025,,,^ə ₀ ɲ ɐu k ₄$,default,v.nyvuk,2024
 MuishaungNeedham-23_bitev-1,,MuishaungNeedham,23_bitev,kɒk,kɒk,k ɒ k,,Needham1897,,,^k ɒ k$,default,kok,1897
-MuishaungModern-23_bitev-1,,MuishaungModern,23_bitev,kɐuk₄,kɐuk₄,k ɐu k ⁴,,VanDam2025,,,^k ɐu k ₄$,default,kvuk,2024
+MuishaungModern-23_bitev-1,,MuishaungModern,23_bitev,kɐuk₄,kɐuk₄,k ɐu k ₄/⁵⁵,,VanDam2025,,,^k ɐu k ₄$,default,kvuk,2024
 MuishaungNeedham-24_bitter-1,,MuishaungNeedham,24_bitter,ɑ.krɪp,ɑ.krɪp,ɑ + k r ɪ p,,Needham1897,,,^ɑ . k r ɪ p$,default,â´krip,1897
-MuishaungModern-24_bitter-1,,MuishaungModern,24_bitter,ə₀kʰɨp₄,ə₀kʰɨp₄,ə ⁰ kʰ ɨ p ⁴,,VanDam2025,,,^ə ₀ kʰ ɨ p ₄$,default,v.khuip,2024
+MuishaungModern-24_bitter-1,,MuishaungModern,24_bitter,ə₀kʰɨp₄,ə₀kʰɨp₄,ə ₀/⁰ kʰ ɨ p ₄/⁵⁵,,VanDam2025,,,^ə ₀ kʰ ɨ p ₄$,default,v.khuip,2024
 MuishaungNeedham-25_blood-1,,MuishaungNeedham,25_blood,tʌ.grɪ,tʌ.grɪ,t ʌ + g r ɪ,,Needham1897,,,^t ʌ . g r ɪ$,default,ta´gri,1897
-MuishaungModern-25_blood-1,,MuishaungModern,25_blood,tə₀ɣɨi₁,tə₀ɣɨi₁,t ə ⁰ ɣ ɨi ¹,,VanDam2025,,,^t ə ₀ ɣ ɨi ₁$,default,tv.ghuiyz,2024
+MuishaungModern-25_blood-1,,MuishaungModern,25_blood,tə₀ɣɨi₁,tə₀ɣɨi₁,t ə ₀/⁰ ɣ ɨi ₁/³¹,,VanDam2025,,,^t ə ₀ ɣ ɨi ₁$,default,tv.ghuiyz,2024
 MuishaungNeedham-26_bone-1,,MuishaungNeedham,26_bone,ɑ.rɑ̃,ɑ.rɑ̃,ɑ + r ɑ̃,,Needham1897,,,^ɑ . r ɑ̃$,default,â´râṉ,1897
-MuishaungModern-26_bone-1,,MuishaungModern,26_bone,ə₀rɔ₁,ə₀rɔ₁,ə ⁰ r ɔ ¹,,VanDam2025,,,^ə ₀ r ɔ ₁$,default,v.rawz,2024
+MuishaungModern-26_bone-1,,MuishaungModern,26_bone,ə₀rɔ₁,ə₀rɔ₁,ə ₀/⁰ r ɔ ₁/³¹,,VanDam2025,,,^ə ₀ r ɔ ₁$,default,v.rawz,2024
 MuishaungNeedham-27_bow-1,,MuishaungNeedham,27_bow,lɑˀ,lɑˀ,l ɑˀ,,Needham1897,,,^l ɑˀ$,default,lâ,1897
 MuishaungModern-27_bow-1,,MuishaungModern,27_bow,[ka₁li₃]laʔ₄,[ka₁li₃]laʔ₄,k a ₁ + l i ₃ + l a ʔ ₄,,VanDam2025,,,^[ka₁li₃]laʔ₄ $,default,[kaz.lic.]laq,2024
 MuishaungNeedham-28_bough-1,,MuishaungNeedham,28_bough,pul.pʰɑk,pul.pʰɑk,p u l + pʰ ɑ k,,Needham1897,,,^p u l . pʰ ɑ k$,default,pûlphâk,1897
-MuishaungModern-28_bough-1,,MuishaungModern,28_bough,pul₂pʰak₄,pul₂pʰak₄,p u l ² + pʰ a k ⁴,,VanDam2025,,,^p u l ₂ pʰ a k ₄$,default,pulx.phak,2024
+MuishaungModern-28_bough-1,,MuishaungModern,28_bough,pul₂pʰak₄,pul₂pʰak₄,p u l ₂/²³¹ + pʰ a k ₄/⁵⁵,,VanDam2025,,,^p u l ₂ pʰ a k ₄$,default,pulx.phak,2024
 MuishaungNeedham-29_bracelet-1,,MuishaungNeedham,29_bracelet,jɒk.sɑn,jɒk.sɑn,j ɒ k + s ɑ n,,Needham1897,,,^j ɒ k . s ɑ n$,default,yok´sân,1897
-MuishaungModern-29_bracelet-1,,MuishaungModern,29_bracelet,ʒɐuk₄san₂,ʒɐuk₄san₂,ʒ ɐu k ⁴ + s a n ²,,VanDam2025,,,^ʒ ɐu k ₄ s a n ₂$,default,yvuk.sanx,2024
+MuishaungModern-29_bracelet-1,,MuishaungModern,29_bracelet,ʒɐuk₄san₂,ʒɐuk₄san₂,ʒ ɐu k ₄/⁵⁵ + s a n ₂/²³¹,,VanDam2025,,,^ʒ ɐu k ₄ s a n ₂$,default,yvuk.sanx,2024
 MuishaungNeedham-30_bridge-1,,MuishaungNeedham,30_bridge,hi,hi,h i,,Needham1897,,,^h i$,default,hî,1897
-MuishaungModern-30_bridge-1,,MuishaungModern,30_bridge,hi₂,hi₂,h i ²,,VanDam2025,,,^h i ₂$,default,hix,2024
+MuishaungModern-30_bridge-1,,MuishaungModern,30_bridge,hi₂,hi₂,h i ₂/²³¹,,VanDam2025,,,^h i ₂$,default,hix,2024
 MuishaungNeedham-31_brotherelder-1,,MuishaungNeedham,31_brotherelder,i.pʰu,i.pʰu,i + pʰ u,,Needham1897,,,^i . pʰ u$,default,î´phû,1897
-MuishaungModern-31_brotherelder-1,,MuishaungModern,31_brotherelder,ə₀pʰu₁,ə₀pʰu₁,ə ⁰ pʰ u ¹,,VanDam2025,,,^ə ₀ pʰ u ₁$,default,v.phuz,2024
+MuishaungModern-31_brotherelder-1,,MuishaungModern,31_brotherelder,ə₀pʰu₁,ə₀pʰu₁,ə ₀/⁰ pʰ u ₁/³¹,,VanDam2025,,,^ə ₀ pʰ u ₁$,default,v.phuz,2024
 MuishaungNeedham-32_brotheryounger-1,,MuishaungNeedham,32_brotheryounger,i.no,i.no,i + n o,,Needham1897,,,^i . n o$,default,î´nô,1897
-MuishaungModern-32_brotheryounger-1,,MuishaungModern,32_brotheryounger,ə₀no₂,ə₀no₂,ə ⁰ n o ²,,VanDam2025,,,^ə ₀ n o ₂$,default,v.nox,2024
+MuishaungModern-32_brotheryounger-1,,MuishaungModern,32_brotheryounger,ə₀no₂,ə₀no₂,ə ₀/⁰ n o ₂/²³¹,,VanDam2025,,,^ə ₀ n o ₂$,default,v.nox,2024
 MuishaungNeedham-33_buffalo-1,,MuishaungNeedham,33_buffalo,ŋɑ,ŋɑ,ŋ ɑ,,Needham1897,,,^ŋ ɑ$,default,ngâ,1897
-MuishaungModern-33_buffalo-1,,MuishaungModern,33_buffalo,ŋa₃,ŋa₃,ŋ a ³,,VanDam2025,,,^ŋ a ₃$,default,ngac,2024
+MuishaungModern-33_buffalo-1,,MuishaungModern,33_buffalo,ŋa₃,ŋa₃,ŋ a ₃/³³,,VanDam2025,,,^ŋ a ₃$,default,ngac,2024
 MuishaungNeedham-34_bullet-1,,MuishaungNeedham,34_bullet,ʧʰun.di,ʧʰun.di,tʃʰ u n + d i,,Needham1897,,,^ʧʰ u n . d i$,default,chûn´dî,1897
-MuishaungModern-34_bullet-1,,MuishaungModern,34_bullet,ʨun₂t̪ɨi₁,ʨun₂t̪ɨi₁,tɕ u n ² + t̪ ɨi ¹,,VanDam2025,,,^ʨ u n ₂ t̪ ɨi ₁$,default,junx.thuiyz,2024
+MuishaungModern-34_bullet-1,,MuishaungModern,34_bullet,ʨun₂t̪ɨi₁,ʨun₂t̪ɨi₁,tɕ u n ₂/²³¹ + t̪ ɨi ₁/³¹,,VanDam2025,,,^ʨ u n ₂ t̪ ɨi ₁$,default,junx.thuiyz,2024
 MuishaungNeedham-35_buryv-1,,MuishaungNeedham,35_buryv,lip,lip,l i p,,Needham1897,,,^l i p$,default,lîp,1897
-MuishaungModern-35_buryv-1,,MuishaungModern,35_buryv,lɨp₄,lɨp₄,l ɨ p ⁴,,VanDam2025,,,^l ɨ p ₄$,default,luip,2024
+MuishaungModern-35_buryv-1,,MuishaungModern,35_buryv,lɨp₄,lɨp₄,l ɨ p ₄/⁵⁵,,VanDam2025,,,^l ɨ p ₄$,default,luip,2024
 MuishaungNeedham-36_buyv-1,,MuishaungNeedham,36_buyv,ri,ri,r i,,Needham1897,,,^r i$,default,rî,1897
-MuishaungModern-36_buyv-1,,MuishaungModern,36_buyv,"rɨi₂, ə₀re₁",rɨi₂,r ɨi ²,,VanDam2025,,,^r ɨi ₂$,default,"ruiyx., vrez",2024
-MuishaungModern-36_buyv-2,,MuishaungModern,36_buyv,"rɨi₂, ə₀re₁",ə₀re₁,ə ⁰ r e ¹,,VanDam2025,,,^ə ₀ r e ₁$,default,"ruiyx., vrez",2024
+MuishaungModern-36_buyv-1,,MuishaungModern,36_buyv,"rɨi₂, ə₀re₁",rɨi₂,r ɨi ₂/²³¹,,VanDam2025,,,^r ɨi ₂$,default,"ruiyx., vrez",2024
+MuishaungModern-36_buyv-2,,MuishaungModern,36_buyv,"rɨi₂, ə₀re₁",ə₀re₁,ə ₀/⁰ r e ₁/³¹,,VanDam2025,,,^ə ₀ r e ₁$,default,"ruiyx., vrez",2024
 MuishaungNeedham-37_calfofleg-1,,MuishaungNeedham,37_calfofleg,jʌ.βuɪn,jʌ.βuɪn,j ʌ + β u ɪ n,,Needham1897,,,^j ʌ . β u ɪ n$,default,yavuin,1897
-MuishaungModern-37_calfofleg-1,,MuishaungModern,37_calfofleg,ʒa₁βɤn₃,ʒa₁βɤn₃,ʒ a ¹ + β ɤ n ³,,VanDam2025,,,^ʒ a ₁ β ɤ n ₃$,default,yaz.wuenc,2024
+MuishaungModern-37_calfofleg-1,,MuishaungModern,37_calfofleg,ʒa₁βɤn₃,ʒa₁βɤn₃,ʒ a ₁/³¹ + β ɤ n ₃/³³,,VanDam2025,,,^ʒ a ₁ β ɤ n ₃$,default,yaz.wuenc,2024
 MuishaungNeedham-38_callv-1,,MuishaungNeedham,38_callv,kʌ.ʧʰɑ,kʌ.ʧʰɑ,k ʌ + tʃʰ ɑ,,Needham1897,,,^k ʌ . ʧʰ ɑ$,default,ka´châ,1897
-MuishaungModern-38_callv-1,,MuishaungModern,38_callv,kə₀ʨa₁,kə₀ʨa₁,k ə ⁰ tɕ a ¹,,VanDam2025,,,^k ə ₀ ʨ a ₁$,default,kv.jaz,2024
+MuishaungModern-38_callv-1,,MuishaungModern,38_callv,kə₀ʨa₁,kə₀ʨa₁,k ə ₀/⁰ tɕ a ₁/³¹,,VanDam2025,,,^k ə ₀ ʨ a ₁$,default,kv.jaz,2024
 MuishaungNeedham-39_canesmallkind-1,,MuishaungNeedham,39_canesmallkind,ri,ri,r i,,Needham1897,,,^r i$,default,rî,1897
-MuishaungModern-39_canesmallkind-1,,MuishaungModern,39_canesmallkind,rɨi₂,rɨi₂,r ɨi ²,,VanDam2025,,,^r ɨi ₂$,default,ruiyx,2024
+MuishaungModern-39_canesmallkind-1,,MuishaungModern,39_canesmallkind,rɨi₂,rɨi₂,r ɨi ₂/²³¹,,VanDam2025,,,^r ɨi ₂$,default,ruiyx,2024
 MuishaungNeedham-40_canelargekind-1,,MuishaungNeedham,40_canelargekind,hɛt,hɛt,h ɛ t,,Needham1897,,,^h ɛ t$,default,het,1897
-MuishaungModern-40_canelargekind-1,,MuishaungModern,40_canelargekind,het₄,het₄,h e t ⁴,,VanDam2025,,,^h e t ₄$,default,het,2024
+MuishaungModern-40_canelargekind-1,,MuishaungModern,40_canelargekind,het₄,het₄,h e t ₄/⁵⁵,,VanDam2025,,,^h e t ₄$,default,het,2024
 MuishaungNeedham-41_catchholdofv-1,,MuishaungNeedham,41_catchholdofv,lu,lu,l u,,Needham1897,,,^l u$,default,lû,1897
-MuishaungModern-41_catchholdofv-1,,MuishaungModern,41_catchholdofv,lu₁,lu₁,l u ¹,,VanDam2025,,,^l u ₁$,default,luz,2024
+MuishaungModern-41_catchholdofv-1,,MuishaungModern,41_catchholdofv,lu₁,lu₁,l u ₁/³¹,,VanDam2025,,,^l u ₁$,default,luz,2024
 MuishaungNeedham-42_caoutchouc-1,,MuishaungNeedham,42_caoutchouc,ni.tyr,ni.tyr,n i + t y r,,Needham1897,,,^n i . t y r$,default,nî´türr,1897
-MuishaungModern-42_caoutchouc-1,,MuishaungModern,42_caoutchouc,nɨi₂tɨr₂,nɨi₂tɨr₂,n ɨi ² + t ɨ r ²,,VanDam2025,,,^n ɨi ₂ t ɨ r ₂$,default,nuiyx.tuirx,2024
+MuishaungModern-42_caoutchouc-1,,MuishaungModern,42_caoutchouc,nɨi₂tɨr₂,nɨi₂tɨr₂,n ɨi ₂/²³¹ + t ɨ r ₂/²³¹,,VanDam2025,,,^n ɨi ₂ t ɨ r ₂$,default,nuiyx.tuirx,2024
 MuishaungNeedham-43_childabletowalk-1,,MuishaungNeedham,43_childabletowalk,no.jɑ̃,no.jɑ̃,n o + j ɑ̃,,Needham1897,,,^n o . j ɑ̃$,default,nô´yâṉ,1897
-MuishaungModern-43_childabletowalk-1,,MuishaungModern,43_childabletowalk,no₂ ʒɔ₂,no₂_ʒɔ₂,n o ₂ + ʒ ɔ ²,,VanDam2025,,,^n o ₂_ ʒ ɔ ₂$,default,nox yawx,2024
+MuishaungModern-43_childabletowalk-1,,MuishaungModern,43_childabletowalk,no₂ ʒɔ₂,no₂_ʒɔ₂,n o ₂/²³¹ + ʒ ɔ ₂/²³¹,,VanDam2025,,,^n o ₂_ ʒ ɔ ₂$,default,nox yawx,2024
 MuishaungNeedham-44_childbaby-1,,MuishaungNeedham,44_childbaby,no.ʃɑ̃,no.ʃɑ̃,n o + ʃ ɑ̃,,Needham1897,,,^n o . ʃ ɑ̃$,default,nô´shâṉ,1897
-MuishaungModern-44_childbaby-1,,MuishaungModern,44_childbaby,no₂ ʃɔ₂,no₂_ʃɔ₂,n o ₂ + ʃ ɔ ²,,VanDam2025,,,^n o ₂_ ʃ ɔ ₂$,default,nox shawx,2024
+MuishaungModern-44_childbaby-1,,MuishaungModern,44_childbaby,no₂ ʃɔ₂,no₂_ʃɔ₂,n o ₂/²³¹ + ʃ ɔ ₂/²³¹,,VanDam2025,,,^n o ₂_ ʃ ɔ ₂$,default,nox shawx,2024
 MuishaungNeedham-45_chillic-1,,MuishaungNeedham,45_chillic,mʌ.kɑt,mʌ.kɑt,m ʌ + k ɑ t,,Needham1897,,,^m ʌ . k ɑ t$,default,ma´kât,1897
-MuishaungModern-45_chillic-1,,MuishaungModern,45_chillic,mɨt₄kat₄,mɨt₄kat₄,m ɨ t ⁴ + k a t ⁴,,VanDam2025,,,^m ɨ t ₄ k a t ₄$,default,muit.kat,2024
+MuishaungModern-45_chillic-1,,MuishaungModern,45_chillic,mɨt₄kat₄,mɨt₄kat₄,m ɨ t ₄/⁵⁵ + k a t ₄/⁵⁵,,VanDam2025,,,^m ɨ t ₄ k a t ₄$,default,muit.kat,2024
 MuishaungNeedham-46_claw-1,,MuishaungNeedham,46_claw,jɒk.tʰɪn,jɒk.tʰɪn,j ɒ k + tʰ ɪ n,,Needham1897,,,^j ɒ k . tʰ ɪ n$,default,yok´thin,1897
-MuishaungModern-46_claw-1,,MuishaungModern,46_claw,ʒɐuk₄t̪ʰɨn₃,ʒɐuk₄t̪ʰɨn₃,ʒ ɐu k ⁴ + t̪ʰ ɨ n ³,,VanDam2025,,,^ʒ ɐu k ₄ t̪ʰ ɨ n ₃$,default,yvuk.httuinx,2024
+MuishaungModern-46_claw-1,,MuishaungModern,46_claw,ʒɐuk₄t̪ʰɨn₃,ʒɐuk₄t̪ʰɨn₃,ʒ ɐu k ₄/⁵⁵ + t̪ʰ ɨ n ₃/³³,,VanDam2025,,,^ʒ ɐu k ₄ t̪ʰ ɨ n ₃$,default,yvuk.httuinx,2024
 MuishaungNeedham-47_climbv-1,,MuishaungNeedham,47_climbv,dy,dy,d y,,Needham1897,,,^d y$,default,dü,1897
-MuishaungModern-47_climbv-1,,MuishaungModern,47_climbv,dɨ₁,dɨ₁,d ɨ ¹,,VanDam2025,,,^d ɨ ₁$,default,duiz,2024
+MuishaungModern-47_climbv-1,,MuishaungModern,47_climbv,dɨ₁,dɨ₁,d ɨ ₁/³¹,,VanDam2025,,,^d ɨ ₁$,default,duiz,2024
 MuishaungNeedham-48_clothchudder-1,,MuishaungNeedham,48_clothchudder,kʰɒi̯.tʰum,kʰɒi̯.tʰum,kʰ ɒi̯ + tʰ u m,,Needham1897,,,^kʰ ɒi̯ . tʰ u m$,default,khaithûm,1897
-MuishaungModern-48_clothchudder-1,,MuishaungModern,48_clothchudder,kʰɐi₁tʰum₃,kʰɐi₁tʰum₃,kʰ ɐ i ¹ + tʰ u m ³,,VanDam2025,,,^kʰ ɐ i ₁ tʰ u m ₃$,default,khvyz.htumc,2024
+MuishaungModern-48_clothchudder-1,,MuishaungModern,48_clothchudder,kʰɐi₁tʰum₃,kʰɐi₁tʰum₃,kʰ ɐ i ₁/³¹ + tʰ u m ₃/³³,,VanDam2025,,,^kʰ ɐ i ₁ tʰ u m ₃$,default,khvyz.htumc,2024
 MuishaungNeedham-49_cloud-1,,MuishaungNeedham,49_cloud,roŋ,roŋ,r o ŋ,,Needham1897,,,^r o ŋ$,default,rông,1897
 MuishaungNeedham-50_cold-1,,MuishaungNeedham,50_cold,rɒŋ.ʃuŋ,rɒŋ.ʃuŋ,r ɒ ŋ + ʃ u ŋ,,Needham1897,,,^r ɒ ŋ . ʃ u ŋ$,default,rong´shûng,1897
-MuishaungModern-50_cold-1,,MuishaungModern,50_cold,rɐuŋ₂suŋ₃,rɐuŋ₂suŋ₃,r ɐu ŋ ² + s u ŋ ³,,VanDam2025,,,^r ɐu ŋ ₂ s u ŋ ₃$,default,rvungx.sungc,2024
+MuishaungModern-50_cold-1,,MuishaungModern,50_cold,rɐuŋ₂suŋ₃,rɐuŋ₂suŋ₃,r ɐu ŋ ₂/²³¹ + s u ŋ ₃/³³,,VanDam2025,,,^r ɐu ŋ ₂ s u ŋ ₃$,default,rvungx.sungc,2024
 MuishaungNeedham-51_comb-1,,MuishaungNeedham,51_comb,ʧʰu,ʧʰu,tʃʰ u,,Needham1897,,,^ʧʰ u$,default,chû,1897
-MuishaungModern-51_comb-1,,MuishaungModern,51_comb,ʦu₁,ʦu₁,ts u ¹,,VanDam2025,,,^ʦ u ₁$,default,tsuz,2024
+MuishaungModern-51_comb-1,,MuishaungModern,51_comb,ʦu₁,ʦu₁,ts u ₁/³¹,,VanDam2025,,,^ʦ u ₁$,default,tsuz,2024
 MuishaungNeedham-52_comev-1,,MuishaungNeedham,52_comev,kɑ.lo,kɑ.lo,k ɑ + l o,,Needham1897,,,^k ɑ . l o$,default,kâ´lô,1897
-MuishaungModern-52_comev-1,,MuishaungModern,52_comev,ka₁loʔ₄,ka₁loʔ₄,k a ¹ + l o ʔ ⁴,,VanDam2025,,,^k a ₁ l o ʔ ₄$,default,kaz.loq,2024
+MuishaungModern-52_comev-1,,MuishaungModern,52_comev,ka₁loʔ₄,ka₁loʔ₄,k a ₁/³¹ + l o ʔ ₄/⁵⁵,,VanDam2025,,,^k a ₁ l o ʔ ₄$,default,kaz.loq,2024
 MuishaungNeedham-53_corpse-1,,MuishaungNeedham,53_corpse,mi.ti.kɑ,mi.ti.kɑ,m i + t i + k ɑ,,Needham1897,,,^m i . t i . k ɑ$,default,mî-tî´kâ,1897
-MuishaungModern-53_corpse-1,,MuishaungModern,53_corpse,miʔ₄ t̪ɨi₃ ka₁,miʔ₄_t̪ɨi₃_ka₁,m i ʔ ₄ + t̪ ɨi ₃ + k a ¹,,VanDam2025,,,^m i ʔ ₄_ t̪ ɨi ₃_ k a ₁$,default,miq thuiyc kaz,2024
+MuishaungModern-53_corpse-1,,MuishaungModern,53_corpse,miʔ₄ t̪ɨi₃ ka₁,miʔ₄_t̪ɨi₃_ka₁,m i ʔ ₄/⁵⁵ + t̪ ɨi ₃/³³ + k a ₁/³¹,,VanDam2025,,,^m i ʔ ₄_ t̪ ɨi ₃_ k a ₁$,default,miq thuiyc kaz,2024
 MuishaungNeedham-54_cookingpot-1,,MuishaungNeedham,54_cookingpot,tɪk,tɪk,t ɪ k,,Needham1897,,,^t ɪ k$,default,tik,1897
-MuishaungModern-54_cookingpot-1,,MuishaungModern,54_cookingpot,tɨk₄,tɨk₄,t ɨ k ⁴,,VanDam2025,,,^t ɨ k ₄$,default,tuik,2024
+MuishaungModern-54_cookingpot-1,,MuishaungModern,54_cookingpot,tɨk₄,tɨk₄,t ɨ k ₄/⁵⁵,,VanDam2025,,,^t ɨ k ₄$,default,tuik,2024
 MuishaungNeedham-55_cotton-1,,MuishaungNeedham,55_cotton,ri.py,ri.py,r i + p y,,Needham1897,,,^r i . p y$,default,rî´pü,1897
-MuishaungModern-55_cotton-1,,MuishaungModern,55_cotton,rɨi₁pɨ₃,rɨi₁pɨ₃,r ɨi ¹ + p ɨ ³,,VanDam2025,,,^r ɨi ₁ p ɨ ₃$,default,ruiyz.puic,2024
+MuishaungModern-55_cotton-1,,MuishaungModern,55_cotton,rɨi₁pɨ₃,rɨi₁pɨ₃,r ɨi ₁/³¹ + p ɨ ₃/³³,,VanDam2025,,,^r ɨi ₁ p ɨ ₃$,default,ruiyz.puic,2024
 MuishaungNeedham-56_cow-1,,MuishaungNeedham,56_cow,mɑn.su,mɑn.su,m ɑ n + s u,,Needham1897,,,^m ɑ n . s u$,default,mân´sû,1897
-MuishaungModern-56_cow-1,,MuishaungModern,56_cow,man₂sɨu₂,man₂sɨu₂,m a n ² + s ɨu ²,,VanDam2025,,,^m a n ₂ s ɨu ₂$,default,manx.suiux,2024
+MuishaungModern-56_cow-1,,MuishaungModern,56_cow,man₂sɨu₂,man₂sɨu₂,m a n ₂/²³¹ + s ɨu ₂/²³¹,,VanDam2025,,,^m a n ₂ s ɨu ₂$,default,manx.suiux,2024
 MuishaungNeedham-57_cry-1,,MuishaungNeedham,57_cry,ɑ.kwʌr,ɑ.kwʌr,ɑ + kʷ ʌ r,,Needham1897,,,^ɑ . kw ʌ r$,default,â´kwarr,1897
-MuishaungModern-57_cry-1,,MuishaungModern,57_cry,kʰor₂,kʰor₂,kʰ o r ²,,VanDam2025,,,^kʰ o r ₂$,default,khorx,2024
+MuishaungModern-57_cry-1,,MuishaungModern,57_cry,kʰor₂,kʰor₂,kʰ o r ₂/²³¹,,VanDam2025,,,^kʰ o r ₂$,default,khorx,2024
 MuishaungNeedham-58_crossbow-1,,MuishaungNeedham,58_crossbow,kɒŋ.ki,kɒŋ.ki,k ɒ ŋ + k i,,Needham1897,,,^k ɒ ŋ . k i$,default,kong´kî,1897
 MuishaungNeedham-59_crow-1,,MuishaungNeedham,59_crow,wu.kʰɑ,wu.kʰɑ,w u + kʰ ɑ,,Needham1897,,,^w u . kʰ ɑ$,default,wû´khâ,1897
-MuishaungModern-59_crow-1,,MuishaungModern,59_crow,βu₁kʰa₂,βu₁kʰa₂,β u ¹ + kʰ a ²,,VanDam2025,,,^β u ₁ kʰ a ₂$,default,wuz.khax,2024
+MuishaungModern-59_crow-1,,MuishaungModern,59_crow,βu₁kʰa₂,βu₁kʰa₂,β u ₁/³¹ + kʰ a ₂/²³¹,,VanDam2025,,,^β u ₁ kʰ a ₂$,default,wuz.khax,2024
 MuishaungNeedham-60_dancev-1,,MuishaungNeedham,60_dancev,βʌ.nɤm,βʌ.nɤm,β ʌ + n ɤ m,,Needham1897,,,^β ʌ . n ɤ m$,default,va´nerm,1897
-MuishaungModern-60_dancev-1,,MuishaungModern,60_dancev,βə₀nɤm₁,βə₀nɤm₁,β ə ⁰ n ɤ m ¹,,VanDam2025,,,^β ə ₀ n ɤ m ₁$,default,wv.nuemz,2024
+MuishaungModern-60_dancev-1,,MuishaungModern,60_dancev,βə₀nɤm₁,βə₀nɤm₁,β ə ₀/⁰ n ɤ m ₁/³¹,,VanDam2025,,,^β ə ₀ n ɤ m ₁$,default,wv.nuemz,2024
 MuishaungNeedham-61_daughter-1,,MuishaungNeedham,61_daughter,jɑ.ʃɪk.ʃɑ/jɑ.ʃɪk.ʃɑ̃,jɑ.ʃɪk.ʃɑ,j ɑ + ʃ ɪ k + ʃ ɑ,,Needham1897,,,^j ɑ . ʃ ɪ k . ʃ ɑ$,default,yâ´shikshâ/yâ´shikshâṉ,1897
 MuishaungNeedham-61_daughter-2,,MuishaungNeedham,61_daughter,jɑ.ʃɪk.ʃɑ/jɑ.ʃɪk.ʃɑ̃,jɑ.ʃɪk.ʃɑ̃,j ɑ + ʃ ɪ k + ʃ ɑ̃,,Needham1897,,,^j ɑ . ʃ ɪ k . ʃ ɑ̃$,default,yâ´shikshâ/yâ´shikshâṉ,1897
-MuishaungModern-61_daughter-1,,MuishaungModern,61_daughter,ʒal₂ʨɨk₄sa₁,ʒal₂ʨɨk₄sa₁,ʒ a l ² + tɕ ɨ k ⁴ + s a ¹,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄ s a ₁$,default,yalx.jik.saz,2024
+MuishaungModern-61_daughter-1,,MuishaungModern,61_daughter,ʒal₂ʨɨk₄sa₁,ʒal₂ʨɨk₄sa₁,ʒ a l ₂/²³¹ + tɕ ɨ k ₄/⁵⁵ + s a ₁/³¹,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄ s a ₁$,default,yalx.jik.saz,2024
 MuishaungNeedham-62_today-1,,MuishaungNeedham,62_today,tʌ.ni,tʌ.ni,t ʌ + n i,,Needham1897,,,^t ʌ . n i$,default,ta´nî,1897
-MuishaungModern-62_today-1,,MuishaungModern,62_today,tə₀n̪ɨiʔ₄,tə₀n̪ɨiʔ₄,t ə ⁰ n̪ ɨi ʔ ⁴,,VanDam2025,,,^t ə ₀ n̪ ɨi ʔ ₄$,default,tv.nhuiyq,2024
+MuishaungModern-62_today-1,,MuishaungModern,62_today,tə₀n̪ɨiʔ₄,tə₀n̪ɨiʔ₄,t ə ₀/⁰ n̪ ɨi ʔ ₄/⁵⁵,,VanDam2025,,,^t ə ₀ n̪ ɨi ʔ ₄$,default,tv.nhuiyq,2024
 MuishaungNeedham-63_morrow-1,,MuishaungNeedham,63_morrow,i.nʌp,i.nʌp,i + n ʌ p,,Needham1897,,,^i . n ʌ p$,default,î´nap,1897
-MuishaungModern-63_morrow-1,,MuishaungModern,63_morrow,i₁nɐp₄,i₁nɐp₄,i ¹ + n ɐ p ⁴,,VanDam2025,,,^i ₁ n ɐ p ₄$,default,iz.nvp,2024
+MuishaungModern-63_morrow-1,,MuishaungModern,63_morrow,i₁nɐp₄,i₁nɐp₄,i ₁/³¹ + n ɐ p ₄/⁵⁵,,VanDam2025,,,^i ₁ n ɐ p ₄$,default,iz.nvp,2024
 MuishaungNeedham-64_dhao-1,,MuishaungNeedham,64_dhao,jɒu̯ŋ,jɒu̯ŋ,j ɒu̯ ŋ,,Needham1897,,,^j ɒu̯ ŋ$,default,yaung,1897
-MuishaungModern-64_dhao-1,,MuishaungModern,64_dhao,ʒɐuŋ₁,ʒɐuŋ₁,ʒ ɐu ŋ ¹,,VanDam2025,,,^ʒ ɐu ŋ ₁$,default,yvungz,2024
+MuishaungModern-64_dhao-1,,MuishaungModern,64_dhao,ʒɐuŋ₁,ʒɐuŋ₁,ʒ ɐu ŋ ₁/³¹,,VanDam2025,,,^ʒ ɐu ŋ ₁$,default,yvungz,2024
 MuishaungNeedham-65_daily-1,,MuishaungNeedham,65_daily,βʌ.rɒŋ.ni,βʌ.rɒŋ.ni,β ʌ + r ɒ ŋ + n i,,Needham1897,,,^β ʌ . r ɒ ŋ . n i$,default,varong´nî,1897
-MuishaungModern-65_daily-1,,MuishaungModern,65_daily,βə₀rɐuŋ₂n̪ɨiʔ₄,βə₀rɐuŋ₂n̪ɨiʔ₄,β ə ⁰ r ɐu ŋ ² + n̪ ɨi ʔ ⁴,,VanDam2025,,,^β ə ₀ r ɐu ŋ ₂ n̪ ɨi ʔ ₄$,default,wv.rvungx.nhuiyq,2024
+MuishaungModern-65_daily-1,,MuishaungModern,65_daily,βə₀rɐuŋ₂n̪ɨiʔ₄,βə₀rɐuŋ₂n̪ɨiʔ₄,β ə ₀/⁰ r ɐu ŋ ₂/²³¹ + n̪ ɨi ʔ ₄/⁵⁵,,VanDam2025,,,^β ə ₀ r ɐu ŋ ₂ n̪ ɨi ʔ ₄$,default,wv.rvungx.nhuiyq,2024
 MuishaungNeedham-66_deer-1,,MuishaungNeedham,66_deer,ŋʌm,ŋʌm,ŋ ʌ m,,Needham1897,,,^ŋ ʌ m$,default,ngam,1897
-MuishaungModern-66_deer-1,,MuishaungModern,66_deer,ŋɐm₂,ŋɐm₂,ŋ ɐ m ²,,VanDam2025,,,^ŋ ɐ m ₂$,default,ngvmx,2024
+MuishaungModern-66_deer-1,,MuishaungModern,66_deer,ŋɐm₂,ŋɐm₂,ŋ ɐ m ₂/²³¹,,VanDam2025,,,^ŋ ɐ m ₂$,default,ngvmx,2024
 MuishaungNeedham-67_dhanpaddy-1,,MuishaungNeedham,67_dhanpaddy,sʌm,sʌm,s ʌ m,,Needham1897,,,^s ʌ m$,default,sam,1897
-MuishaungModern-67_dhanpaddy-1,,MuishaungModern,67_dhanpaddy,ʦɐm₁,ʦɐm₁,ts ɐ m ¹,,VanDam2025,,,^ʦ ɐ m ₁$,default,tsvmz,2024
+MuishaungModern-67_dhanpaddy-1,,MuishaungModern,67_dhanpaddy,ʦɐm₁,ʦɐm₁,ts ɐ m ₁/³¹,,VanDam2025,,,^ʦ ɐ m ₁$,default,tsvmz,2024
 MuishaungNeedham-68_different-1,,MuishaungNeedham,68_different,ʌ.dɒi̯,ʌ.dɒi̯,ʌ + d ɒi̯,,Needham1897,,,^ʌ . d ɒi̯ $,default,adai,1897
-MuishaungModern-68_different-1,,MuishaungModern,68_different,ə₀dɐi₂,ə₀dɐi₂,ə ⁰ d ɐ i ²,,VanDam2025,,,^ə ₀ d ɐ i ₂$,default,v.dvyx,2024
+MuishaungModern-68_different-1,,MuishaungModern,68_different,ə₀dɐi₂,ə₀dɐi₂,ə ₀/⁰ d ɐ i ₂/²³¹,,VanDam2025,,,^ə ₀ d ɐ i ₂$,default,v.dvyx,2024
 MuishaungNeedham-69_dog-1,,MuishaungNeedham,69_dog,guɪ.hɛ̃,guɪ.hɛ̃,g u ɪ + h ɛ̃,,Needham1897,,,^g u ɪ . h ɛ̃$,default,gui´heṉ,1897
-MuishaungModern-69_dog-1,,MuishaungModern,69_dog,ɣui₁he₂,ɣui₁he₂,ɣ u i ¹ + h e ²,,VanDam2025,,,^ɣ u i ₁ h e ₂$,default,ghuiz.hex,2024
+MuishaungModern-69_dog-1,,MuishaungModern,69_dog,ɣui₁he₂,ɣui₁he₂,ɣ u i ₁/³¹ + h e ₂/²³¹,,VanDam2025,,,^ɣ u i ₁ h e ₂$,default,ghuiz.hex,2024
 MuishaungNeedham-70_door-1,,MuishaungNeedham,70_door,kʰɑ.ly,kʰɑ.ly,kʰ ɑ + l y,,Needham1897,,,^kʰ ɑ . l y$,default,khâ´lü,1897
-MuishaungModern-70_door-1,,MuishaungModern,70_door,ka₃lɨ₂,ka₃lɨ₂,k a ³ + l ɨ ²,,VanDam2025,,,^k a ₃ l ɨ ₂$,default,kac.luix,2024
+MuishaungModern-70_door-1,,MuishaungModern,70_door,ka₃lɨ₂,ka₃lɨ₂,k a ₃/³³ + l ɨ ₂/²³¹,,VanDam2025,,,^k a ₃ l ɨ ₂$,default,kac.luix,2024
 MuishaungNeedham-71_drink-1,,MuishaungNeedham,71_drink,nɪŋ,nɪŋ,n ɪ ŋ,,Needham1897,,,^n ɪ ŋ$,default,ning,1897
-MuishaungModern-71_drink-1,,MuishaungModern,71_drink,nɨŋ₂,nɨŋ₂,n ɨ ŋ ²,,VanDam2025,,,^n ɨ ŋ ₂$,default,nuingx,2024
+MuishaungModern-71_drink-1,,MuishaungModern,71_drink,nɨŋ₂,nɨŋ₂,n ɨ ŋ ₂/²³¹,,VanDam2025,,,^n ɨ ŋ ₂$,default,nuingx,2024
 MuishaungNeedham-72_drinkingcupofbamboo-1,,MuishaungNeedham,72_drinkingcupofbamboo,kʰʌp,kʰʌp,kʰ ʌ p,,Needham1897,,,^kʰ ʌ p$,default,khap,1897
-MuishaungModern-72_drinkingcupofbamboo-1,,MuishaungModern,72_drinkingcupofbamboo,kʰap₄,kʰap₄,kʰ a p ⁴,,VanDam2025,,,^kʰ a p ₄$,default,khap,2024
+MuishaungModern-72_drinkingcupofbamboo-1,,MuishaungModern,72_drinkingcupofbamboo,kʰap₄,kʰap₄,kʰ a p ₄/⁵⁵,,VanDam2025,,,^kʰ a p ₄$,default,khap,2024
 MuishaungNeedham-73_drum-1,,MuishaungNeedham,73_drum,nuŋ,nuŋ,n u ŋ,,Needham1897,,,^n u ŋ$,default,nûng,1897
-MuishaungModern-73_drum-1,,MuishaungModern,73_drum,nuŋ₂,nuŋ₂,n u ŋ ²,,VanDam2025,,,^n u ŋ ₂$,default,nungx,2024
+MuishaungModern-73_drum-1,,MuishaungModern,73_drum,nuŋ₂,nuŋ₂,n u ŋ ₂/²³¹,,VanDam2025,,,^n u ŋ ₂$,default,nungx,2024
 MuishaungNeedham-74_beatdrum-1,,MuishaungNeedham,74_beatdrum,nuŋ.tɪm,nuŋ.tɪm,n u ŋ + t ɪ m,,Needham1897,,,^n u ŋ . t ɪ m$,default,nungtim,1897
-MuishaungModern-74_beatdrum-1,,MuishaungModern,74_beatdrum,nuŋ₂ tɨm₁,nuŋ₂_tɨm₁,n u ŋ ₂ + t ɨ m ¹,,VanDam2025,,,^n u ŋ ₂_ t ɨ m ₁$,default,nungx tuimz,2024
+MuishaungModern-74_beatdrum-1,,MuishaungModern,74_beatdrum,nuŋ₂ tɨm₁,nuŋ₂_tɨm₁,n u ŋ ₂/²³¹ + t ɨ m ₁/³¹,,VanDam2025,,,^n u ŋ ₂_ t ɨ m ₁$,default,nungx tuimz,2024
 MuishaungNeedham-75_dung-1,,MuishaungNeedham,75_dung,diˀ,diˀ,d i ˀ/ʔ,,Needham1897,,,^d iˀ$,default,dî,1897
-MuishaungModern-75_dung-1,,MuishaungModern,75_dung,diʔ₄,diʔ₄,d i ʔ ⁴,,VanDam2025,,,^d i ʔ ₄$,default,diq,2024
+MuishaungModern-75_dung-1,,MuishaungModern,75_dung,diʔ₄,diʔ₄,d i ʔ ₄/⁵⁵,,VanDam2025,,,^d i ʔ ₄$,default,diq,2024
 MuishaungNeedham-76_dust-1,,MuishaungNeedham,76_dust,mut.guɪ,mut.guɪ,m u t + g u ɪ,,Needham1897,,,^m u t . g u ɪ$,default,mût´gui,1897
-MuishaungModern-76_dust-1,,MuishaungModern,76_dust,bok₄kʰɨi₂,bok₄kʰɨi₂,b o k ⁴ + kʰ ɨi ²,,VanDam2025,,,^b o k ₄ kʰ ɨi ₂$,default,bok.khuiyx,2024
+MuishaungModern-76_dust-1,,MuishaungModern,76_dust,bok₄kʰɨi₂,bok₄kʰɨi₂,b o k ₄/⁵⁵ + kʰ ɨi ₂/²³¹,,VanDam2025,,,^b o k ₄ kʰ ɨi ₂$,default,bok.khuiyx,2024
 MuishaungNeedham-77_ear-1,,MuishaungNeedham,77_ear,nɑ,nɑ,n ɑ,,Needham1897,,,^n ɑ$,default,nâ,1897
-MuishaungModern-77_ear-1,,MuishaungModern,77_ear,na₃,na₃,n a ³,,VanDam2025,,,^n a ₃$,default,nac,2024
+MuishaungModern-77_ear-1,,MuishaungModern,77_ear,na₃,na₃,n a ₃/³³,,VanDam2025,,,^n a ₃$,default,nac,2024
 MuishaungNeedham-78_earring-1,,MuishaungNeedham,78_earring,nɑ.ʧʰi,nɑ.ʧʰi,n ɑ + tʃʰ i,,Needham1897,,,^n ɑ . ʧʰ i$,default,nâchî,1897
-MuishaungModern-78_earring-1,,MuishaungModern,78_earring,na₃ʨi₃,na₃ʨi₃,n a ³ + tɕ i ³,,VanDam2025,,,^n a ₃ ʨ i ₃$,default,nac.jic,2024
+MuishaungModern-78_earring-1,,MuishaungModern,78_earring,na₃ʨi₃,na₃ʨi₃,n a ₃/³³ + tɕ i ₃/³³,,VanDam2025,,,^n a ₃ ʨ i ₃$,default,nac.jic,2024
 MuishaungNeedham-79_earth-1,,MuishaungNeedham,79_earth,gɑˀ,gɑˀ,g ɑˀ,,Needham1897,,,^g ɑˀ$,default,gâ,1897
-MuishaungModern-79_earth-1,,MuishaungModern,79_earth,ɣaʔ₄,ɣaʔ₄,ɣ a ʔ ⁴,,VanDam2025,,,^ɣ a ʔ ₄$,default,ghaq,2024
+MuishaungModern-79_earth-1,,MuishaungModern,79_earth,ɣaʔ₄,ɣaʔ₄,ɣ a ʔ ₄/⁵⁵,,VanDam2025,,,^ɣ a ʔ ₄$,default,ghaq,2024
 MuishaungNeedham-80_eat-1,,MuishaungNeedham,80_eat,sɑ,sɑ,s ɑ,,Needham1897,,,^s ɑ$,default,sâ,1897
-MuishaungModern-80_eat-1,,MuishaungModern,80_eat,saʔ₄,saʔ₄,s a ʔ ⁴,,VanDam2025,,,^s a ʔ ₄$,default,saq,2024
+MuishaungModern-80_eat-1,,MuishaungModern,80_eat,saʔ₄,saʔ₄,s a ʔ ₄/⁵⁵,,VanDam2025,,,^s a ʔ ₄$,default,saq,2024
 MuishaungNeedham-81_egg-1,,MuishaungNeedham,81_egg,wu.di,wu.di,w u + d i,,Needham1897,,,^w u . d i$,default,wû´dî,1897
-MuishaungModern-81_egg-1,,MuishaungModern,81_egg,βu₁ti₁,βu₁ti₁,β u ¹ + t i ¹,,VanDam2025,,,^β u ₁ t i ₁$,default,wuz.tiz,2024
+MuishaungModern-81_egg-1,,MuishaungModern,81_egg,βu₁ti₁,βu₁ti₁,β u ₁/³¹ + t i ₁/³¹,,VanDam2025,,,^β u ₁ t i ₁$,default,wuz.tiz,2024
 MuishaungNeedham-82_empty-1,,MuishaungNeedham,82_empty,ʃɒk.tʰy,ʃɒk.tʰy,ʃ ɒ k + tʰ y,,Needham1897,,,^ʃ ɒ k . tʰ y$,default,shok´thü,1897
-MuishaungModern-82_empty-1,,MuishaungModern,82_empty,ʃɐuk₄t̪ʰɨ₁,ʃɐuk₄t̪ʰɨ₁,ʃ ɐu k ⁴ + t̪ʰ ɨ ¹,,VanDam2025,,,^ʃ ɐu k ₄ t̪ʰ ɨ ₁$,default,shvuk.httuiz,2024
+MuishaungModern-82_empty-1,,MuishaungModern,82_empty,ʃɐuk₄t̪ʰɨ₁,ʃɐuk₄t̪ʰɨ₁,ʃ ɐu k ₄/⁵⁵ + t̪ʰ ɨ ₁/³¹,,VanDam2025,,,^ʃ ɐu k ₄ t̪ʰ ɨ ₁$,default,shvuk.httuiz,2024
 MuishaungNeedham-83_eye-1,,MuishaungNeedham,83_eye,mʌk,mʌk,m ʌ k,,Needham1897,,,^m ʌ k$,default,mak,1897
-MuishaungModern-83_eye-1,,MuishaungModern,83_eye,mɨk₄,mɨk₄,m ɨ k ⁴,,VanDam2025,,,^m ɨ k ₄$,default,muik,2024
+MuishaungModern-83_eye-1,,MuishaungModern,83_eye,mɨk₄,mɨk₄,m ɨ k ₄/⁵⁵,,VanDam2025,,,^m ɨ k ₄$,default,muik,2024
 MuishaungNeedham-84_face-1,,MuishaungNeedham,84_face,tʰʌl,tʰʌl,tʰ ʌ l,,Needham1897,,,^tʰ ʌ l$,default,thal,1897
-MuishaungModern-84_face-1,,MuishaungModern,84_face,tʰɐl₂,tʰɐl₂,tʰ ɐ l ²,,VanDam2025,,,^tʰ ɐ l ₂$,default,htvlx,2024
+MuishaungModern-84_face-1,,MuishaungModern,84_face,tʰɐl₂,tʰɐl₂,tʰ ɐ l ₂/²³¹,,VanDam2025,,,^tʰ ɐ l ₂$,default,htvlx,2024
 MuishaungNeedham-85_false-1,,MuishaungNeedham,85_false,ɑ.rɒt,ɑ.rɒt,ɑ + r ɒ t,,Needham1897,,,^ɑ . r ɒ t$,default,â´rot,1897
-MuishaungModern-85_false-1,,MuishaungModern,85_false,ə₀roɐt₄,ə₀roɐt₄,ə ⁰ r o ɐ t ⁴,,VanDam2025,,,^ə ₀ r o ɐ t ₄$,default,v.rovt,2024
+MuishaungModern-85_false-1,,MuishaungModern,85_false,ə₀roɐt₄,ə₀roɐt₄,ə ₀/⁰ r o ɐ t ₄/⁵⁵,,VanDam2025,,,^ə ₀ r o ɐ t ₄$,default,v.rovt,2024
 MuishaungNeedham-86_elephant-1,,MuishaungNeedham,86_elephant,ʧɑn,ʧɑn,tʃ ɑ n,,Needham1897,,,^ʧ ɑ n$,default,jân,1897
-MuishaungModern-86_elephant-1,,MuishaungModern,86_elephant,ʨɔ₁,ʨɔ₁,tɕ ɔ ¹,,VanDam2025,,,^ʨ ɔ ₁$,default,jawz,2024
+MuishaungModern-86_elephant-1,,MuishaungModern,86_elephant,ʨɔ₁,ʨɔ₁,tɕ ɔ ₁/³¹,,VanDam2025,,,^ʨ ɔ ₁$,default,jawz,2024
 MuishaungNeedham-87_fatnotlean-1,,MuishaungNeedham,87_fatnotlean,ɑ.py,ɑ.py,ɑ + p y,,Needham1897,,,^ɑ . p y$,default,â´pü,1897
-MuishaungModern-87_fatnotlean-1,,MuishaungModern,87_fatnotlean,ə₀pɨ₁,ə₀pɨ₁,ə ⁰ p ɨ ¹,,VanDam2025,,,^ə ₀ p ɨ ₁$,default,v.puiz,2024
+MuishaungModern-87_fatnotlean-1,,MuishaungModern,87_fatnotlean,ə₀pɨ₁,ə₀pɨ₁,ə ₀/⁰ p ɨ ₁/³¹,,VanDam2025,,,^ə ₀ p ɨ ₁$,default,v.puiz,2024
 MuishaungNeedham-88_far-1,,MuishaungNeedham,88_far,ɑ.ʧɑl,ɑ.ʧɑl,ɑ + tʃ ɑ l,,Needham1897,,,^ɑ . ʧ ɑ l$,default,â´jâl,1897
-MuishaungModern-88_far-1,,MuishaungModern,88_far,ʒal₁,ʒal₁,ʒ a l ¹,,VanDam2025,,,^ʒ a l ₁$,default,yalz,2024
+MuishaungModern-88_far-1,,MuishaungModern,88_far,ʒal₁,ʒal₁,ʒ a l ₁/³¹,,VanDam2025,,,^ʒ a l ₁$,default,yalz,2024
 MuishaungNeedham-89_father-1,,MuishaungNeedham,89_father,βɑ,βɑ,β ɑ,,Needham1897,,,^β ɑ$,default,vâ,1897
-MuishaungModern-89_father-1,,MuishaungModern,89_father,ə₀βa₁,ə₀βa₁,ə ⁰ β a ¹,,VanDam2025,,,^ə ₀ β a ₁$,default,v.waz,2024
+MuishaungModern-89_father-1,,MuishaungModern,89_father,ə₀βa₁,ə₀βa₁,ə ₀/⁰ β a ₁/³¹,,VanDam2025,,,^ə ₀ β a ₁$,default,v.waz,2024
 MuishaungNeedham-90_fear-1,,MuishaungNeedham,90_fear,ɑ.hi,ɑ.hi,ɑ + h i,,Needham1897,,,^ɑ . h i$,default,â´hî,1897
-MuishaungModern-90_fear-1,,MuishaungModern,90_fear,ə₀hi₁,ə₀hi₁,ə ⁰ h i ¹,,VanDam2025,,,^ə ₀ h i ₁$,default,v.hiz,2024
+MuishaungModern-90_fear-1,,MuishaungModern,90_fear,ə₀hi₁,ə₀hi₁,ə ₀/⁰ h i ₁/³¹,,VanDam2025,,,^ə ₀ h i ₁$,default,v.hiz,2024
 MuishaungNeedham-91_feather-1,,MuishaungNeedham,91_feather,mul,mul,m u l,,Needham1897,,,^m u l$,default,mûl,1897
-MuishaungModern-91_feather-1,,MuishaungModern,91_feather,mul₁,mul₁,m u l ¹,,VanDam2025,,,^m u l ₁$,default,mulz,2024
+MuishaungModern-91_feather-1,,MuishaungModern,91_feather,mul₁,mul₁,m u l ₁/³¹,,VanDam2025,,,^m u l ₁$,default,mulz,2024
 MuishaungNeedham-92_female-1,,MuishaungNeedham,92_female,jɑl.ʃɪk/jɑ.ʃɪk,jɑl.ʃɪk,j ɑ l + ʃ ɪ k,,Needham1897,,,^j ɑ l . ʃ ɪ k$,default,yâl´shik/yâ´shik,1897
 MuishaungNeedham-92_female-2,,MuishaungNeedham,92_female,jɑl.ʃɪk/jɑ.ʃɪk,jɑ.ʃɪk,j ɑ + ʃ ɪ k,,Needham1897,,,^j ɑ . ʃ ɪ k$,default,yâl´shik/yâ´shik,1897
-MuishaungModern-92_female-1,,MuishaungModern,92_female,ʒal₂ʨɨk₄,ʒal₂ʨɨk₄,ʒ a l ² + tɕ ɨ k ⁴,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄$,default,yalx.juik,2024
+MuishaungModern-92_female-1,,MuishaungModern,92_female,ʒal₂ʨɨk₄,ʒal₂ʨɨk₄,ʒ a l ₂/²³¹ + tɕ ɨ k ₄/⁵⁵,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄$,default,yalx.juik,2024
 MuishaungNeedham-93_finger-1,,MuishaungNeedham,93_finger,jɒk.ʃi,jɒk.ʃi,j ɒ k + ʃ i,,Needham1897,,,^j ɒ k . ʃ i$,default,yok´shî,1897
-MuishaungModern-93_finger-1,,MuishaungModern,93_finger,ʒɐuk₄ʃi₂,ʒɐuk₄ʃi₂,ʒ ɐu k ⁴ + ʃ i ²,,VanDam2025,,,^ʒ ɐu k ₄ ʃ i ₂$,default,yvuk.shix,2024
+MuishaungModern-93_finger-1,,MuishaungModern,93_finger,ʒɐuk₄ʃi₂,ʒɐuk₄ʃi₂,ʒ ɐu k ₄/⁵⁵ + ʃ i ₂/²³¹,,VanDam2025,,,^ʒ ɐu k ₄ ʃ i ₂$,default,yvuk.shix,2024
 MuishaungNeedham-94_fire-1,,MuishaungNeedham,94_fire,βʌr,βʌr,β ʌ r,,Needham1897,,,^β ʌ r$,default,varr,1897
-MuishaungModern-94_fire-1,,MuishaungModern,94_fire,βɐr₁,βɐr₁,β ɐ r ¹,,VanDam2025,,,^β ɐ r ₁$,default,wvrz,2024
+MuishaungModern-94_fire-1,,MuishaungModern,94_fire,βɐr₁,βɐr₁,β ɐ r ₁/³¹,,VanDam2025,,,^β ɐ r ₁$,default,wvrz,2024
 MuishaungNeedham-95_fireplace-1,,MuishaungNeedham,95_fireplace,βʌr.kũ,βʌr.kũ,β ʌ r + k ũ,,Needham1897,,,^β ʌ r . k ũ$,default,varrkuṉ,1897
-MuishaungModern-95_fireplace-1,,MuishaungModern,95_fireplace,tap₄kʰu₂,tap₄kʰu₂,t a p ⁴ + kʰ u ²,,VanDam2025,,,^t a p ₄ kʰ u ₂$,default,tap.khux,2024
+MuishaungModern-95_fireplace-1,,MuishaungModern,95_fireplace,tap₄kʰu₂,tap₄kʰu₂,t a p ₄/⁵⁵ + kʰ u ₂/²³¹,,VanDam2025,,,^t a p ₄ kʰ u ₂$,default,tap.khux,2024
 MuishaungNeedham-96_firegun-1,,MuishaungNeedham,96_firegun,gɑp,gɑp,g ɑ p,,Needham1897,,,^g ɑ p$,default,gâp,1897
-MuishaungModern-96_firegun-1,,MuishaungModern,96_firegun,ɣap₄,ɣap₄,ɣ a p ⁴,,VanDam2025,,,^ɣ a p ₄$,default,ghap,2024
+MuishaungModern-96_firegun-1,,MuishaungModern,96_firegun,ɣap₄,ɣap₄,ɣ a p ₄/⁵⁵,,VanDam2025,,,^ɣ a p ₄$,default,ghap,2024
 MuishaungNeedham-97_fish-1,,MuishaungNeedham,97_fish,ŋɑˀ,ŋɑˀ,ŋ ɑˀ,,Needham1897,,,^ŋ ɑˀ$,default,ngâ,1897
-MuishaungModern-97_fish-1,,MuishaungModern,97_fish,ŋaʔ₄,ŋaʔ₄,ŋ a ʔ ⁴,,VanDam2025,,,^ŋ a ʔ ₄$,default,ngaq,2024
+MuishaungModern-97_fish-1,,MuishaungModern,97_fish,ŋaʔ₄,ŋaʔ₄,ŋ a ʔ ₄/⁵⁵,,VanDam2025,,,^ŋ a ʔ ₄$,default,ngaq,2024
 MuishaungNeedham-98_flame-1,,MuishaungNeedham,98_flame,βɑ̃,βɑ̃,β ɑ̃,,Needham1897,,,^β ɑ̃$,default,vâṉ,1897
 MuishaungNeedham-99_flea-1,,MuishaungNeedham,99_flea,kʌr.kʰi,kʌr.kʰi,k ʌ r + kʰ i,,Needham1897,,,^k ʌ r . kʰ i$,default,kar´khî,1897
-MuishaungModern-99_flea-1,,MuishaungModern,99_flea,tə₀li₃,tə₀li₃,t ə ⁰ l i ³,,VanDam2025,,,^t ə ₀ l i ₃$,default,tv.lic,2024
+MuishaungModern-99_flea-1,,MuishaungModern,99_flea,tə₀li₃,tə₀li₃,t ə ₀/⁰ l i ₃/³³,,VanDam2025,,,^t ə ₀ l i ₃$,default,tv.lic,2024
 MuishaungNeedham-100_flintstriker-1,,MuishaungNeedham,100_flintstriker,βʌr.pɒi̯,βʌr.pɒi̯,β ʌ r + p ɒi̯,,Needham1897,,,^β ʌ r . p ɒi̯ $,default,varrpai,1897
-MuishaungModern-100_flintstriker-1,,MuishaungModern,100_flintstriker,βɐr₁pai₃,βɐr₁pai₃,β ɐ r ¹ + p a i ³,,VanDam2025,,,^β ɐ r ₁ p a i ₃$,default,wvrz.payc,2024
+MuishaungModern-100_flintstriker-1,,MuishaungModern,100_flintstriker,βɐr₁pai₃,βɐr₁pai₃,β ɐ r ₁/³¹ + p a i ₃/³³,,VanDam2025,,,^β ɐ r ₁ p a i ₃$,default,wvrz.payc,2024
 MuishaungNeedham-101_flyv-1,,MuishaungNeedham,101_flyv,bɑ,bɑ,b ɑ,,Needham1897,,,^b ɑ$,default,bâ,1897
-MuishaungModern-101_flyv-1,,MuishaungModern,101_flyv,ba₁,ba₁,b a ¹,,VanDam2025,,,^b a ₁$,default,baz,2024
+MuishaungModern-101_flyv-1,,MuishaungModern,101_flyv,ba₁,ba₁,b a ₁/³¹,,VanDam2025,,,^b a ₁$,default,baz,2024
 MuishaungNeedham-102_fog-1,,MuishaungNeedham,102_fog,pʰʌrm,pʰʌrm,pʰ ʌ r m,,Needham1897,,,^pʰ ʌ r m$,default,pharm,1897
-MuishaungModern-102_fog-1,,MuishaungModern,102_fog,pʰɤm₂,pʰɤm₂,pʰ ɤ m ²,,VanDam2025,,,^pʰ ɤ m ₂$,default,phuemx,2024
+MuishaungModern-102_fog-1,,MuishaungModern,102_fog,pʰɤm₂,pʰɤm₂,pʰ ɤ m ₂/²³¹,,VanDam2025,,,^pʰ ɤ m ₂$,default,phuemx,2024
 MuishaungNeedham-103_foot-1,,MuishaungNeedham,103_foot,jɑ.pʰɑ,jɑ.pʰɑ,j ɑ + pʰ ɑ,,Needham1897,,,^j ɑ . pʰ ɑ$,default,yâ´phâ,1897
-MuishaungModern-103_foot-1,,MuishaungModern,103_foot,ʒa₁pʰa₃,ʒa₁pʰa₃,ʒ a ¹ + pʰ a ³,,VanDam2025,,,^ʒ a ₁ pʰ a ₃$,default,yaz.phac,2024
+MuishaungModern-103_foot-1,,MuishaungModern,103_foot,ʒa₁pʰa₃,ʒa₁pʰa₃,ʒ a ₁/³¹ + pʰ a ₃/³³,,VanDam2025,,,^ʒ a ₁ pʰ a ₃$,default,yaz.phac,2024
 MuishaungNeedham-104_forget-1,,MuishaungNeedham,104_forget,ɑ.lɒk,ɑ.lɒk,ɑ + l ɒ k,,Needham1897,,,^ɑ . l ɒ k$,default,â´lok,1897
-MuishaungModern-104_forget-1,,MuishaungModern,104_forget,ə₀lɐuk₄,ə₀lɐuk₄,ə ⁰ l ɐu k ⁴,,VanDam2025,,,^ə ₀ l ɐu k ₄$,default,v.lvuk,2024
+MuishaungModern-104_forget-1,,MuishaungModern,104_forget,ə₀lɐuk₄,ə₀lɐuk₄,ə ₀/⁰ l ɐu k ₄/⁵⁵,,VanDam2025,,,^ə ₀ l ɐu k ₄$,default,v.lvuk,2024
 MuishaungNeedham-105_forest-1,,MuishaungNeedham,105_forest,lɪŋ,lɪŋ,l ɪ ŋ,,Needham1897,,,^l ɪ ŋ$,default,ling,1897
-MuishaungModern-105_forest-1,,MuishaungModern,105_forest,lɨŋ₂,lɨŋ₂,l ɨ ŋ ²,,VanDam2025,,,^l ɨ ŋ ₂$,default,luingx,2024
+MuishaungModern-105_forest-1,,MuishaungModern,105_forest,lɨŋ₂,lɨŋ₂,l ɨ ŋ ₂/²³¹,,VanDam2025,,,^l ɨ ŋ ₂$,default,luingx,2024
 MuishaungNeedham-106_forehead-1,,MuishaungNeedham,106_forehead,kʰɑŋ,kʰɑŋ,kʰ ɑ ŋ,,Needham1897,,,^kʰ ɑ ŋ$,default,khâng,1897
-MuishaungModern-106_forehead-1,,MuishaungModern,106_forehead,kʰɐuŋ₂kɨm₂,kʰɐuŋ₂kɨm₂,kʰ ɐu ŋ ² + k ɨ m ²,,VanDam2025,,,^kʰ ɐu ŋ ₂ k ɨ m ₂$,default,khvungx.kuimx,2024
+MuishaungModern-106_forehead-1,,MuishaungModern,106_forehead,kʰɐuŋ₂kɨm₂,kʰɐuŋ₂kɨm₂,kʰ ɐu ŋ ₂/²³¹ + k ɨ m ₂/²³¹,,VanDam2025,,,^kʰ ɐu ŋ ₂ k ɨ m ₂$,default,khvungx.kuimx,2024
 MuishaungNeedham-107_fowl-1,,MuishaungNeedham,107_fowl,wu,wu,w u,,Needham1897,,,^w u$,default,wû,1897
-MuishaungModern-107_fowl-1,,MuishaungModern,107_fowl,βu₁,βu₁,β u ¹,,VanDam2025,,,^β u ₁$,default,wuz,2024
+MuishaungModern-107_fowl-1,,MuishaungModern,107_fowl,βu₁,βu₁,β u ₁/³¹,,VanDam2025,,,^β u ₁$,default,wuz,2024
 MuishaungNeedham-108_friend-1,,MuishaungNeedham,108_friend,i.hi.wɑ,i.hi.wɑ,i + h i + w ɑ,,Needham1897,,,^i . h i . w ɑ$,default,î-hî´wâ,1897
 MuishaungNeedham-109_getupvrise-1,,MuishaungNeedham,109_getupvrise,kʌ.tɛn,kʌ.tɛn,k ʌ + t ɛ n,,Needham1897,,,^k ʌ . t ɛ n$,default,ka´ten,1897
-MuishaungModern-109_getupvrise-1,,MuishaungModern,109_getupvrise,kə₀ten₃,kə₀ten₃,k ə ⁰ t e n ³,,VanDam2025,,,^k ə ₀ t e n ₃$,default,kv.tenc,2024
+MuishaungModern-109_getupvrise-1,,MuishaungModern,109_getupvrise,kə₀ten₃,kə₀ten₃,k ə ₀/⁰ t e n ₃/³³,,VanDam2025,,,^k ə ₀ t e n ₃$,default,kv.tenc,2024
 MuishaungNeedham-110_girl-1,,MuishaungNeedham,110_girl,jɑ.ʃɪk.ʃɑ,jɑ.ʃɪk.ʃɑ,j ɑ + ʃ ɪ k + ʃ ɑ,,Needham1897,,,^j ɑ . ʃ ɪ k . ʃ ɑ$,default,yâ´shikshâ,1897
-MuishaungModern-110_girl-1,,MuishaungModern,110_girl,ʒal₂ʨɨk₄sa₁,ʒal₂ʨɨk₄sa₁,ʒ a l ² + tɕ ɨ k ⁴ + s a ¹,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄ s a ₁$,default,yalxjuiksaz,2024
+MuishaungModern-110_girl-1,,MuishaungModern,110_girl,ʒal₂ʨɨk₄sa₁,ʒal₂ʨɨk₄sa₁,ʒ a l ₂/²³¹ + tɕ ɨ k ₄/⁵⁵ + s a ₁/³¹,,VanDam2025,,,^ʒ a l ₂ ʨ ɨ k ₄ s a ₁$,default,yalxjuiksaz,2024
 MuishaungNeedham-111_give-1,,MuishaungNeedham,111_give,ku,ku,k u,,Needham1897,,,^k u$,default,kû,1897
-MuishaungModern-111_give-1,,MuishaungModern,111_give,"kuʔ₄, kui₁",kuʔ₄,k u ʔ ⁴,,VanDam2025,,,^k u ʔ ₄$,default,"kuq, kuyz",2024
-MuishaungModern-111_give-2,,MuishaungModern,111_give,"kuʔ₄, kui₁",kui₁,k u i ¹,,VanDam2025,,,^k u i ₁$,default,"kuq, kuyz",2024
+MuishaungModern-111_give-1,,MuishaungModern,111_give,"kuʔ₄, kui₁",kuʔ₄,k u ʔ ₄/⁵⁵,,VanDam2025,,,^k u ʔ ₄$,default,"kuq, kuyz",2024
+MuishaungModern-111_give-2,,MuishaungModern,111_give,"kuʔ₄, kui₁",kui₁,k u i ₁/³¹,,VanDam2025,,,^k u i ₁$,default,"kuq, kuyz",2024
 MuishaungNeedham-112_goawayv-1,,MuishaungNeedham,112_goawayv,kʌ.tʰɒt,kʌ.tʰɒt,k ʌ + tʰ ɒ t,,Needham1897,,,^k ʌ . tʰ ɒ t$,default,ka´thot,1897
-MuishaungModern-112_goawayv-1,,MuishaungModern,112_goawayv,kə₀t̪ʰoɐt₄,kə₀t̪ʰoɐt₄,k ə ⁰ t̪ʰ o ɐ t ⁴,,VanDam2025,,,^k ə ₀ t̪ʰ o ɐ t ₄$,default,kv.httovt,2024
+MuishaungModern-112_goawayv-1,,MuishaungModern,112_goawayv,kə₀t̪ʰoɐt₄,kə₀t̪ʰoɐt₄,k ə ₀/⁰ t̪ʰ o ɐ t ₄/⁵⁵,,VanDam2025,,,^k ə ₀ t̪ʰ o ɐ t ₄$,default,kv.httovt,2024
 MuishaungNeedham-113_goat-1,,MuishaungNeedham,113_goat,kɪr.ki,kɪr.ki,k ɪ r + k i,,Needham1897,,,^k ɪ r . k i$,default,kir´kî,1897
-MuishaungModern-113_goat-1,,MuishaungModern,113_goat,kʰel₂kʰi₂,kʰel₂kʰi₂,kʰ e l ² + kʰ i ²,,VanDam2025,,,^kʰ e l ₂ kʰ i ₂$,default,khelx.khix,2024
+MuishaungModern-113_goat-1,,MuishaungModern,113_goat,kʰel₂kʰi₂,kʰel₂kʰi₂,kʰ e l ₂/²³¹ + kʰ i ₂/²³¹,,VanDam2025,,,^kʰ e l ₂ kʰ i ₂$,default,khelx.khix,2024
 MuishaungNeedham-114_gong-1,,MuishaungNeedham,114_gong,ɲɑm,ɲɑm,ɲ ɑ m,,Needham1897,,,^ɲ ɑ m$,default,nyâm,1897
-MuishaungModern-114_gong-1,,MuishaungModern,114_gong,ɲam₂,ɲam₂,ɲ a m ²,,VanDam2025,,,^ɲ a m ₂$,default,nyamx,2024
+MuishaungModern-114_gong-1,,MuishaungModern,114_gong,ɲam₂,ɲam₂,ɲ a m ₂/²³¹,,VanDam2025,,,^ɲ a m ₂$,default,nyamx,2024
 MuishaungNeedham-115_good-1,,MuishaungNeedham,115_good,ɑ.hʌl,ɑ.hʌl,ɑ + h ʌ l,,Needham1897,,,^ɑ . h ʌ l$,default,â´hal,1897
-MuishaungModern-115_good-1,,MuishaungModern,115_good,ə₀hɐl₂,ə₀hɐl₂,ə ⁰ h ɐ l ²,,VanDam2025,,,^ə ₀ h ɐ l ₂$,default,v.hvlx,2024
+MuishaungModern-115_good-1,,MuishaungModern,115_good,ə₀hɐl₂,ə₀hɐl₂,ə ₀/⁰ h ɐ l ₂/²³¹,,VanDam2025,,,^ə ₀ h ɐ l ₂$,default,v.hvlx,2024
 MuishaungNeedham-116_granary-1,,MuishaungNeedham,116_granary,sʌm.tɑp,sʌm.tɑp,s ʌ m + t ɑ p,,Needham1897,,,^s ʌ m . t ɑ p$,default,sam´tâp,1897
-MuishaungModern-116_granary-1,,MuishaungModern,116_granary,ʦəm₁tap₄,ʦəm₁tap₄,ts ə m ¹ + t a p ⁴,,VanDam2025,,,^ʦ ə m ₁ t a p ₄$,default,tsvmz.tap,2024
+MuishaungModern-116_granary-1,,MuishaungModern,116_granary,ʦəm₁tap₄,ʦəm₁tap₄,ts ə m ₁/³¹ + t a p ₄/⁵⁵,,VanDam2025,,,^ʦ ə m ₁ t a p ₄$,default,tsvmz.tap,2024
 MuishaungNeedham-117_gun-1,,MuishaungNeedham,117_gun,kɒ̃,kɒ̃,k ɒ̃,,Needham1897,,,^k ɒ̃$,default,koṉ,1897
-MuishaungModern-117_gun-1,,MuishaungModern,117_gun,ko₁,ko₁,k o ¹,,VanDam2025,,,^k o ₁$,default,koz,2024
+MuishaungModern-117_gun-1,,MuishaungModern,117_gun,ko₁,ko₁,k o ₁/³¹,,VanDam2025,,,^k o ₁$,default,koz,2024
 MuishaungNeedham-118_gunpowder-1,,MuishaungNeedham,118_gunpowder,nɑm.βʌn,nɑm.βʌn,n ɑ m + β ʌ n,,Needham1897,,,^n ɑ m . β ʌ n$,default,nâm´van,1897
-MuishaungModern-118_gunpowder-1,,MuishaungModern,118_gunpowder,nam₂βan₂,nam₂βan₂,n a m ² + β a n ²,,VanDam2025,,,^n a m ₂ β a n ₂$,default,namx.wanx,2024
+MuishaungModern-118_gunpowder-1,,MuishaungModern,118_gunpowder,nam₂βan₂,nam₂βan₂,n a m ₂/²³¹ + β a n ₂/²³¹,,VanDam2025,,,^n a m ₂ β a n ₂$,default,namx.wanx,2024
 MuishaungNeedham-119_flintforditto-1,,MuishaungNeedham,119_flintforditto,pʌ.luŋ,pʌ.luŋ,p ʌ + l u ŋ,,Needham1897,,,^p ʌ . l u ŋ$,default,palûng,1897
-MuishaungModern-119_flintforditto-1,,MuishaungModern,119_flintforditto,pai₃luŋ₁,pai₃luŋ₁,p a i ³ + l u ŋ ¹,,VanDam2025,,,^p a i ₃ l u ŋ ₁$,default,payc.lungz,2024
+MuishaungModern-119_flintforditto-1,,MuishaungModern,119_flintforditto,pai₃luŋ₁,pai₃luŋ₁,p a i ₃/³³ + l u ŋ ₁/³¹,,VanDam2025,,,^p a i ₃ l u ŋ ₁$,default,payc.lungz,2024
 MuishaungNeedham-120_hail-1,,MuishaungNeedham,120_hail,tɪŋ.yr,tɪŋ.yr,t ɪ ŋ + y r,,Needham1897,,,^t ɪ ŋ . y r$,default,ting´ür,1897
-MuishaungModern-120_hail-1,,MuishaungModern,120_hail,ɲer₂lɔ₂,ɲer₂lɔ₂,ɲ e r ² + l ɔ ²,,VanDam2025,,,^ɲ e r ₂ l ɔ ₂$,default,nyerx.lox,2024
+MuishaungModern-120_hail-1,,MuishaungModern,120_hail,ɲer₂lɔ₂,ɲer₂lɔ₂,ɲ e r ₂/²³¹ + l ɔ ₂/²³¹,,VanDam2025,,,^ɲ e r ₂ l ɔ ₂$,default,nyerx.lox,2024
 MuishaungNeedham-121_hair-1,,MuishaungNeedham,121_hair,ku.mul,ku.mul,k u + m u l,,Needham1897,,,^k u . m u l$,default,kû´mûl,1897
-MuishaungModern-121_hair-1,,MuishaungModern,121_hair,kʰu₂mul₁,kʰu₂mul₁,kʰ u ² + m u l ¹,,VanDam2025,,,^kʰ u ₂ m u l ₁$,default,khux.mulz,2024
+MuishaungModern-121_hair-1,,MuishaungModern,121_hair,kʰu₂mul₁,kʰu₂mul₁,kʰ u ₂/²³¹ + m u l ₁/³¹,,VanDam2025,,,^kʰ u ₂ m u l ₁$,default,khux.mulz,2024
 MuishaungNeedham-122_hand-1,,MuishaungNeedham,122_hand,jɒk.pʰɑ,jɒk.pʰɑ,j ɒ k + pʰ ɑ,,Needham1897,,,^j ɒ k . pʰ ɑ$,default,yok´phâ,1897
-MuishaungModern-122_hand-1,,MuishaungModern,122_hand,ʒɐuk₄pʰa₃,ʒɐuk₄pʰa₃,ʒ ɐu k ⁴ + pʰ a ³,,VanDam2025,,,^ʒ ɐu k ₄ pʰ a ₃$,default,yvuk.phac,2024
+MuishaungModern-122_hand-1,,MuishaungModern,122_hand,ʒɐuk₄pʰa₃,ʒɐuk₄pʰa₃,ʒ ɐu k ₄/⁵⁵ + pʰ a ₃/³³,,VanDam2025,,,^ʒ ɐu k ₄ pʰ a ₃$,default,yvuk.phac,2024
 MuishaungNeedham-123_hat-1,,MuishaungNeedham,123_hat,kʰu.pʰuk,kʰu.pʰuk,kʰ u + pʰ u k,,Needham1897,,,^kʰ u . pʰ u k$,default,khû´phûk,1897
-MuishaungModern-123_hat-1,,MuishaungModern,123_hat,kʰu₂pʰuk₄,kʰu₂pʰuk₄,kʰ u ² + pʰ u k ⁴,,VanDam2025,,,^kʰ u ₂ pʰ u k ₄$,default,khux.phuk,2024
+MuishaungModern-123_hat-1,,MuishaungModern,123_hat,kʰu₂pʰuk₄,kʰu₂pʰuk₄,kʰ u ₂/²³¹ + pʰ u k ₄/⁵⁵,,VanDam2025,,,^kʰ u ₂ pʰ u k ₄$,default,khux.phuk,2024
 MuishaungNeedham-124_he-1,,MuishaungNeedham,124_he,ɑ.pi,ɑ.pi,ɑ + p i,,Needham1897,,,^ɑ . p i$,default,â´pî,1897
-MuishaungModern-124_he-1,,MuishaungModern,124_he,ə₀piʔ₄,ə₀piʔ₄,ə ⁰ p i ʔ ⁴,,VanDam2025,,,^ə ₀ p i ʔ ₄$,default,v.piq,2024
+MuishaungModern-124_he-1,,MuishaungModern,124_he,ə₀piʔ₄,ə₀piʔ₄,ə ₀/⁰ p i ʔ ₄/⁵⁵,,VanDam2025,,,^ə ₀ p i ʔ ₄$,default,v.piq,2024
 MuishaungNeedham-125_here-1,,MuishaungNeedham,125_here,ɑ.ny,ɑ.ny,ɑ + n y,,Needham1897,,,^ɑ . n y$,default,â´nü,1897
-MuishaungModern-125_here-1,,MuishaungModern,125_here,ə₀nɤ₂,ə₀nɤ₂,ə ⁰ n ɤ ²,,VanDam2025,,,^ə ₀ n ɤ ₂$,default,v.nuex,2024
+MuishaungModern-125_here-1,,MuishaungModern,125_here,ə₀nɤ₂,ə₀nɤ₂,ə ₀/⁰ n ɤ ₂/²³¹,,VanDam2025,,,^ə ₀ n ɤ ₂$,default,v.nuex,2024
 MuishaungNeedham-126_here-1,,MuishaungNeedham,126_here,ɑ.jy,ɑ.jy,ɑ + j y,,Needham1897,,,^ɑ . j y$,default,â´yü,1897
 MuishaungNeedham-127_head-1,,MuishaungNeedham,127_head,kʰu,kʰu,kʰ u,,Needham1897,,,^kʰ u$,default,khû,1897
-MuishaungModern-127_head-1,,MuishaungModern,127_head,kʰu₂,kʰu₂,kʰ u ²,,VanDam2025,,,^kʰ u ₂$,default,khux,2024
+MuishaungModern-127_head-1,,MuishaungModern,127_head,kʰu₂,kʰu₂,kʰ u ₂/²³¹,,VanDam2025,,,^kʰ u ₂$,default,khux,2024
 MuishaungNeedham-128_heavy-1,,MuishaungNeedham,128_heavy,ɑ.liˀ,ɑ.liˀ,ɑ + l i ˀ/ʔ,,Needham1897,,,^ɑ . l iˀ$,default,â´lî,1897
-MuishaungModern-128_heavy-1,,MuishaungModern,128_heavy,ə₀li₁ / liʔ₄,ə₀li₁,ə ⁰ l i ¹,,VanDam2025,,,^ə ₀ l i ₁$,default,v.liz,2024
-MuishaungModern-128_heavy-2,,MuishaungModern,128_heavy,ə₀li₁ / liʔ₄,liʔ₄,l i ʔ ⁴,,VanDam2025,,,^l i ʔ ₄$,default,v.liz,2024
+MuishaungModern-128_heavy-1,,MuishaungModern,128_heavy,ə₀li₁ / liʔ₄,ə₀li₁,ə ₀/⁰ l i ₁/³¹,,VanDam2025,,,^ə ₀ l i ₁$,default,v.liz,2024
+MuishaungModern-128_heavy-2,,MuishaungModern,128_heavy,ə₀li₁ / liʔ₄,liʔ₄,l i ʔ ₄/⁵⁵,,VanDam2025,,,^l i ʔ ₄$,default,v.liz,2024
 MuishaungNeedham-129_hill-1,,MuishaungNeedham,129_hill,ku,ku,k u,,Needham1897,,,^k u$,default,kû,1897
-MuishaungModern-129_hill-1,,MuishaungModern,129_hill,ku₁,ku₁,k u ¹,,VanDam2025,,,^k u ₁$,default,kuz,2024
+MuishaungModern-129_hill-1,,MuishaungModern,129_hill,ku₁,ku₁,k u ₁/³¹,,VanDam2025,,,^k u ₁$,default,kuz,2024
 MuishaungNeedham-130_horn-1,,MuishaungNeedham,130_horn,ɑ.ruŋ,ɑ.ruŋ,ɑ + r u ŋ,,Needham1897,,,^ɑ . r u ŋ$,default,â´rûng,1897
-MuishaungModern-130_horn-1,,MuishaungModern,130_horn,ə₀ruŋ₂,ə₀ruŋ₂,ə ⁰ r u ŋ ²,,VanDam2025,,,^ə ₀ r u ŋ ₂$,default,v.rungx,2024
+MuishaungModern-130_horn-1,,MuishaungModern,130_horn,ə₀ruŋ₂,ə₀ruŋ₂,ə ₀/⁰ r u ŋ ₂/²³¹,,VanDam2025,,,^ə ₀ r u ŋ ₂$,default,v.rungx,2024
 MuishaungNeedham-131_hot-1,,MuishaungNeedham,131_hot,ɑ.kɑl,ɑ.kɑl,ɑ + k ɑ l,,Needham1897,,,^ɑ . k ɑ l$,default,â´kâl,1897
-MuishaungModern-131_hot-1,,MuishaungModern,131_hot,ə₀kal₂,ə₀kal₂,ə ⁰ k a l ²,,VanDam2025,,,^ə ₀ k a l ₂$,default,v.kalx,2024
+MuishaungModern-131_hot-1,,MuishaungModern,131_hot,ə₀kal₂,ə₀kal₂,ə ₀/⁰ k a l ₂/²³¹,,VanDam2025,,,^ə ₀ k a l ₂$,default,v.kalx,2024
 MuishaungNeedham-132_house-1,,MuishaungNeedham,132_house,"jɪm, jym",jɪm,j ɪ m,,Needham1897,,,^j ɪ m$,default,"yim, yüm",1897
 MuishaungNeedham-132_house-2,,MuishaungNeedham,132_house,"jɪm, jym",jym,j y m,,Needham1897,,,^j y m$,default,"yim, yüm",1897
-MuishaungModern-132_house-1,,MuishaungModern,132_house,ʒɨm₂,ʒɨm₂,ʒ ɨ m ²,,VanDam2025,,,^ʒ ɨ m ₂$,default,yuimx,2024
+MuishaungModern-132_house-1,,MuishaungModern,132_house,ʒɨm₂,ʒɨm₂,ʒ ɨ m ₂/²³¹,,VanDam2025,,,^ʒ ɨ m ₂$,default,yuimx,2024
 MuishaungNeedham-133_notchedstepsleadinguptohouse-1,,MuishaungNeedham,133_notchedstepsleadinguptohouse,hi.kʰu,hi.kʰu,h i + kʰ u,,Needham1897,,,^h i . kʰ u$,default,hî´khû,1897
-MuishaungModern-133_notchedstepsleadinguptohouse-1,,MuishaungModern,133_notchedstepsleadinguptohouse,hi₂kʰu₂,hi₂kʰu₂,h i ² + kʰ u ²,,VanDam2025,,,^h i ₂ kʰ u ₂$,default,hix.khux,2024
+MuishaungModern-133_notchedstepsleadinguptohouse-1,,MuishaungModern,133_notchedstepsleadinguptohouse,hi₂kʰu₂,hi₂kʰu₂,h i ₂/²³¹ + kʰ u ₂/²³¹,,VanDam2025,,,^h i ₂ kʰ u ₂$,default,hix.khux,2024
 MuishaungNeedham-134_how-1,,MuishaungNeedham,134_how,m.kʰo.lɑ,m.kʰo.lɑ,m + kʰ o + l ɑ,,Needham1897,,,^m . kʰ o . l ɑ$,default,m´khô´lâ,1897
-MuishaungModern-134_how-1,,MuishaungModern,134_how,m₁kʰo₃ la₃,m₁kʰo₃_la₃,m ¹ + kʰ o ₃ + l a ³,,VanDam2025,,,^m ₁ kʰ o ₃_ l a ₃$,default,mz.'khoc lac,2024
+MuishaungModern-134_how-1,,MuishaungModern,134_how,m₁kʰo₃ la₃,m₁kʰo₃_la₃,m ₁/³¹ + kʰ o ₃/³³ + l a ₃/³³,,VanDam2025,,,^m ₁ kʰ o ₃_ l a ₃$,default,mz.'khoc lac,2024
 MuishaungNeedham-135_high-1,,MuishaungNeedham,135_high,juŋ,juŋ,j u ŋ,,Needham1897,,,^j u ŋ$,default,yûng,1897
-MuishaungModern-135_high-1,,MuishaungModern,135_high,ʒuŋ₂,ʒuŋ₂,ʒ u ŋ ²,,VanDam2025,,,^ʒ u ŋ ₂$,default,yungx,2024
+MuishaungModern-135_high-1,,MuishaungModern,135_high,ʒuŋ₂,ʒuŋ₂,ʒ u ŋ ₂/²³¹,,VanDam2025,,,^ʒ u ŋ ₂$,default,yungx,2024
 MuishaungNeedham-136_i-1,,MuishaungNeedham,136_i,ŋɑ,ŋɑ,ŋ ɑ,,Needham1897,,,^ŋ ɑ$,default,ngâ,1897
-MuishaungModern-136_i-1,,MuishaungModern,136_i,ŋa₁,ŋa₁,ŋ a ¹,,VanDam2025,,,^ŋ a ₁$,default,ngaz,2024
+MuishaungModern-136_i-1,,MuishaungModern,136_i,ŋa₁,ŋa₁,ŋ a ₁/³¹,,VanDam2025,,,^ŋ a ₁$,default,ngaz,2024
 MuishaungNeedham-137_ill-1,,MuishaungNeedham,137_ill,ɑ.tu,ɑ.tu,ɑ + t u,,Needham1897,,,^ɑ . t u$,default,â´tû,1897
-MuishaungModern-137_ill-1,,MuishaungModern,137_ill,ə₀t̪ɨu₁,ə₀t̪ɨu₁,ə ⁰ t̪ ɨu ¹,,VanDam2025,,,^ə ₀ t̪ ɨu ₁$,default,v.thuiuz,2024
+MuishaungModern-137_ill-1,,MuishaungModern,137_ill,ə₀t̪ɨu₁,ə₀t̪ɨu₁,ə ₀/⁰ t̪ ɨu ₁/³¹,,VanDam2025,,,^ə ₀ t̪ ɨu ₁$,default,v.thuiuz,2024
 MuishaungNeedham-138_indiancorn-1,,MuishaungNeedham,138_indiancorn,pɒ.wuŋ,pɒ.wuŋ,p ɒ + w u ŋ,,Needham1897,,,^p ɒ . w u ŋ$,default,powûng,1897
-MuishaungModern-138_indiancorn-1,,MuishaungModern,138_indiancorn,pɨ₂βuŋ₂,pɨ₂βuŋ₂,p ɨ ² + β u ŋ ²,,VanDam2025,,,^p ɨ ₂ β u ŋ ₂$,default,puix.wungx,2024
+MuishaungModern-138_indiancorn-1,,MuishaungModern,138_indiancorn,pɨ₂βuŋ₂,pɨ₂βuŋ₂,p ɨ ₂/²³¹ + β u ŋ ₂/²³¹,,VanDam2025,,,^p ɨ ₂ β u ŋ ₂$,default,puix.wungx,2024
 MuishaungNeedham-139_iron-1,,MuishaungNeedham,139_iron,jɑn,jɑn,j ɑ n,,Needham1897,,,^j ɑ n$,default,yân,1897
-MuishaungModern-139_iron-1,,MuishaungModern,139_iron,ʒan₂,ʒan₂,ʒ a n ²,,VanDam2025,,,^ʒ a n ₂$,default,yanx,2024
+MuishaungModern-139_iron-1,,MuishaungModern,139_iron,ʒan₂,ʒan₂,ʒ a n ₂/²³¹,,VanDam2025,,,^ʒ a n ₂$,default,yanx,2024
 MuishaungNeedham-140_jungle-1,,MuishaungNeedham,140_jungle,"jɑ.ry, ʧɑ.ry",jɑ.ry,j ɑ + r y,,Needham1897,,,^j ɑ . r y$,default,"yâ´rü, jâ´rü",1897
 MuishaungNeedham-140_jungle-2,,MuishaungNeedham,140_jungle,"jɑ.ry, ʧɑ.ry",ʧɑ.ry,tʃ ɑ + r y,,Needham1897,,,^ʧ ɑ . r y$,default,"yâ´rü, jâ´rü",1897
-MuishaungModern-140_jungle-1,,MuishaungModern,140_jungle,ʒai₁rɨ₂,ʒai₁rɨ₂,ʒ a i ¹ + r ɨ ²,,VanDam2025,,,^ʒ a i ₁ r ɨ ₂$,default,yayz.ruix,2024
+MuishaungModern-140_jungle-1,,MuishaungModern,140_jungle,ʒai₁rɨ₂,ʒai₁rɨ₂,ʒ a i ₁/³¹ + r ɨ ₂/²³¹,,VanDam2025,,,^ʒ a i ₁ r ɨ ₂$,default,yayz.ruix,2024
 MuishaungNeedham-141_kill-1,,MuishaungNeedham,141_kill,tʌt,tʌt,t ʌ t,,Needham1897,,,^t ʌ t$,default,tat,1897
-MuishaungModern-141_kill-1,,MuishaungModern,141_kill,t̪ɐt₄,t̪ɐt₄,t̪ ɐ t ⁴,,VanDam2025,,,^t̪ ɐ t ₄$,default,thvt,2024
+MuishaungModern-141_kill-1,,MuishaungModern,141_kill,t̪ɐt₄,t̪ɐt₄,t̪ ɐ t ₄/⁵⁵,,VanDam2025,,,^t̪ ɐ t ₄$,default,thvt,2024
 MuishaungNeedham-142_knee-1,,MuishaungNeedham,142_knee,lɒŋ.ky,lɒŋ.ky,l ɒ ŋ + k y,,Needham1897,,,^l ɒ ŋ . k y$,default,long´kü,1897
-MuishaungModern-142_knee-1,,MuishaungModern,142_knee,lɐuŋ₂kɨ₂,lɐuŋ₂kɨ₂,l ɐu ŋ ² + k ɨ ²,,VanDam2025,,,^l ɐu ŋ ₂ k ɨ ₂$,default,lvungx.kuix,2024
+MuishaungModern-142_knee-1,,MuishaungModern,142_knee,lɐuŋ₂kɨ₂,lɐuŋ₂kɨ₂,l ɐu ŋ ₂/²³¹ + k ɨ ₂/²³¹,,VanDam2025,,,^l ɐu ŋ ₂ k ɨ ₂$,default,lvungx.kuix,2024
 MuishaungNeedham-143_knife-1,,MuishaungNeedham,143_knife,jɑn.hi,jɑn.hi,j ɑ n + h i,,Needham1897,,,^j ɑ n . h i$,default,yân´hî,1897
-MuishaungModern-143_knife-1,,MuishaungModern,143_knife,ʒan₂ hi₂,ʒan₂_hi₂,ʒ a n ₂ + h i ²,,VanDam2025,,,^ʒ a n ₂_ h i ₂$,default,yanx.hix,2024
+MuishaungModern-143_knife-1,,MuishaungModern,143_knife,ʒan₂ hi₂,ʒan₂_hi₂,ʒ a n ₂/²³¹ + h i ₂/²³¹,,VanDam2025,,,^ʒ a n ₂_ h i ₂$,default,yanx.hix,2024
 MuishaungNeedham-144_kochu-1,,MuishaungNeedham,144_kochu,dy,dy,d y,,Needham1897,,,^d y$,default,dü,1897
-MuishaungModern-144_kochu-1,,MuishaungModern,144_kochu,tɨ₁,tɨ₁,t ɨ ¹,,VanDam2025,,,^t ɨ ₁$,default,tuiz,2024
+MuishaungModern-144_kochu-1,,MuishaungModern,144_kochu,tɨ₁,tɨ₁,t ɨ ₁/³¹,,VanDam2025,,,^t ɨ ₁$,default,tuiz,2024
 MuishaungNeedham-145_large-1,,MuishaungNeedham,145_large,ɑ.dɪl,ɑ.dɪl,ɑ + d ɪ l,,Needham1897,,,^ɑ . d ɪ l$,default,â´dil,1897
-MuishaungModern-145_large-1,,MuishaungModern,145_large,ə₀dɐl₁,ə₀dɐl₁,ə ⁰ d ɐ l ¹,,VanDam2025,,,^ə ₀ d ɐ l ₁$,default,v.dvlz,2024
+MuishaungModern-145_large-1,,MuishaungModern,145_large,ə₀dɐl₁,ə₀dɐl₁,ə ₀/⁰ d ɐ l ₁/³¹,,VanDam2025,,,^ə ₀ d ɐ l ₁$,default,v.dvlz,2024
 MuishaungNeedham-146_laughv-1,,MuishaungNeedham,146_laughv,ni,ni,n i,,Needham1897,,,^n i$,default,nî,1897
-MuishaungModern-146_laughv-1,,MuishaungModern,146_laughv,n̪ɨi₂,n̪ɨi₂,n̪ ɨi ²,,VanDam2025,,,^n̪ ɨi ₂$,default,nhuiyx,2024
+MuishaungModern-146_laughv-1,,MuishaungModern,146_laughv,n̪ɨi₂,n̪ɨi₂,n̪ ɨi ₂/²³¹,,VanDam2025,,,^n̪ ɨi ₂$,default,nhuiyx,2024
 MuishaungNeedham-147_leech-1,,MuishaungNeedham,147_leech,tʌ.wʌt,tʌ.wʌt,t ʌ + w ʌ t,,Needham1897,,,^t ʌ . w ʌ t$,default,ta´wat,1897
-MuishaungModern-147_leech-1,,MuishaungModern,147_leech,tə₀βɐt₄,tə₀βɐt₄,t ə ⁰ β ɐ t ⁴,,VanDam2025,,,^t ə ₀ β ɐ t ₄$,default,tv.wvt,2024
+MuishaungModern-147_leech-1,,MuishaungModern,147_leech,tə₀βɐt₄,tə₀βɐt₄,t ə ₀/⁰ β ɐ t ₄/⁵⁵,,VanDam2025,,,^t ə ₀ β ɐ t ₄$,default,tv.wvt,2024
 MuishaungNeedham-148_leaf-1,,MuishaungNeedham,148_leaf,nɑm.jɒk,nɑm.jɒk,n ɑ m + j ɒ k,,Needham1897,,,^n ɑ m . j ɒ k$,default,nâm´yok,1897
-MuishaungModern-148_leaf-1,,MuishaungModern,148_leaf,nam₂ʒɐuk₄,nam₂ʒɐuk₄,n a m ² + ʒ ɐu k ⁴,,VanDam2025,,,^n a m ₂ ʒ ɐu k ₄$,default,namx.yvuk,2024
+MuishaungModern-148_leaf-1,,MuishaungModern,148_leaf,nam₂ʒɐuk₄,nam₂ʒɐuk₄,n a m ₂/²³¹ + ʒ ɐu k ₄/⁵⁵,,VanDam2025,,,^n a m ₂ ʒ ɐu k ₄$,default,namx.yvuk,2024
 MuishaungNeedham-149_leg-1,,MuishaungNeedham,149_leg,jɑ,jɑ,j ɑ,,Needham1897,,,^j ɑ$,default,yâ,1897
-MuishaungModern-149_leg-1,,MuishaungModern,149_leg,ʒa₁,ʒa₁,ʒ a ¹,,VanDam2025,,,^ʒ a ₁$,default,yaz,2024
+MuishaungModern-149_leg-1,,MuishaungModern,149_leg,ʒa₁,ʒa₁,ʒ a ₁/³¹,,VanDam2025,,,^ʒ a ₁$,default,yaz,2024
 MuishaungNeedham-150_lightning-1,,MuishaungNeedham,150_lightning,rɒŋ.lɛp,rɒŋ.lɛp,r ɒ ŋ + l ɛ p,,Needham1897,,,^r ɒ ŋ . l ɛ p$,default,rong´lep,1897
-MuishaungModern-150_lightning-1,,MuishaungModern,150_lightning,rɐuŋ₂lep₄,rɐuŋ₂lep₄,r ɐu ŋ ² + l e p ⁴,,VanDam2025,,,^r ɐu ŋ ₂ l e p ₄$,default,rvungx.lep,2024
+MuishaungModern-150_lightning-1,,MuishaungModern,150_lightning,rɐuŋ₂lep₄,rɐuŋ₂lep₄,r ɐu ŋ ₂/²³¹ + l e p ₄/⁵⁵,,VanDam2025,,,^r ɐu ŋ ₂ l e p ₄$,default,rvungx.lep,2024
 MuishaungNeedham-151_lip-1,,MuishaungNeedham,151_lip,nʌ.wʌr,nʌ.wʌr,n ʌ + w ʌ r,,Needham1897,,,^n ʌ . w ʌ r$,default,na´warr,1897
-MuishaungModern-151_lip-1,,MuishaungModern,151_lip,nɨ₂bɨr₁,nɨ₂bɨr₁,n ɨ ² + b ɨ r ¹,,VanDam2025,,,^n ɨ ₂ b ɨ r ₁$,default,nuix.buirz,2024
+MuishaungModern-151_lip-1,,MuishaungModern,151_lip,nɨ₂bɨr₁,nɨ₂bɨr₁,n ɨ ₂/²³¹ + b ɨ r ₁/³¹,,VanDam2025,,,^n ɨ ₂ b ɨ r ₁$,default,nuix.buirz,2024
 MuishaungNeedham-152_lightnotheavy-1,,MuishaungNeedham,152_lightnotheavy,ɑ.ʧʰɑn,ɑ.ʧʰɑn,ɑ + tʃʰ ɑ n,,Needham1897,,,^ɑ . ʧʰ ɑ n$,default,â´chân,1897
-MuishaungModern-152_lightnotheavy-1,,MuishaungModern,152_lightnotheavy,ə₀ʨɔ₁,ə₀ʨɔ₁,ə ⁰ tɕ ɔ ¹,,VanDam2025,,,^ə ₀ ʨ ɔ ₁$,default,v.jawz,2024
+MuishaungModern-152_lightnotheavy-1,,MuishaungModern,152_lightnotheavy,ə₀ʨɔ₁,ə₀ʨɔ₁,ə ₀/⁰ tɕ ɔ ₁/³¹,,VanDam2025,,,^ə ₀ ʨ ɔ ₁$,default,v.jawz,2024
 MuishaungNeedham-153_loincloth-1,,MuishaungNeedham,153_loincloth,ri,ri,r i,,Needham1897,,,^r i$,default,rî,1897
-MuishaungModern-153_loincloth-1,,MuishaungModern,153_loincloth,rɨiʔ₄,rɨiʔ₄,r ɨi ʔ ⁴,,VanDam2025,,,^r ɨi ʔ ₄$,default,ruiyq,2024
+MuishaungModern-153_loincloth-1,,MuishaungModern,153_loincloth,rɨiʔ₄,rɨiʔ₄,r ɨi ʔ ₄/⁵⁵,,VanDam2025,,,^r ɨi ʔ ₄$,default,ruiyq,2024
 MuishaungNeedham-154_lookv-1,,MuishaungNeedham,154_lookv,lɑn,lɑn,l ɑ n,,Needham1897,,,^l ɑ n$,default,lân,1897
-MuishaungModern-154_lookv-1,,MuishaungModern,154_lookv,lɔ₃,lɔ₃,l ɔ ³,,VanDam2025,,,^l ɔ ₃$,default,lawx,2024
+MuishaungModern-154_lookv-1,,MuishaungModern,154_lookv,lɔ₃,lɔ₃,l ɔ ₃/³³,,VanDam2025,,,^l ɔ ₃$,default,lawx,2024
 MuishaungNeedham-155_louse-1,,MuishaungNeedham,155_louse,tʰɪk,tʰɪk,tʰ ɪ k,,Needham1897,,,^tʰ ɪ k$,default,thik,1897
-MuishaungModern-155_louse-1,,MuishaungModern,155_louse,t̪ʰɨk₄,t̪ʰɨk₄,t̪ʰ ɨ k ⁴,,VanDam2025,,,^t̪ʰ ɨ k ₄$,default,httuik,2024
+MuishaungModern-155_louse-1,,MuishaungModern,155_louse,t̪ʰɨk₄,t̪ʰɨk₄,t̪ʰ ɨ k ₄/⁵⁵,,VanDam2025,,,^t̪ʰ ɨ k ₄$,default,httuik,2024
 MuishaungNeedham-156_makev-1,,MuishaungNeedham,156_makev,gyr,gyr,g y r,,Needham1897,,,^g y r$,default,gür,1897
-MuishaungModern-156_makev-1,,MuishaungModern,156_makev,ɣɨr₃,ɣɨr₃,ɣ ɨ r ³,,VanDam2025,,,^ɣ ɨ r ₃$,default,ghuir,2024
+MuishaungModern-156_makev-1,,MuishaungModern,156_makev,ɣɨr₃,ɣɨr₃,ɣ ɨ r ₃/³³,,VanDam2025,,,^ɣ ɨ r ₃$,default,ghuir,2024
 MuishaungNeedham-157_male-1,,MuishaungNeedham,157_male,mi.wɑ,mi.wɑ,m i + w ɑ,,Needham1897,,,^m i . w ɑ$,default,mî´wâ,1897
-MuishaungModern-157_male-1,,MuishaungModern,157_male,miʔ₄βa₁,miʔ₄βa₁,m i ʔ ⁴ + β a ¹,,VanDam2025,,,^m i ʔ ₄ β a ₁$,default,miq.waz,2024
+MuishaungModern-157_male-1,,MuishaungModern,157_male,miʔ₄βa₁,miʔ₄βa₁,m i ʔ ₄/⁵⁵ + β a ₁/³¹,,VanDam2025,,,^m i ʔ ₄ β a ₁$,default,miq.waz,2024
 MuishaungNeedham-158_many-1,,MuishaungNeedham,158_many,ɑ.pɑŋ,ɑ.pɑŋ,ɑ + p ɑ ŋ,,Needham1897,,,^ɑ . p ɑ ŋ$,default,â´pâng,1897
-MuishaungModern-158_many-1,,MuishaungModern,158_many,ə₀pɐuŋ₃,ə₀pɐuŋ₃,ə ⁰ p ɐu ŋ ³,,VanDam2025,,,^ə ₀ p ɐu ŋ ₃$,default,v.pvungc,2024
+MuishaungModern-158_many-1,,MuishaungModern,158_many,ə₀pɐuŋ₃,ə₀pɐuŋ₃,ə ₀/⁰ p ɐu ŋ ₃/³³,,VanDam2025,,,^ə ₀ p ɐu ŋ ₃$,default,v.pvungc,2024
 MuishaungNeedham-159_mat-1,,MuishaungNeedham,159_mat,dʌm,dʌm,d ʌ m,,Needham1897,,,^d ʌ m$,default,dam,1897
-MuishaungModern-159_mat-1,,MuishaungModern,159_mat,dɐm₂,dɐm₂,d ɐ m ²,,VanDam2025,,,^d ɐ m ₂$,default,dvmx,2024
+MuishaungModern-159_mat-1,,MuishaungModern,159_mat,dɐm₂,dɐm₂,d ɐ m ₂/²³¹,,VanDam2025,,,^d ɐ m ₂$,default,dvmx,2024
 MuishaungNeedham-160_monkey-1,,MuishaungNeedham,160_monkey,βi.sɪl,βi.sɪl,β i + s ɪ l,,Needham1897,,,^β i . s ɪ l$,default,vî´sil,1897
-MuishaungModern-160_monkey-1,,MuishaungModern,160_monkey,βi₂sɨl₂,βi₂sɨl₂,β i ² + s ɨ l ²,,VanDam2025,,,^β i ₂ s ɨ l ₂$,default,wix.suilx,2024
+MuishaungModern-160_monkey-1,,MuishaungModern,160_monkey,βi₂sɨl₂,βi₂sɨl₂,β i ₂/²³¹ + s ɨ l ₂/²³¹,,VanDam2025,,,^β i ₂ s ɨ l ₂$,default,wix.suilx,2024
 MuishaungNeedham-161_mortarforpoundingpaddy-1,,MuishaungNeedham,161_mortarforpoundingpaddy,"tʰɪm, tʰym",tʰɪm,tʰ ɪ m,,Needham1897,,,^tʰ ɪ m$,default,"thim, thüm",1897
 MuishaungNeedham-161_mortarforpoundingpaddy-2,,MuishaungNeedham,161_mortarforpoundingpaddy,"tʰɪm, tʰym",tʰym,tʰ y m,,Needham1897,,,^tʰ y m$,default,"thim, thüm",1897
-MuishaungModern-161_mortarforpoundingpaddy-1,,MuishaungModern,161_mortarforpoundingpaddy,tʰɨm₁,tʰɨm₁,tʰ ɨ m ¹,,VanDam2025,,,^tʰ ɨ m ₁$,default,htuimz,2024
+MuishaungModern-161_mortarforpoundingpaddy-1,,MuishaungModern,161_mortarforpoundingpaddy,tʰɨm₁,tʰɨm₁,tʰ ɨ m ₁/³¹,,VanDam2025,,,^tʰ ɨ m ₁$,default,htuimz,2024
 MuishaungNeedham-162_pestle-1,,MuishaungNeedham,162_pestle,tʰɪm.jɑ,tʰɪm.jɑ,tʰ ɪ m + j ɑ,,Needham1897,,,^tʰ ɪ m . j ɑ$,default,thim´yâ,1897
-MuishaungModern-162_pestle-1,,MuishaungModern,162_pestle,tʰɨm₁ʒa₁,tʰɨm₁ʒa₁,tʰ ɨ m ¹ + ʒ a ¹,,VanDam2025,,,^tʰ ɨ m ₁ ʒ a ₁$,default,htuimz.yaz,2024
+MuishaungModern-162_pestle-1,,MuishaungModern,162_pestle,tʰɨm₁ʒa₁,tʰɨm₁ʒa₁,tʰ ɨ m ₁/³¹ + ʒ a ₁/³¹,,VanDam2025,,,^tʰ ɨ m ₁ ʒ a ₁$,default,htuimz.yaz,2024
 MuishaungNeedham-163_mother-1,,MuishaungNeedham,163_mother,n.ju,n.ju,n + j u,,Needham1897,,,^n . j u$,default,n´yû,1897
-MuishaungModern-163_mother-1,,MuishaungModern,163_mother,ɲɨu₁,ɲɨu₁,ɲ ɨu ¹,,VanDam2025,,,^ɲ ɨu ₁$,default,nyuiuz,2024
+MuishaungModern-163_mother-1,,MuishaungModern,163_mother,ɲɨu₁,ɲɨu₁,ɲ ɨu ₁/³¹,,VanDam2025,,,^ɲ ɨu ₁$,default,nyuiuz,2024
 MuishaungNeedham-164_moon-1,,MuishaungNeedham,164_moon,jɑ.pi,jɑ.pi,j ɑ + p i,,Needham1897,,,^j ɑ . p i$,default,yâ´pî,1897
-MuishaungModern-164_moon-1,,MuishaungModern,164_moon,ʒa₃pi₂,ʒa₃pi₂,ʒ a ³ + p i ²,,VanDam2025,,,^ʒ a ₃ p i ₂$,default,yac.pix,2024
+MuishaungModern-164_moon-1,,MuishaungModern,164_moon,ʒa₃pi₂,ʒa₃pi₂,ʒ a ₃/³³ + p i ₂/²³¹,,VanDam2025,,,^ʒ a ₃ p i ₂$,default,yac.pix,2024
 MuishaungNeedham-165_mod-1,,MuishaungNeedham,165_mod,ʧʰɒɑl,ʧʰɒɑl,tʃʰ ɒ ɑ l,,Needham1897,,,^ʧʰ ɒ ɑ l$,default,choâl,1897
-MuishaungModern-165_mod-1,,MuishaungModern,165_mod,ʨoɐl₁,ʨoɐl₁,tɕ o ɐ l ¹,,VanDam2025,,,^ʨ o ɐ l ₁$,default,jovlz,2024
+MuishaungModern-165_mod-1,,MuishaungModern,165_mod,ʨoɐl₁,ʨoɐl₁,tɕ o ɐ l ₁/³¹,,VanDam2025,,,^ʨ o ɐ l ₁$,default,jovlz,2024
 MuishaungNeedham-166_mouth-1,,MuishaungNeedham,166_mouth,nyr,nyr,n y r,,Needham1897,,,^n y r$,default,nürr,1897
-MuishaungModern-166_mouth-1,,MuishaungModern,166_mouth,nɨ₂,nɨ₂,n ɨ ²,,VanDam2025,,,^n ɨ ₂$,default,nuix,2024
+MuishaungModern-166_mouth-1,,MuishaungModern,166_mouth,nɨ₂,nɨ₂,n ɨ ₂/²³¹,,VanDam2025,,,^n ɨ ₂$,default,nuix,2024
 MuishaungNeedham-167_mud-1,,MuishaungNeedham,167_mud,bɒk,bɒk,b ɒ k,,Needham1897,,,^b ɒ k$,default,bok,1897
-MuishaungModern-167_mud-1,,MuishaungModern,167_mud,bok₄,bok₄,b o k ⁴,,VanDam2025,,,^b o k ₄$,default,bok,2024
+MuishaungModern-167_mud-1,,MuishaungModern,167_mud,bok₄,bok₄,b o k ₄/⁵⁵,,VanDam2025,,,^b o k ₄$,default,bok,2024
 MuishaungNeedham-168_nail-1,,MuishaungNeedham,168_nail,jɒk.tʰɪn,jɒk.tʰɪn,j ɒ k + tʰ ɪ n,,Needham1897,,,^j ɒ k . tʰ ɪ n$,default,yok´thin,1897
-MuishaungModern-168_nail-1,,MuishaungModern,168_nail,ʒɐuk₄t̪ʰɨn₃,ʒɐuk₄t̪ʰɨn₃,ʒ ɐu k ⁴ + t̪ʰ ɨ n ³,,VanDam2025,,,^ʒ ɐu k ₄ t̪ʰ ɨ n ₃$,default,yvuk.httuinc,2024
+MuishaungModern-168_nail-1,,MuishaungModern,168_nail,ʒɐuk₄t̪ʰɨn₃,ʒɐuk₄t̪ʰɨn₃,ʒ ɐu k ₄/⁵⁵ + t̪ʰ ɨ n ₃/³³,,VanDam2025,,,^ʒ ɐu k ₄ t̪ʰ ɨ n ₃$,default,yvuk.httuinc,2024
 MuishaungNeedham-169_name-1,,MuishaungNeedham,169_name,mɪŋ,mɪŋ,m ɪ ŋ,,Needham1897,,,^m ɪ ŋ$,default,ming,1897
-MuishaungModern-169_name-1,,MuishaungModern,169_name,mɨŋ₃,mɨŋ₃,m ɨ ŋ ³,,VanDam2025,,,^m ɨ ŋ ₃$,default,muingc,2024
+MuishaungModern-169_name-1,,MuishaungModern,169_name,mɨŋ₃,mɨŋ₃,m ɨ ŋ ₃/³³,,VanDam2025,,,^m ɨ ŋ ₃$,default,muingc,2024
 MuishaungNeedham-170_near-1,,MuishaungNeedham,170_near,ɑn.jɛk,ɑn.jɛk,ɑ n + j ɛ k,,Needham1897,,,^ɑ n . j ɛ k$,default,ân´yek,1897
-MuishaungModern-170_near-1,,MuishaungModern,170_near,ə₀ɲek₄,ə₀ɲek₄,ə ⁰ ɲ e k ⁴,,VanDam2025,,,^ə ₀ ɲ e k ₄$,default,v.nyek,2024
+MuishaungModern-170_near-1,,MuishaungModern,170_near,ə₀ɲek₄,ə₀ɲek₄,ə ₀/⁰ ɲ e k ₄/⁵⁵,,VanDam2025,,,^ə ₀ ɲ e k ₄$,default,v.nyek,2024
 MuishaungNeedham-171_nest-1,,MuishaungNeedham,171_nest,wu.ʃʌn.ʧʰiʌ̃,wu.ʃʌn.ʧʰiʌ̃,w u + ʃ ʌ n + tʃʰ i ʌ̃,,Needham1897,,,^w u . ʃ ʌ n . ʧʰ i ʌ̃$,default,wûshanchîaṉ,1897
-MuishaungModern-171_nest-1,,MuishaungModern,171_nest,βu₁ʃɔ₂ʨe₁,βu₁ʃɔ₂ʨe₁,β u ¹ + ʃ ɔ ² + tɕ e ¹,,VanDam2025,,,^β u ₁ ʃ ɔ ₂ ʨ e ₁$,default,wuz.shawx.jez,2024
+MuishaungModern-171_nest-1,,MuishaungModern,171_nest,βu₁ʃɔ₂ʨe₁,βu₁ʃɔ₂ʨe₁,β u ₁/³¹ + ʃ ɔ ₂/²³¹ + tɕ e ₁/³¹,,VanDam2025,,,^β u ₁ ʃ ɔ ₂ ʨ e ₁$,default,wuz.shawx.jez,2024
 MuishaungNeedham-172_net-1,,MuishaungNeedham,172_net,ʧʰɑk,ʧʰɑk,tʃʰ ɑ k,,Needham1897,,,^ʧʰ ɑ k$,default,châk,1897
-MuishaungModern-172_net-1,,MuishaungModern,172_net,ʨak₄,ʨak₄,tɕ a k ⁴,,VanDam2025,,,^ʨ a k ₄$,default,jak,2024
+MuishaungModern-172_net-1,,MuishaungModern,172_net,ʨak₄,ʨak₄,tɕ a k ₄/⁵⁵,,VanDam2025,,,^ʨ a k ₄$,default,jak,2024
 MuishaungNeedham-173_now-1,,MuishaungNeedham,173_now,mɑ.ʧʰu,mɑ.ʧʰu,m ɑ + tʃʰ u,,Needham1897,,,^m ɑ . ʧʰ u$,default,mâ´chû,1897
-MuishaungModern-173_now-1,,MuishaungModern,173_now,mɐi₁ʨɨu₃,mɐi₁ʨɨu₃,m ɐ i ¹ + tɕ ɨu ³,,VanDam2025,,,^m ɐ i ₁ ʨ ɨu ₃$,default,mvyz.juiuc,2024
+MuishaungModern-173_now-1,,MuishaungModern,173_now,mɐi₁ʨɨu₃,mɐi₁ʨɨu₃,m ɐ i ₁/³¹ + tɕ ɨu ₃/³³,,VanDam2025,,,^m ɐ i ₁ ʨ ɨu ₃$,default,mvyz.juiuc,2024
 MuishaungNeedham-174_old-1,,MuishaungNeedham,174_old,ɑ.kiɒ̃,ɑ.kiɒ̃,ɑ + k i ɒ̃,,Needham1897,,,^ɑ . k i ɒ̃$,default,â-kîoṉ,1897
-MuishaungModern-174_old-1,,MuishaungModern,174_old,ə₀ke₁,ə₀ke₁,ə ⁰ k e ¹,,VanDam2025,,,^ə ₀ k e ₁$,default,v.kez,2024
+MuishaungModern-174_old-1,,MuishaungModern,174_old,ə₀ke₁,ə₀ke₁,ə ₀/⁰ k e ₁/³¹,,VanDam2025,,,^ə ₀ k e ₁$,default,v.kez,2024
 MuishaungNeedham-175_oldman-1,,MuishaungNeedham,175_oldman,βi.kɑ̃.wɑ,βi.kɑ̃.wɑ,β i + k ɑ̃ + w ɑ,,Needham1897,,,^β i . k ɑ̃ . w ɑ$,default,vî-kâṉwâ,1897
-MuishaungModern-175_oldman-1,,MuishaungModern,175_oldman,li₂kɔ₂ βa₁,li₂kɔ₂_βa₁,l i ² + k ɔ ₂ + β a ¹,,VanDam2025,,,^l i ₂ k ɔ ₂_ β a ₁$,default,lix.kawx waz,2024
+MuishaungModern-175_oldman-1,,MuishaungModern,175_oldman,li₂kɔ₂ βa₁,li₂kɔ₂_βa₁,l i ₂/²³¹ + k ɔ ₂/²³¹ + β a ₁/³¹,,VanDam2025,,,^l i ₂ k ɔ ₂_ β a ₁$,default,lix.kawx waz,2024
 MuishaungNeedham-176_oldwoman-1,,MuishaungNeedham,176_oldwoman,βi.kru,βi.kru,β i + k r u,,Needham1897,,,^β i . k r u$,default,vî´krû,1897
-MuishaungModern-176_oldwoman-1,,MuishaungModern,176_oldwoman,βi₁kɨu₂ ɲɨu₁,βi₁kɨu₂_ɲɨu₁,β i ¹ + k ɨu ₂ + ɲ ɨu ¹,,VanDam2025,,,^β i ₁ k ɨu ₂_ ɲ ɨu ₁$,default,wiz.kuiux nyuiuz,2024
+MuishaungModern-176_oldwoman-1,,MuishaungModern,176_oldwoman,βi₁kɨu₂ ɲɨu₁,βi₁kɨu₂_ɲɨu₁,β i ₁/³¹ + k ɨu ₂/²³¹ + ɲ ɨu ₁/³¹,,VanDam2025,,,^β i ₁ k ɨu ₂_ ɲ ɨu ₁$,default,wiz.kuiux nyuiuz,2024
 MuishaungNeedham-177_petticoat-1,,MuishaungNeedham,177_petticoat,ni.sɑ,ni.sɑ,n i + s ɑ,,Needham1897,,,^n i . s ɑ$,default,nî´sâ,1897
-MuishaungModern-177_petticoat-1,,MuishaungModern,177_petticoat,n̪ɨiʔ₄sa₁,n̪ɨiʔ₄sa₁,n̪ ɨi ʔ ⁴ + s a ¹,,VanDam2025,,,^n̪ ɨi ʔ ₄ s a ₁$,default,nhuiyq.saz,2024
+MuishaungModern-177_petticoat-1,,MuishaungModern,177_petticoat,n̪ɨiʔ₄sa₁,n̪ɨiʔ₄sa₁,n̪ ɨi ʔ ₄/⁵⁵ + s a ₁/³¹,,VanDam2025,,,^n̪ ɨi ʔ ₄ s a ₁$,default,nhuiyq.saz,2024
 MuishaungNeedham-178_womanschudder-1,,MuishaungNeedham,178_womanschudder,kʰɒi̯.pɑ̃,kʰɒi̯.pɑ̃,kʰ ɒi̯ + p ɑ̃,,Needham1897,,,^kʰ ɒi̯ . p ɑ̃$,default,khaipâṉ,1897
-MuishaungModern-178_womanschudder-1,,MuishaungModern,178_womanschudder,kʰɐi₁par₂,kʰɐi₁par₂,kʰ ɐ i ¹ + p a r ²,,VanDam2025,,,^kʰ ɐ i ₁ p a r ₂$,default,khvyz.parx,2024
+MuishaungModern-178_womanschudder-1,,MuishaungModern,178_womanschudder,kʰɐi₁par₂,kʰɐi₁par₂,kʰ ɐ i ₁/³¹ + p a r ₂/²³¹,,VanDam2025,,,^kʰ ɐ i ₁ p a r ₂$,default,khvyz.parx,2024
 MuishaungNeedham-179_pig-1,,MuishaungNeedham,179_pig,βʌk,βʌk,β ʌ k,,Needham1897,,,^β ʌ k$,default,vak,1897
-MuishaungModern-179_pig-1,,MuishaungModern,179_pig,βɐuk₄,βɐuk₄,β ɐu k ⁴,,VanDam2025,,,^β ɐu k ₄$,default,wvuk,2024
+MuishaungModern-179_pig-1,,MuishaungModern,179_pig,βɐuk₄,βɐuk₄,β ɐu k ₄/⁵⁵,,VanDam2025,,,^β ɐu k ₄$,default,wvuk,2024
 MuishaungNeedham-180_pipe-1,,MuishaungNeedham,180_pipe,jɑ.tɪk,jɑ.tɪk,j ɑ + t ɪ k,,Needham1897,,,^j ɑ . t ɪ k$,default,yâ´tik,1897
-MuishaungModern-180_pipe-1,,MuishaungModern,180_pipe,ɲa₃tɨk₄,ɲa₃tɨk₄,ɲ a ³ + t ɨ k ⁴,,VanDam2025,,,^ɲ a ₃ t ɨ k ₄$,default,nyac.tuik,2024
+MuishaungModern-180_pipe-1,,MuishaungModern,180_pipe,ɲa₃tɨk₄,ɲa₃tɨk₄,ɲ a ₃/³³ + t ɨ k ₄/⁵⁵,,VanDam2025,,,^ɲ a ₃ t ɨ k ₄$,default,nyac.tuik,2024
 MuishaungNeedham-181_placeorputv-1,,MuishaungNeedham,181_placeorputv,tɑ,tɑ,t ɑ,,Needham1897,,,^t ɑ$,default,tâ,1897
-MuishaungModern-181_placeorputv-1,,MuishaungModern,181_placeorputv,taʔ₄,taʔ₄,t a ʔ ⁴,,VanDam2025,,,^t a ʔ ₄$,default,taq,2024
+MuishaungModern-181_placeorputv-1,,MuishaungModern,181_placeorputv,taʔ₄,taʔ₄,t a ʔ ₄/⁵⁵,,VanDam2025,,,^t a ʔ ₄$,default,taq,2024
 MuishaungNeedham-182_poison-1,,MuishaungNeedham,182_poison,lʌ.pu,lʌ.pu,l ʌ + p u,,Needham1897,,,^l ʌ . p u$,default,la´pû,1897
-MuishaungModern-182_poison-1,,MuishaungModern,182_poison,lə₀pu₁,lə₀pu₁,l ə ⁰ p u ¹,,VanDam2025,,,^l ə ₀ p u ₁$,default,lvpuz,2024
+MuishaungModern-182_poison-1,,MuishaungModern,182_poison,lə₀pu₁,lə₀pu₁,l ə ₀/⁰ p u ₁/³¹,,VanDam2025,,,^l ə ₀ p u ₁$,default,lvpuz,2024
 MuishaungNeedham-183_post-1,,MuishaungNeedham,183_post,tʰuŋ,tʰuŋ,tʰ u ŋ,,Needham1897,,,^tʰ u ŋ$,default,thung,1897
-MuishaungModern-183_post-1,,MuishaungModern,183_post,tʰuŋ₁,tʰuŋ₁,tʰ u ŋ ¹,,VanDam2025,,,^tʰ u ŋ ₁$,default,thungz,2024
-MuishaungNeedham-184_plantain-1,,MuishaungNeedham,184_plantain,ɲɑm.ŋɑ,ɲɑm.ŋa,ɲ ɑ m + ŋ a,,Needham1897,,,^ɲ ɑ m . ŋ a $,default,yâm ṉgâ,1897
-MuishaungModern-184_plantain-1,,MuishaungModern,184_plantain,ɲap₄ŋak₄,ɲap₄ŋak₄,ɲ a p ⁴ + ŋ a k ⁴,,VanDam2025,,,^ɲ a p ₄ ŋ a k ₄$,default,nyapngak,2024
+MuishaungModern-183_post-1,,MuishaungModern,183_post,tʰuŋ₁,tʰuŋ₁,tʰ u ŋ ₁/³¹,,VanDam2025,,,^tʰ u ŋ ₁$,default,thungz,2024
+MuishaungNeedham-184_plantain-1,,MuishaungNeedham,184_plantain,jɑm.̃gɑ,jɑ̃m.ga,j ɑ̃ m + g a,,Needham1897,,,^j ɑ̃ m . g a $,default,yâm ṉgâ,1897
+MuishaungModern-184_plantain-1,,MuishaungModern,184_plantain,ɲap₄ŋak₄,ɲap₄ŋak₄,ɲ a p ₄/⁵⁵ + ŋ a k ₄/⁵⁵,,VanDam2025,,,^ɲ a p ₄ ŋ a k ₄$,default,nyapngak,2024
 MuishaungNeedham-185_rice-1,,MuishaungNeedham,185_rice,βuŋ,βuŋ,β u ŋ,,Needham1897,,,^β u ŋ$,default,vûng,1897
-MuishaungModern-185_rice-1,,MuishaungModern,185_rice,βuŋ₂,βuŋ₂,β u ŋ ²,,VanDam2025,,,^β u ŋ ₂$,default,wungx,2024
+MuishaungModern-185_rice-1,,MuishaungModern,185_rice,βuŋ₂,βuŋ₂,β u ŋ ₂/²³¹,,VanDam2025,,,^β u ŋ ₂$,default,wungx,2024
 MuishaungNeedham-186_cookedrice-1,,MuishaungNeedham,186_cookedrice,duŋ,duŋ,d u ŋ,,Needham1897,,,^d u ŋ$,default,dûng,1897
-MuishaungModern-186_cookedrice-1,,MuishaungModern,186_cookedrice,duŋ₃,duŋ₃,d u ŋ ³,,VanDam2025,,,^d u ŋ ₃$,default,dungc,2024
+MuishaungModern-186_cookedrice-1,,MuishaungModern,186_cookedrice,duŋ₃,duŋ₃,d u ŋ ₃/³³,,VanDam2025,,,^d u ŋ ₃$,default,dungc,2024
 MuishaungNeedham-187_rain-1,,MuishaungNeedham,187_rain,rʌŋ,rʌŋ,r ʌ ŋ,,Needham1897,,,^r ʌ ŋ$,default,rang,1897
-MuishaungModern-187_rain-1,,MuishaungModern,187_rain,rɐuŋ₂ʒun₃,rɐuŋ₂ʒun₃,r ɐu ŋ ² + ʒ u n ³,,VanDam2025,,,^r ɐu ŋ ₂ ʒ u n ₃$,default,rvungx.yunc,2024
+MuishaungModern-187_rain-1,,MuishaungModern,187_rain,rɐuŋ₂ʒun₃,rɐuŋ₂ʒun₃,r ɐu ŋ ₂/²³¹ + ʒ u n ₃/³³,,VanDam2025,,,^r ɐu ŋ ₂ ʒ u n ₃$,default,rvungx.yunc,2024
 MuishaungNeedham-188_red-1,,MuishaungNeedham,188_red,kɒi̯.ʃɑn,kɒi̯.ʃɑn,k ɒi̯ + ʃ ɑ n,,Needham1897,,,^k ɒi̯ . ʃ ɑ n$,default,kaishân,1897
-MuishaungModern-188_red-1,,MuishaungModern,188_red,ʃɔ₂,ʃɔ₂,ʃ ɔ ²,,VanDam2025,,,^ʃ ɔ ₂$,default,v.shawx,2024
+MuishaungModern-188_red-1,,MuishaungModern,188_red,ʃɔ₂,ʃɔ₂,ʃ ɔ ₂/²³¹,,VanDam2025,,,^ʃ ɔ ₂$,default,v.shawx,2024
 MuishaungNeedham-189_ring-1,,MuishaungNeedham,189_ring,jɒk.tu.ɒp,jɒk.tu.ɒp,j ɒ k + t u + ɒ p,,Needham1897,,,^j ɒ k . t u . ɒ p$,default,yoktû´op,1897
-MuishaungModern-189_ring-1,,MuishaungModern,189_ring,ʒɐuk₄top₄,ʒɐuk₄top₄,ʒ ɐu k ⁴ + t o p ⁴,,VanDam2025,,,^ʒ ɐu k ₄ t o p ₄$,default,yvuk.top,2024
+MuishaungModern-189_ring-1,,MuishaungModern,189_ring,ʒɐuk₄top₄,ʒɐuk₄top₄,ʒ ɐu k ₄/⁵⁵ + t o p ₄/⁵⁵,,VanDam2025,,,^ʒ ɐu k ₄ t o p ₄$,default,yvuk.top,2024
 MuishaungNeedham-190_ripe-1,,MuishaungNeedham,190_ripe,ɑ.muɪn,ɑ.muɪn,ɑ + m u ɪ n,,Needham1897,,,^ɑ . m u ɪ n$,default,â´muin,1897
-MuishaungModern-190_ripe-1,,MuishaungModern,190_ripe,mɨn₂,mɨn₂,m ɨ n ²,,VanDam2025,,,^m ɨ n ₂$,default,muinx,2024
+MuishaungModern-190_ripe-1,,MuishaungModern,190_ripe,mɨn₂,mɨn₂,m ɨ n ₂/²³¹,,VanDam2025,,,^m ɨ n ₂$,default,muinx,2024
 MuishaungNeedham-191_riveralsowater-1,,MuishaungNeedham,191_riveralsowater,jɛŋ,jɛŋ,j ɛ ŋ,,Needham1897,,,^j ɛ ŋ$,default,yeng,1897
-MuishaungModern-191_riveralsowater-1,,MuishaungModern,191_riveralsowater,ʒɨ₂,ʒɨ₂,ʒ ɨ ²,,VanDam2025,,,^ʒ ɨ ₂$,default,yuix,2024
+MuishaungModern-191_riveralsowater-1,,MuishaungModern,191_riveralsowater,ʒɨ₂,ʒɨ₂,ʒ ɨ ₂/²³¹,,VanDam2025,,,^ʒ ɨ ₂$,default,yuix,2024
 MuishaungNeedham-192_road-1,,MuishaungNeedham,192_road,lʌm,lʌm,l ʌ m,,Needham1897,,,^l ʌ m$,default,lam,1897
-MuishaungModern-192_road-1,,MuishaungModern,192_road,lɐm₂,lɐm₂,l ɐ m ²,,VanDam2025,,,^l ɐ m ₂$,default,lvmx,2024
+MuishaungModern-192_road-1,,MuishaungModern,192_road,lɐm₂,lɐm₂,l ɐ m ₂/²³¹,,VanDam2025,,,^l ɐ m ₂$,default,lvmx,2024
 MuishaungNeedham-193_roofofhouse-1,,MuishaungNeedham,193_roofofhouse,"ʃɪp, ʃyp",ʃɪp,ʃ ɪ p,,Needham1897,,,^ʃ ɪ p$,default,"ship, shüp",1897
 MuishaungNeedham-193_roofofhouse-2,,MuishaungNeedham,193_roofofhouse,"ʃɪp, ʃyp",ʃyp,ʃ y p,,Needham1897,,,^ʃ y p$,default,"ship, shüp",1897
-MuishaungModern-193_roofofhouse-1,,MuishaungModern,193_roofofhouse,ʃɨp₄,ʃɨp₄,ʃ ɨ p ⁴,,VanDam2025,,,^ʃ ɨ p ₄$,default,shuip,2024
+MuishaungModern-193_roofofhouse-1,,MuishaungModern,193_roofofhouse,ʃɨp₄,ʃɨp₄,ʃ ɨ p ₄/⁵⁵,,VanDam2025,,,^ʃ ɨ p ₄$,default,shuip,2024
 MuishaungNeedham-194_run-1,,MuishaungNeedham,194_run,ju,ju,j u,,Needham1897,,,^j u$,default,yû,1897
-MuishaungModern-194_run-1,,MuishaungModern,194_run,ʒu₁,ʒu₁,ʒ u ¹,,VanDam2025,,,^ʒ u ₁$,default,yuz,2024
+MuishaungModern-194_run-1,,MuishaungModern,194_run,ʒu₁,ʒu₁,ʒ u ₁/³¹,,VanDam2025,,,^ʒ u ₁$,default,yuz,2024
 MuishaungNeedham-195_salt-1,,MuishaungNeedham,195_salt,ʃum,ʃum,ʃ u m,,Needham1897,,,^ʃ u m$,default,shûm,1897
-MuishaungModern-195_salt-1,,MuishaungModern,195_salt,ʃum₁,ʃum₁,ʃ u m ¹,,VanDam2025,,,^ʃ u m ₁$,default,shumz,2024
+MuishaungModern-195_salt-1,,MuishaungModern,195_salt,ʃum₁,ʃum₁,ʃ u m ₁/³¹,,VanDam2025,,,^ʃ u m ₁$,default,shumz,2024
 MuishaungNeedham-196_sand-1,,MuishaungNeedham,196_sand,pʰɑ̃,pʰɑ̃,pʰ ɑ̃,,Needham1897,,,^pʰ ɑ̃$,default,phâṉ,1897
-MuishaungModern-196_sand-1,,MuishaungModern,196_sand,pʰɔ₂,pʰɔ₂,pʰ ɔ ²,,VanDam2025,,,^pʰ ɔ ₂$,default,phawx,2024
+MuishaungModern-196_sand-1,,MuishaungModern,196_sand,pʰɔ₂,pʰɔ₂,pʰ ɔ ₂/²³¹,,VanDam2025,,,^pʰ ɔ ₂$,default,phawx,2024
 MuishaungNeedham-197_seev-1,,MuishaungNeedham,197_seev,kʰi,kʰi,kʰ i,,Needham1897,,,^kʰ i$,default,khî,1897
-MuishaungModern-197_seev-1,,MuishaungModern,197_seev,kʰi₁ / kʰi₃,kʰi₁,kʰ i ¹,,VanDam2025,,,^kʰ i ₁$,default,khiz,2024
-MuishaungModern-197_seev-2,,MuishaungModern,197_seev,kʰi₁ / kʰi₃,kʰi₃,kʰ i ³,,VanDam2025,,,^kʰ i ₃$,default,khiz,2024
+MuishaungModern-197_seev-1,,MuishaungModern,197_seev,kʰi₁ / kʰi₃,kʰi₁,kʰ i ₁/³¹,,VanDam2025,,,^kʰ i ₁$,default,khiz,2024
+MuishaungModern-197_seev-2,,MuishaungModern,197_seev,kʰi₁ / kʰi₃,kʰi₃,kʰ i ₃/³³,,VanDam2025,,,^kʰ i ₃$,default,khiz,2024
 MuishaungNeedham-198_seekv-1,,MuishaungNeedham,198_seekv,tʰi,tʰi,tʰ i,,Needham1897,,,^tʰ i$,default,thî,1897
-MuishaungModern-198_seekv-1,,MuishaungModern,198_seekv,t̪ɨi₂,t̪ɨi₂,t̪ ɨi ²,,VanDam2025,,,^t̪ ɨi ₂$,default,thuiyx,2024
+MuishaungModern-198_seekv-1,,MuishaungModern,198_seekv,t̪ɨi₂,t̪ɨi₂,t̪ ɨi ₂/²³¹,,VanDam2025,,,^t̪ ɨi ₂$,default,thuiyx,2024
 MuishaungNeedham-199_seizev-1,,MuishaungNeedham,199_seizev,lu,lu,l u,,Needham1897,,,^l u$,default,lû,1897
-MuishaungModern-199_seizev-1,,MuishaungModern,199_seizev,lu₁,lu₁,l u ¹,,VanDam2025,,,^l u ₁$,default,luz,2024
+MuishaungModern-199_seizev-1,,MuishaungModern,199_seizev,lu₁,lu₁,l u ₁/³¹,,VanDam2025,,,^l u ₁$,default,luz,2024
 MuishaungNeedham-200_sellv-1,,MuishaungNeedham,200_sellv,ʃɒŋ,ʃɒŋ,ʃ ɒ ŋ,,Needham1897,,,^ʃ ɒ ŋ$,default,shong,1897
-MuishaungModern-200_sellv-1,,MuishaungModern,200_sellv,ʃɐuŋ₁,ʃɐuŋ₁,ʃ ɐu ŋ ¹,,VanDam2025,,,^ʃ ɐu ŋ ₁$,default,shvungz,2024
+MuishaungModern-200_sellv-1,,MuishaungModern,200_sellv,ʃɐuŋ₁,ʃɐuŋ₁,ʃ ɐu ŋ ₁/³¹,,VanDam2025,,,^ʃ ɐu ŋ ₁$,default,shvungz,2024
 MuishaungNeedham-201_sendv-1,,MuishaungNeedham,201_sendv,tɑr,tɑr,t ɑ r,,Needham1897,,,^t ɑ r$,default,târ,1897
-MuishaungModern-201_sendv-1,,MuishaungModern,201_sendv,tə₀ɣur₂,tə₀ɣur₂,t ə ⁰ ɣ u r ²,,VanDam2025,,,^t ə ₀ ɣ u r ₂$,default,tvghurx,2024
+MuishaungModern-201_sendv-1,,MuishaungModern,201_sendv,tə₀ɣur₂,tə₀ɣur₂,t ə ₀/⁰ ɣ u r ₂/²³¹,,VanDam2025,,,^t ə ₀ ɣ u r ₂$,default,tvghurx,2024
 MuishaungNeedham-202_sharp-1,,MuishaungNeedham,202_sharp,ɑ.tʰi,ɑ.tʰi,ɑ + tʰ i,,Needham1897,,,^ɑ . tʰ i$,default,â´thî,1897
-MuishaungModern-202_sharp-1,,MuishaungModern,202_sharp,ə₀t̪ʰɨi₂,ə₀t̪ʰɨi₂,ə ⁰ t̪ʰ ɨi ²,,VanDam2025,,,^ə ₀ t̪ʰ ɨi ₂$,default,v.httuiyx,2024
+MuishaungModern-202_sharp-1,,MuishaungModern,202_sharp,ə₀t̪ʰɨi₂,ə₀t̪ʰɨi₂,ə ₀/⁰ t̪ʰ ɨi ₂/²³¹,,VanDam2025,,,^ə ₀ t̪ʰ ɨi ₂$,default,v.httuiyx,2024
 MuishaungNeedham-203_shootv-1,,MuishaungNeedham,203_shootv,gɑp,gɑp,g ɑ p,,Needham1897,,,^g ɑ p$,default,gâp,1897
-MuishaungModern-203_shootv-1,,MuishaungModern,203_shootv,ɣap₄,ɣap₄,ɣ a p ⁴,,VanDam2025,,,^ɣ a p ₄$,default,ghap,2024
+MuishaungModern-203_shootv-1,,MuishaungModern,203_shootv,ɣap₄,ɣap₄,ɣ a p ₄/⁵⁵,,VanDam2025,,,^ɣ a p ₄$,default,ghap,2024
 MuishaungNeedham-204_similaralike-1,,MuishaungNeedham,204_similaralike,"ɑ.dʌm, dʌm",ɑ.dʌm,ɑ + d ʌ m,,Needham1897,,,^ɑ . d ʌ m$,default,"âdam, dam",1897
 MuishaungNeedham-204_similaralike-2,,MuishaungNeedham,204_similaralike,"ɑ.dʌm, dʌm",dʌm,d ʌ m,,Needham1897,,,^d ʌ m$,default,"âdam, dam",1897
-MuishaungModern-204_similaralike-1,,MuishaungModern,204_similaralike,"ə₀dɐm₁, dɐm₁",ə₀dɐm₁,ə ⁰ d ɐ m ¹,,VanDam2025,,,^ə ₀ d ɐ m ₁$,default,"v.dvmz., dvmz",2024
-MuishaungModern-204_similaralike-2,,MuishaungModern,204_similaralike,"ə₀dɐm₁, dɐm₁",dɐm₁,d ɐ m ¹,,VanDam2025,,,^d ɐ m ₁$,default,"v.dvmz., dvmz",2024
+MuishaungModern-204_similaralike-1,,MuishaungModern,204_similaralike,"ə₀dɐm₁, dɐm₁",ə₀dɐm₁,ə ₀/⁰ d ɐ m ₁/³¹,,VanDam2025,,,^ə ₀ d ɐ m ₁$,default,"v.dvmz., dvmz",2024
+MuishaungModern-204_similaralike-2,,MuishaungModern,204_similaralike,"ə₀dɐm₁, dɐm₁",dɐm₁,d ɐ m ₁/³¹,,VanDam2025,,,^d ɐ m ₁$,default,"v.dvmz., dvmz",2024
 MuishaungNeedham-205_singv-1,,MuishaungNeedham,205_singv,ɑ.ʃɪr,ɑ.ʃɪr,ɑ + ʃ ɪ r,,Needham1897,,,^ɑ . ʃ ɪ r$,default,â´shir,1897
-MuishaungModern-205_singv-1,,MuishaungModern,205_singv,ʃi₃ (song),ʃi₃_,ʃ i ₃,,VanDam2025,,,^ʃ i ₃_$,default,shic,2024
+MuishaungModern-205_singv-1,,MuishaungModern,205_singv,ʃi₃ (song),ʃi₃_,ʃ i ₃/³³,,VanDam2025,,,^ʃ i ₃_$,default,shic,2024
 MuishaungNeedham-206_sitdownv-1,,MuishaungNeedham,206_sitdownv,nɒŋ,nɒŋ,n ɒ ŋ,,Needham1897,,,^n ɒ ŋ$,default,nong,1897
-MuishaungModern-206_sitdownv-1,,MuishaungModern,206_sitdownv,ŋɐuŋ₃,ŋɐuŋ₃,ŋ ɐu ŋ ³,,VanDam2025,,,^ŋ ɐu ŋ ₃$,default,ngvungc,2024
+MuishaungModern-206_sitdownv-1,,MuishaungModern,206_sitdownv,ŋɐuŋ₃,ŋɐuŋ₃,ŋ ɐu ŋ ₃/³³,,VanDam2025,,,^ŋ ɐu ŋ ₃$,default,ngvungc,2024
 MuishaungNeedham-207_skin-1,,MuishaungNeedham,207_skin,ɑ.kry,ɑ.kry,ɑ + k r y,,Needham1897,,,^ɑ . k r y$,default,â´krü,1897
-MuishaungModern-207_skin-1,,MuishaungModern,207_skin,kʰɨ₂,kʰɨ₂,kʰ ɨ ²,,VanDam2025,,,^kʰ ɨ ₂$,default,shuix,2024
+MuishaungModern-207_skin-1,,MuishaungModern,207_skin,kʰɨ₂,kʰɨ₂,kʰ ɨ ₂/²³¹,,VanDam2025,,,^kʰ ɨ ₂$,default,shuix,2024
 MuishaungNeedham-208_sky-1,,MuishaungNeedham,208_sky,rɒŋ,rɒŋ,r ɒ ŋ,,Needham1897,,,^r ɒ ŋ$,default,rong,1897
-MuishaungModern-208_sky-1,,MuishaungModern,208_sky,rɐuŋ₂,rɐuŋ₂,r ɐu ŋ ²,,VanDam2025,,,^r ɐu ŋ ₂$,default,rvungx,2024
+MuishaungModern-208_sky-1,,MuishaungModern,208_sky,rɐuŋ₂,rɐuŋ₂,r ɐu ŋ ₂/²³¹,,VanDam2025,,,^r ɐu ŋ ₂$,default,rvungx,2024
 MuishaungNeedham-209_slave-1,,MuishaungNeedham,209_slave,dɑ,dɑ,d ɑ,,Needham1897,,,^d ɑ$,default,dâ,1897
-MuishaungModern-209_slave-1,,MuishaungModern,209_slave,da₂,da₂,d a ²,,VanDam2025,,,^d a ₂$,default,dax,2024
+MuishaungModern-209_slave-1,,MuishaungModern,209_slave,da₂,da₂,d a ₂/²³¹,,VanDam2025,,,^d a ₂$,default,dax,2024
 MuishaungNeedham-210_slippery-1,,MuishaungNeedham,210_slippery,ɑn.jɑr,ɑn.jɑr,ɑ n + j ɑ r,,Needham1897,,,^ɑ n . j ɑ r$,default,ân´yâr,1897
-MuishaungModern-210_slippery-1,,MuishaungModern,210_slippery,ə₀ɲel₁,ə₀ɲel₁,ə ⁰ ɲ e l ¹,,VanDam2025,,,^ə ₀ ɲ e l ₁$,default,v.nyelz,2024
+MuishaungModern-210_slippery-1,,MuishaungModern,210_slippery,ə₀ɲel₁,ə₀ɲel₁,ə ₀/⁰ ɲ e l ₁/³¹,,VanDam2025,,,^ə ₀ ɲ e l ₁$,default,v.nyelz,2024
 MuishaungNeedham-211_sleepv-1,,MuishaungNeedham,211_sleepv,βɒɪl,βɒɪl,β ɒ ɪ l,,Needham1897,,,^β ɒ ɪ l$,default,voil,1897
-MuishaungModern-211_sleepv-1,,MuishaungModern,211_sleepv,βoɐl₃,βoɐl₃,β o ɐ l ³,,VanDam2025,,,^β o ɐ l ₃$,default,wovlc,2024
+MuishaungModern-211_sleepv-1,,MuishaungModern,211_sleepv,βoɐl₃,βoɐl₃,β o ɐ l ₃/³³,,VanDam2025,,,^β o ɐ l ₃$,default,wovlc,2024
 MuishaungNeedham-212_small-1,,MuishaungNeedham,212_small,ɑ.pʰun.sɑ,ɑ.pʰun.sɑ,ɑ + pʰ u n + s ɑ,,Needham1897,,,^ɑ . pʰ u n . s ɑ$,default,â-phûn´sâ,1897
-MuishaungModern-212_small-1,,MuishaungModern,212_small,ə₀pʰɨn₃ sa₁,ə₀pʰɨn₃_sa₁,ə ⁰ pʰ ɨ n ₃ + s a ¹,,VanDam2025,,,^ə ₀ pʰ ɨ n ₃_ s a ₁$,default,v.phuinc saz,2024
+MuishaungModern-212_small-1,,MuishaungModern,212_small,ə₀pʰɨn₃ sa₁,ə₀pʰɨn₃_sa₁,ə ₀/⁰ pʰ ɨ n ₃/³³ + s a ₁/³¹,,VanDam2025,,,^ə ₀ pʰ ɨ n ₃_ s a ₁$,default,v.phuinc saz,2024
 MuishaungNeedham-213_smell-1,,MuishaungNeedham,213_smell,ɑ.tʰɪŋ,ɑ.tʰɪŋ,ɑ + tʰ ɪ ŋ,,Needham1897,,,^ɑ . tʰ ɪ ŋ$,default,â´thing,1897
-MuishaungModern-213_smell-1,,MuishaungModern,213_smell,t̪ɨŋ₂,t̪ɨŋ₂,t̪ ɨ ŋ ²,,VanDam2025,,,^t̪ ɨ ŋ ₂$,default,thuingx,2024
+MuishaungModern-213_smell-1,,MuishaungModern,213_smell,t̪ɨŋ₂,t̪ɨŋ₂,t̪ ɨ ŋ ₂/²³¹,,VanDam2025,,,^t̪ ɨ ŋ ₂$,default,thuingx,2024
 MuishaungNeedham-214_smoke-1,,MuishaungNeedham,214_smoke,βʌr.kru,βʌr.kru,β ʌ r + k r u,,Needham1897,,,^β ʌ r . k r u$,default,varrkrû,1897
-MuishaungModern-214_smoke-1,,MuishaungModern,214_smoke,βɐr₁kʰɨuʔ₄,βɐr₁kʰɨuʔ₄,β ɐ r ¹ + kʰ ɨu ʔ ⁴,,VanDam2025,,,^β ɐ r ₁ kʰ ɨu ʔ ₄$,default,wvrz.khuiuq,2024
+MuishaungModern-214_smoke-1,,MuishaungModern,214_smoke,βɐr₁kʰɨuʔ₄,βɐr₁kʰɨuʔ₄,β ɐ r ₁/³¹ + kʰ ɨu ʔ ₄/⁵⁵,,VanDam2025,,,^β ɐ r ₁ kʰ ɨu ʔ ₄$,default,wvrz.khuiuq,2024
 MuishaungNeedham-215_snake-1,,MuishaungNeedham,215_snake,pu,pu,p u,,Needham1897,,,^p u$,default,pû,1897
-MuishaungModern-215_snake-1,,MuishaungModern,215_snake,pɨu₃,pɨu₃,p ɨu ³,,VanDam2025,,,^p ɨu ₃$,default,puiuc,2024
+MuishaungModern-215_snake-1,,MuishaungModern,215_snake,pɨu₃,pɨu₃,p ɨu ₃/³³,,VanDam2025,,,^p ɨu ₃$,default,puiuc,2024
 MuishaungNeedham-216_snow-1,,MuishaungNeedham,216_snow,tʰɪk.hɛk,tʰɪk.hɛk,tʰ ɪ k + h ɛ k,,Needham1897,,,^tʰ ɪ k . h ɛ k$,default,thik´hek,1897
-MuishaungModern-216_snow-1,,MuishaungModern,216_snow,ʦɨk₄hek₄,ʦɨk₄hek₄,ts ɨ k ⁴ + h e k ⁴,,VanDam2025,,,^ʦ ɨ k ₄ h e k ₄$,default,tsik.hek,2024
+MuishaungModern-216_snow-1,,MuishaungModern,216_snow,ʦɨk₄hek₄,ʦɨk₄hek₄,ts ɨ k ₄/⁵⁵ + h e k ₄/⁵⁵,,VanDam2025,,,^ʦ ɨ k ₄ h e k ₄$,default,tsik.hek,2024
 MuishaungNeedham-217_son-1,,MuishaungNeedham,217_son,"mi.βɑ.ʃɑ, mi.βɑ.ʃɑ̃",mi.βɑ.ʃɑ,m i + β ɑ + ʃ ɑ,,Needham1897,,,^m i . β ɑ . ʃ ɑ$,default,"mî´vâshâ, mî´vâshâṉ",1897
 MuishaungNeedham-217_son-2,,MuishaungNeedham,217_son,"mi.βɑ.ʃɑ, mi.βɑ.ʃɑ̃",mi.βɑ.ʃɑ̃,m i + β ɑ + ʃ ɑ̃,,Needham1897,,,^m i . β ɑ . ʃ ɑ̃$,default,"mî´vâshâ, mî´vâshâṉ",1897
-MuishaungModern-217_son-1,,MuishaungModern,217_son,miʔ₄βa₁sa₁,miʔ₄βa₁sa₁,m i ʔ ⁴ + β a ¹ + s a ¹,,VanDam2025,,,^m i ʔ ₄ β a ₁ s a ₁$,default,miq.waz.saz,2024
+MuishaungModern-217_son-1,,MuishaungModern,217_son,miʔ₄βa₁sa₁,miʔ₄βa₁sa₁,m i ʔ ₄/⁵⁵ + β a ₁/³¹ + s a ₁/³¹,,VanDam2025,,,^m i ʔ ₄ β a ₁ s a ₁$,default,miq.waz.saz,2024
 MuishaungNeedham-218_sowv-1,,MuishaungNeedham,218_sowv,wɪn,wɪn,w ɪ n,,Needham1897,,,^w ɪ n$,default,win,1897
-MuishaungModern-218_sowv-1,,MuishaungModern,218_sowv,βɨn₃,βɨn₃,β ɨ n ³,,VanDam2025,,,^β ɨ n ₃$,default,wuinc,2024
+MuishaungModern-218_sowv-1,,MuishaungModern,218_sowv,βɨn₃,βɨn₃,β ɨ n ₃/³³,,VanDam2025,,,^β ɨ n ₃$,default,wuinc,2024
 MuishaungNeedham-219_spear-1,,MuishaungNeedham,219_spear,pɑˀ,pɑˀ,p ɑˀ,,Needham1897,,,^p ɑˀ$,default,pâ,1897
-MuishaungModern-219_spear-1,,MuishaungModern,219_spear,paʔ₄,paʔ₄,p a ʔ ⁴,,VanDam2025,,,^p a ʔ ₄$,default,paq,2024
+MuishaungModern-219_spear-1,,MuishaungModern,219_spear,paʔ₄,paʔ₄,p a ʔ ₄/⁵⁵,,VanDam2025,,,^p a ʔ ₄$,default,paq,2024
 MuishaungNeedham-220_spark-1,,MuishaungNeedham,220_spark,βʌr.py,βʌr.py,β ʌ r + p y,,Needham1897,,,^β ʌ r . p y$,default,varrpü,1897
-MuishaungModern-220_spark-1,,MuishaungModern,220_spark,βɐr₁pɨ₃,βɐr₁pɨ₃,β ɐ r ¹ + p ɨ ³,,VanDam2025,,,^β ɐ r ₁ p ɨ ₃$,default,wvrz.puic,2024
+MuishaungModern-220_spark-1,,MuishaungModern,220_spark,βɐr₁pɨ₃,βɐr₁pɨ₃,β ɐ r ₁/³¹ + p ɨ ₃/³³,,VanDam2025,,,^β ɐ r ₁ p ɨ ₃$,default,wvrz.puic,2024
 MuishaungNeedham-221_spiritevil-1,,MuishaungNeedham,221_spiritevil,"tʰɑŋ, tʰɑuŋ",tʰɑŋ,tʰ ɑ ŋ,,Needham1897,,,^tʰ ɑ ŋ$,default,"thâng, thâung",1897
 MuishaungNeedham-221_spiritevil-2,,MuishaungNeedham,221_spiritevil,"tʰɑŋ, tʰɑuŋ",tʰɑuŋ,tʰ ɑ u ŋ,,Needham1897,,,^tʰ ɑ u ŋ$,default,"thâng, thâung",1897
-MuishaungModern-221_spiritevil-1,,MuishaungModern,221_spiritevil,tʰɐuŋ₃,tʰɐuŋ₃,tʰ ɐu ŋ ³,,VanDam2025,,,^tʰ ɐu ŋ ₃$,default,thvungc,2024
+MuishaungModern-221_spiritevil-1,,MuishaungModern,221_spiritevil,tʰɐuŋ₃,tʰɐuŋ₃,tʰ ɐu ŋ ₃/³³,,VanDam2025,,,^tʰ ɐu ŋ ₃$,default,thvungc,2024
 MuishaungNeedham-222_stand-1,,MuishaungNeedham,222_stand,ʧʰɑp,ʧʰɑp,tʃʰ ɑ p,,Needham1897,,,^ʧʰ ɑ p$,default,châp,1897
-MuishaungModern-222_stand-1,,MuishaungModern,222_stand,ʨɐp₄,ʨɐp₄,tɕ ɐ p ⁴,,VanDam2025,,,^ʨ ɐ p ₄$,default,jvp,2024
+MuishaungModern-222_stand-1,,MuishaungModern,222_stand,ʨɐp₄,ʨɐp₄,tɕ ɐ p ₄/⁵⁵,,VanDam2025,,,^ʨ ɐ p ₄$,default,jvp,2024
 MuishaungNeedham-223_star-1,,MuishaungNeedham,223_star,ri.si,ri.si,r i + s i,,Needham1897,,,^r i . s i$,default,rî´sî,1897
-MuishaungModern-223_star-1,,MuishaungModern,223_star,rɨi₁sɨiʔ₄,rɨi₁sɨiʔ₄,r ɨi ¹ + s ɨi ʔ ⁴,,VanDam2025,,,^r ɨi ₁ s ɨi ʔ ₄$,default,ruiyz.suiyq,2024
+MuishaungModern-223_star-1,,MuishaungModern,223_star,rɨi₁sɨiʔ₄,rɨi₁sɨiʔ₄,r ɨi ₁/³¹ + s ɨi ʔ ₄/⁵⁵,,VanDam2025,,,^r ɨi ₁ s ɨi ʔ ₄$,default,ruiyz.suiyq,2024
 MuishaungNeedham-224_stayv-1,,MuishaungNeedham,224_stayv,gʌl,gʌl,g ʌ l,,Needham1897,,,^g ʌ l$,default,gal,1897
-MuishaungModern-224_stayv-1,,MuishaungModern,224_stayv,ɣɨl₃,ɣɨl₃,ɣ ɨ l ³,,VanDam2025,,,^ɣ ɨ l ₃$,default,ghuilc,2024
+MuishaungModern-224_stayv-1,,MuishaungModern,224_stayv,ɣɨl₃,ɣɨl₃,ɣ ɨ l ₃/³³,,VanDam2025,,,^ɣ ɨ l ₃$,default,ghuilc,2024
 MuishaungNeedham-225_stead-1,,MuishaungNeedham,225_stead,"ɑ.gu, ɑ.gru",ɑ.gu,ɑ + g u,,Needham1897,,,^ɑ . g u$,default,"â´gû, â´grû",1897
 MuishaungNeedham-225_stead-2,,MuishaungNeedham,225_stead,"ɑ.gu, ɑ.gru",ɑ.gru,ɑ + g r u,,Needham1897,,,^ɑ . g r u$,default,"â´gû, â´grû",1897
-MuishaungModern-225_stead-1,,MuishaungModern,225_stead,ə₀ɣɤ₁,ə₀ɣɤ₁,ə ⁰ ɣ ɤ ¹,,VanDam2025,,,^ə ₀ ɣ ɤ ₁$,default,v.ghuez,2024
+MuishaungModern-225_stead-1,,MuishaungModern,225_stead,ə₀ɣɤ₁,ə₀ɣɤ₁,ə ₀/⁰ ɣ ɤ ₁/³¹,,VanDam2025,,,^ə ₀ ɣ ɤ ₁$,default,v.ghuez,2024
 MuishaungNeedham-226_stone-1,,MuishaungNeedham,226_stone,luŋ,luŋ,l u ŋ,,Needham1897,,,^l u ŋ$,default,lûng,1897
-MuishaungModern-226_stone-1,,MuishaungModern,226_stone,luŋ₁,luŋ₁,l u ŋ ¹,,VanDam2025,,,^l u ŋ ₁$,default,lungz,2024
+MuishaungModern-226_stone-1,,MuishaungModern,226_stone,luŋ₁,luŋ₁,l u ŋ ₁/³¹,,VanDam2025,,,^l u ŋ ₁$,default,lungz,2024
 MuishaungNeedham-227_sun-1,,MuishaungNeedham,227_sun,rɒŋ.ʃɑr,rɒŋ.ʃɑr,r ɒ ŋ + ʃ ɑ r,,Needham1897,,,^r ɒ ŋ . ʃ ɑ r$,default,rong´shârr,1897
-MuishaungModern-227_sun-1,,MuishaungModern,227_sun,rɐuŋ₂ʃal₂,rɐuŋ₂ʃal₂,r ɐu ŋ ² + ʃ a l ²,,VanDam2025,,,^r ɐu ŋ ₂ ʃ a l ₂$,default,rvungx.shalx,2024
+MuishaungModern-227_sun-1,,MuishaungModern,227_sun,rɐuŋ₂ʃal₂,rɐuŋ₂ʃal₂,r ɐu ŋ ₂/²³¹ + ʃ a l ₂/²³¹,,VanDam2025,,,^r ɐu ŋ ₂ ʃ a l ₂$,default,rvungx.shalx,2024
 MuishaungNeedham-228_tail-1,,MuishaungNeedham,228_tail,ɑ.mi,ɑ.mi,ɑ + m i,,Needham1897,,,^ɑ . m i$,default,â´mî,1897
-MuishaungModern-228_tail-1,,MuishaungModern,228_tail,ə₀mi₁,ə₀mi₁,ə ⁰ m i ¹,,VanDam2025,,,^ə ₀ m i ₁$,default,v.miz,2024
+MuishaungModern-228_tail-1,,MuishaungModern,228_tail,ə₀mi₁,ə₀mi₁,ə ₀/⁰ m i ₁/³¹,,VanDam2025,,,^ə ₀ m i ₁$,default,v.miz,2024
 MuishaungNeedham-229_takev-1,,MuishaungNeedham,229_takev,lʌm.βʌn,lʌm.βʌn,l ʌ m + β ʌ n,,Needham1897,,,^l ʌ m . β ʌ n$,default,lam´van,1897
-MuishaungModern-229_takev-1,,MuishaungModern,229_takev,"lɐm₃ βɐn₃, lɐm₁ βɐn₃",lɐm₃_βɐn₃,l ɐ m ₃ + β ɐ n ³,,VanDam2025,,,^l ɐ m ₃_ β ɐ n ₃$,default,"lvmc wvnc., lvmz wvnc",2024
-MuishaungModern-229_takev-2,,MuishaungModern,229_takev,"lɐm₃ βɐn₃, lɐm₁ βɐn₃",lɐm₁_βɐn₃,l ɐ m ₁ + β ɐ n ³,,VanDam2025,,,^l ɐ m ₁_ β ɐ n ₃$,default,"lvmc wvnc., lvmz wvnc",2024
+MuishaungModern-229_takev-1,,MuishaungModern,229_takev,"lɐm₃ βɐn₃, lɐm₁ βɐn₃",lɐm₃_βɐn₃,l ɐ m ₃/³³ + β ɐ n ₃/³³,,VanDam2025,,,^l ɐ m ₃_ β ɐ n ₃$,default,"lvmc wvnc., lvmz wvnc",2024
+MuishaungModern-229_takev-2,,MuishaungModern,229_takev,"lɐm₃ βɐn₃, lɐm₁ βɐn₃",lɐm₁_βɐn₃,l ɐ m ₁/³¹ + β ɐ n ₃/³³,,VanDam2025,,,^l ɐ m ₁_ β ɐ n ₃$,default,"lvmc wvnc., lvmz wvnc",2024
 MuishaungNeedham-230_that-1,,MuishaungNeedham,230_that,"kʌ.rɒu̯, kʌ.ry",kʌ.rɒu̯,k ʌ + r ɒu̯,,Needham1897,,,^k ʌ . r ɒu̯ $,default,"ka´rau, ka´rü",1897
 MuishaungNeedham-230_that-2,,MuishaungNeedham,230_that,"kʌ.rɒu̯, kʌ.ry",kʌ.ry,k ʌ + r y,,Needham1897,,,^k ʌ . r y$,default,"ka´rau, ka´rü",1897
-MuishaungModern-230_that-1,,MuishaungModern,230_that,kə₀rɤ₂,kə₀rɤ₂,k ə ⁰ r ɤ ²,,VanDam2025,,,^k ə ₀ r ɤ ₂$,default,kv.ruex,2024
+MuishaungModern-230_that-1,,MuishaungModern,230_that,kə₀rɤ₂,kə₀rɤ₂,k ə ₀/⁰ r ɤ ₂/²³¹,,VanDam2025,,,^k ə ₀ r ɤ ₂$,default,kv.ruex,2024
 MuishaungNeedham-231_themorthey-1,,MuishaungNeedham,231_themorthey,tʰɪŋ.ʃi,tʰɪŋ.ʃi,tʰ ɪ ŋ + ʃ i,,Needham1897,,,^tʰ ɪ ŋ . ʃ i$,default,thing´shî,1897
-MuishaungModern-231_themorthey-1,,MuishaungModern,231_themorthey,ʦɨŋ₃ʃiʔ₄,ʦɨŋ₃ʃiʔ₄,ts ɨ ŋ ³ + ʃ i ʔ ⁴,,VanDam2025,,,^ʦ ɨ ŋ ₃ ʃ i ʔ ₄$,default,tsuingc.shiq,2024
+MuishaungModern-231_themorthey-1,,MuishaungModern,231_themorthey,ʦɨŋ₃ʃiʔ₄,ʦɨŋ₃ʃiʔ₄,ts ɨ ŋ ₃/³³ + ʃ i ʔ ₄/⁵⁵,,VanDam2025,,,^ʦ ɨ ŋ ₃ ʃ i ʔ ₄$,default,tsuingc.shiq,2024
 MuishaungNeedham-232_there-1,,MuishaungNeedham,232_there,gʌ.ny,gʌ.ny,g ʌ + n y,,Needham1897,,,^g ʌ . n y$,default,ga´nü,1897
-MuishaungModern-232_there-1,,MuishaungModern,232_there,kə₀nɤ₂,kə₀nɤ₂,k ə ⁰ n ɤ ²,,VanDam2025,,,^k ə ₀ n ɤ ₂$,default,kv.nuex,2024
+MuishaungModern-232_there-1,,MuishaungModern,232_there,kə₀nɤ₂,kə₀nɤ₂,k ə ₀/⁰ n ɤ ₂/²³¹,,VanDam2025,,,^k ə ₀ n ɤ ₂$,default,kv.nuex,2024
 MuishaungNeedham-233_thief-1,,MuishaungNeedham,233_thief,ɑ.gru.wɑ,ɑ.gru.wɑ,ɑ + g r u + w ɑ,,Needham1897,,,^ɑ . g r u . w ɑ$,default,â´grûwâ,1897
-MuishaungModern-233_thief-1,,MuishaungModern,233_thief,ə₀ɣɨuʔ₄βa₁,ə₀ɣɨuʔ₄βa₁,ə ⁰ ɣ ɨu ʔ ⁴ + β a ¹,,VanDam2025,,,^ə ₀ ɣ ɨu ʔ ₄ β a ₁$,default,v.ghuiuq.waz,2024
+MuishaungModern-233_thief-1,,MuishaungModern,233_thief,ə₀ɣɨuʔ₄βa₁,ə₀ɣɨuʔ₄βa₁,ə ₀/⁰ ɣ ɨu ʔ ₄/⁵⁵ + β a ₁/³¹,,VanDam2025,,,^ə ₀ ɣ ɨu ʔ ₄ β a ₁$,default,v.ghuiuq.waz,2024
 MuishaungNeedham-234_thinnotthick-1,,MuishaungNeedham,234_thinnotthick,ɑ.βɑr,ɑ.βɑr,ɑ + β ɑ r,,Needham1897,,,^ɑ . β ɑ r$,default,â´vâr,1897
-MuishaungModern-234_thinnotthick-1,,MuishaungModern,234_thinnotthick,ə₀βar₂,ə₀βar₂,ə ⁰ β a r ²,,VanDam2025,,,^ə ₀ β a r ₂$,default,v.warx,2024
+MuishaungModern-234_thinnotthick-1,,MuishaungModern,234_thinnotthick,ə₀βar₂,ə₀βar₂,ə ₀/⁰ β a r ₂/²³¹,,VanDam2025,,,^ə ₀ β a r ₂$,default,v.warx,2024
 MuishaungNeedham-235_thinnotthick-1,,MuishaungNeedham,235_thinnotthick,ɑ.gy,ɑ.gy,ɑ + g y,,Needham1897,,,^ɑ . g y$,default,â´gü,1897
 MuishaungNeedham-236_thinnotfat-1,,MuishaungNeedham,236_thinnotfat,ɑ.re.ɑ̃,ɑ.re.ɑ̃,ɑ + r e + ɑ̃,,Needham1897,,,^ɑ . r e . ɑ̃$,default,â´rê´âṉ,1897
-MuishaungModern-236_thinnotfat-1,,MuishaungModern,236_thinnotfat,ə₀re₂,ə₀re₂,ə ⁰ r e ²,,VanDam2025,,,^ə ₀ r e ₂$,default,v.rex,2024
+MuishaungModern-236_thinnotfat-1,,MuishaungModern,236_thinnotfat,ə₀re₂,ə₀re₂,ə ₀/⁰ r e ₂/²³¹,,VanDam2025,,,^ə ₀ r e ₂$,default,v.rex,2024
 MuishaungNeedham-237_this-1,,MuishaungNeedham,237_this,"ɑ.rɒu̯, ɑ.ry",ɑ.rɒu̯,ɑ + r ɒu̯,,Needham1897,,,^ɑ . r ɒu̯ $,default,"â´rau, â´rü",1897
 MuishaungNeedham-237_this-2,,MuishaungNeedham,237_this,"ɑ.rɒu̯, ɑ.ry",ɑ.ry,ɑ + r y,,Needham1897,,,^ɑ . r y$,default,"â´rau, â´rü",1897
-MuishaungModern-237_this-1,,MuishaungModern,237_this,ə₀rɤ₂,ə₀rɤ₂,ə ⁰ r ɤ ²,,VanDam2025,,,^ə ₀ r ɤ ₂$,default,v.ruex,2024
+MuishaungModern-237_this-1,,MuishaungModern,237_this,ə₀rɤ₂,ə₀rɤ₂,ə ₀/⁰ r ɤ ₂/²³¹,,VanDam2025,,,^ə ₀ r ɤ ₂$,default,v.ruex,2024
 MuishaungNeedham-238_thorn-1,,MuishaungNeedham,238_thorn,ʃu,ʃu,ʃ u,,Needham1897,,,^ʃ u$,default,shû,1897
-MuishaungModern-238_thorn-1,,MuishaungModern,238_thorn,ʃɨuʔ₄,ʃɨuʔ₄,ʃ ɨu ʔ ⁴,,VanDam2025,,,^ʃ ɨu ʔ ₄$,default,shuiuq,2024
+MuishaungModern-238_thorn-1,,MuishaungModern,238_thorn,ʃɨuʔ₄,ʃɨuʔ₄,ʃ ɨu ʔ ₄/⁵⁵,,VanDam2025,,,^ʃ ɨu ʔ ₄$,default,shuiuq,2024
 MuishaungNeedham-239_thumb-1,,MuishaungNeedham,239_thumb,jɒk.ʃi,jɒk.ʃi,j ɒ k + ʃ i,,Needham1897,,,^j ɒ k . ʃ i$,default,yok´shî,1897
-MuishaungModern-239_thumb-1,,MuishaungModern,239_thumb,ʒɐuk₄ʃi₂,ʒɐuk₄ʃi₂,ʒ ɐu k ⁴ + ʃ i ²,,VanDam2025,,,^ʒ ɐu k ₄ ʃ i ₂$,default,yvuk.shix,2024
+MuishaungModern-239_thumb-1,,MuishaungModern,239_thumb,ʒɐuk₄ʃi₂,ʒɐuk₄ʃi₂,ʒ ɐu k ₄/⁵⁵ + ʃ i ₂/²³¹,,VanDam2025,,,^ʒ ɐu k ₄ ʃ i ₂$,default,yvuk.shix,2024
 MuishaungNeedham-240_thunder-1,,MuishaungNeedham,240_thunder,rɒŋ.muk,rɒŋ.muk,r ɒ ŋ + m u k,,Needham1897,,,^r ɒ ŋ . m u k$,default,rong´mûk,1897
-MuishaungModern-240_thunder-1,,MuishaungModern,240_thunder,rɐuŋ₂muk₄,rɐuŋ₂muk₄,r ɐu ŋ ² + m u k ⁴,,VanDam2025,,,^r ɐu ŋ ₂ m u k ₄$,default,rvungx.muk,2024
+MuishaungModern-240_thunder-1,,MuishaungModern,240_thunder,rɐuŋ₂muk₄,rɐuŋ₂muk₄,r ɐu ŋ ₂/²³¹ + m u k ₄/⁵⁵,,VanDam2025,,,^r ɐu ŋ ₂ m u k ₄$,default,rvungx.muk,2024
 MuishaungNeedham-241_tiger-1,,MuishaungNeedham,241_tiger,ʧʰɑˀ,ʧʰɑˀ,tʃʰ ɑˀ,,Needham1897,,,^ʧʰ ɑˀ$,default,châ,1897
-MuishaungModern-241_tiger-1,,MuishaungModern,241_tiger,ʨaʔ₄,ʨaʔ₄,tɕ a ʔ ⁴,,VanDam2025,,,^ʨ a ʔ ₄$,default,jaq,2024
+MuishaungModern-241_tiger-1,,MuishaungModern,241_tiger,ʨaʔ₄,ʨaʔ₄,tɕ a ʔ ₄/⁵⁵,,VanDam2025,,,^ʨ a ʔ ₄$,default,jaq,2024
 MuishaungNeedham-242_tobacco-1,,MuishaungNeedham,242_tobacco,ɲɑ,ɲɑ,ɲ ɑ,,Needham1897,,,^ɲ ɑ$,default,nyâ,1897
-MuishaungModern-242_tobacco-1,,MuishaungModern,242_tobacco,ɲa₃,ɲa₃,ɲ a ³,,VanDam2025,,,^ɲ a ₃$,default,nyac,2024
+MuishaungModern-242_tobacco-1,,MuishaungModern,242_tobacco,ɲa₃,ɲa₃,ɲ a ₃/³³,,VanDam2025,,,^ɲ a ₃$,default,nyac,2024
 MuishaungNeedham-243_toe-1,,MuishaungNeedham,243_toe,jɑ.ʃi,jɑ.ʃi,j ɑ + ʃ i,,Needham1897,,,^j ɑ . ʃ i$,default,yâ´shî,1897
-MuishaungModern-243_toe-1,,MuishaungModern,243_toe,ʒa₁ʃi₂,ʒa₁ʃi₂,ʒ a ¹ + ʃ i ²,,VanDam2025,,,^ʒ a ₁ ʃ i ₂$,default,yaz.shix,2024
+MuishaungModern-243_toe-1,,MuishaungModern,243_toe,ʒa₁ʃi₂,ʒa₁ʃi₂,ʒ a ₁/³¹ + ʃ i ₂/²³¹,,VanDam2025,,,^ʒ a ₁ ʃ i ₂$,default,yaz.shix,2024
 MuishaungNeedham-244_tongue-1,,MuishaungNeedham,244_tongue,lʌ.li,lʌ.li,l ʌ + l i,,Needham1897,,,^l ʌ . l i$,default,la´lî,1897
-MuishaungModern-244_tongue-1,,MuishaungModern,244_tongue,tə₀li₂,tə₀li₂,t ə ⁰ l i ²,,VanDam2025,,,^t ə ₀ l i ₂$,default,tv.lix,2024
+MuishaungModern-244_tongue-1,,MuishaungModern,244_tongue,tə₀li₂,tə₀li₂,t ə ₀/⁰ l i ₂/²³¹,,VanDam2025,,,^t ə ₀ l i ₂$,default,tv.lix,2024
 MuishaungNeedham-245_tooth-1,,MuishaungNeedham,245_tooth,βɑ,βɑ,β ɑ,,Needham1897,,,^β ɑ$,default,vâ,1897
-MuishaungModern-245_tooth-1,,MuishaungModern,245_tooth,βa₃,βa₃,β a ³,,VanDam2025,,,^β a ₃$,default,wac,2024
+MuishaungModern-245_tooth-1,,MuishaungModern,245_tooth,βa₃,βa₃,β a ₃/³³,,VanDam2025,,,^β a ₃$,default,wac,2024
 MuishaungNeedham-246_touchwood-1,,MuishaungNeedham,246_touchwood,my,my,m y,,Needham1897,,,^m y$,default,mü,1897
 MuishaungNeedham-247_trackv-1,,MuishaungNeedham,247_trackv,jyr,jyr,j y r,,Needham1897,,,^j y r$,default,yür,1897
-MuishaungModern-247_trackv-1,,MuishaungModern,247_trackv,ʒur₃,ʒur₃,ʒ u r ³,,VanDam2025,,,^ʒ u r ₃$,default,yurc,2024
+MuishaungModern-247_trackv-1,,MuishaungModern,247_trackv,ʒur₃,ʒur₃,ʒ u r ₃/³³,,VanDam2025,,,^ʒ u r ₃$,default,yurc,2024
 MuishaungNeedham-248_true-1,,MuishaungNeedham,248_true,ɑ.sɪŋ,ɑ.sɪŋ,ɑ + s ɪ ŋ,,Needham1897,,,^ɑ . s ɪ ŋ$,default,â´sing,1897
-MuishaungModern-248_true-1,,MuishaungModern,248_true,ə₀sɨŋ₁,ə₀sɨŋ₁,ə ⁰ s ɨ ŋ ¹,,VanDam2025,,,^ə ₀ s ɨ ŋ ₁$,default,v.suingz,2024
+MuishaungModern-248_true-1,,MuishaungModern,248_true,ə₀sɨŋ₁,ə₀sɨŋ₁,ə ₀/⁰ s ɨ ŋ ₁/³¹,,VanDam2025,,,^ə ₀ s ɨ ŋ ₁$,default,v.suingz,2024
 MuishaungNeedham-249_tree-1,,MuishaungNeedham,249_tree,pul,pul,p u l,,Needham1897,,,^p u l$,default,pûl,1897
-MuishaungModern-249_tree-1,,MuishaungModern,249_tree,pul₂,pul₂,p u l ²,,VanDam2025,,,^p u l ₂$,default,pulx,2024
+MuishaungModern-249_tree-1,,MuishaungModern,249_tree,pul₂,pul₂,p u l ₂/²³¹,,VanDam2025,,,^p u l ₂$,default,pulx,2024
 MuishaungNeedham-250_uncle-1,,MuishaungNeedham,250_uncle,i.βɒŋ,i.βɒŋ,i + β ɒ ŋ,,Needham1897,,,^i . β ɒ ŋ$,default,î´vong,1897
-MuishaungModern-250_uncle-1,,MuishaungModern,250_uncle,ə₀βɐuŋ₂,ə₀βɐuŋ₂,ə ⁰ β ɐu ŋ ²,,VanDam2025,,,^ə ₀ β ɐu ŋ ₂$,default,v.wvungx,2024
+MuishaungModern-250_uncle-1,,MuishaungModern,250_uncle,ə₀βɐuŋ₂,ə₀βɐuŋ₂,ə ₀/⁰ β ɐu ŋ ₂/²³¹,,VanDam2025,,,^ə ₀ β ɐu ŋ ₂$,default,v.wvungx,2024
 MuishaungNeedham-251_unripe-1,,MuishaungNeedham,251_unripe,ɑ.tʰɪŋ,ɑ.tʰɪŋ,ɑ + tʰ ɪ ŋ,,Needham1897,,,^ɑ . tʰ ɪ ŋ$,default,â´thing,1897
-MuishaungModern-251_unripe-1,,MuishaungModern,251_unripe,ə₀t̪ʰɨŋ₂,ə₀t̪ʰɨŋ₂,ə ⁰ t̪ʰ ɨ ŋ ²,,VanDam2025,,,^ə ₀ t̪ʰ ɨ ŋ ₂$,default,v.httuingx,2024
+MuishaungModern-251_unripe-1,,MuishaungModern,251_unripe,ə₀t̪ʰɨŋ₂,ə₀t̪ʰɨŋ₂,ə ₀/⁰ t̪ʰ ɨ ŋ ₂/²³¹,,VanDam2025,,,^ə ₀ t̪ʰ ɨ ŋ ₂$,default,v.httuingx,2024
 MuishaungNeedham-252_village-1,,MuishaungNeedham,252_village,ki.ʌ̃,ki.ʌ̃,k i + ʌ̃,,Needham1897,,,^k i . ʌ̃$,default,kî´aṉ,1897
-MuishaungModern-252_village-1,,MuishaungModern,252_village,ke₁,ke₁,k e ¹,,VanDam2025,,,^k e ₁$,default,kez,2024
+MuishaungModern-252_village-1,,MuishaungModern,252_village,ke₁,ke₁,k e ₁/³¹,,VanDam2025,,,^k e ₁$,default,kez,2024
 MuishaungNeedham-253_war-1,,MuishaungNeedham,253_war,rɑ.luŋ,rɑ.luŋ,r ɑ + l u ŋ,,Needham1897,,,^r ɑ . l u ŋ$,default,râ´lûng,1897
-MuishaungModern-253_war-1,,MuishaungModern,253_war,"rə₀luŋ₃, rə₀kʰɐt₄",rə₀luŋ₃,r ə ⁰ l u ŋ ³,,VanDam2025,,,^r ə ₀ l u ŋ ₃$,default,"rvlungc., rvkhvt",2024
-MuishaungModern-253_war-2,,MuishaungModern,253_war,"rə₀luŋ₃, rə₀kʰɐt₄",rə₀kʰɐt₄,r ə ⁰ kʰ ɐ t ⁴,,VanDam2025,,,^r ə ₀ kʰ ɐ t ₄$,default,"rvlungc., rvkhvt",2024
+MuishaungModern-253_war-1,,MuishaungModern,253_war,"rə₀luŋ₃, rə₀kʰɐt₄",rə₀luŋ₃,r ə ₀/⁰ l u ŋ ₃/³³,,VanDam2025,,,^r ə ₀ l u ŋ ₃$,default,"rvlungc., rvkhvt",2024
+MuishaungModern-253_war-2,,MuishaungModern,253_war,"rə₀luŋ₃, rə₀kʰɐt₄",rə₀kʰɐt₄,r ə ₀/⁰ kʰ ɐ t ₄/⁵⁵,,VanDam2025,,,^r ə ₀ kʰ ɐ t ₄$,default,"rvlungc., rvkhvt",2024
 MuishaungNeedham-254_what-1,,MuishaungNeedham,254_what,jʌm.lu,jʌm.lu,j ʌ m + l u,,Needham1897,,,^j ʌ m . l u$,default,yam´lû,1897
-MuishaungModern-254_what-1,,MuishaungModern,254_what,ʒəm₂li₂,ʒəm₂li₂,ʒ ə m ² + l i ²,,VanDam2025,,,^ʒ ə m ₂ l i ₂$,default,yvmx.lix,2024
+MuishaungModern-254_what-1,,MuishaungModern,254_what,ʒəm₂li₂,ʒəm₂li₂,ʒ ə m ₂/²³¹ + l i ₂/²³¹,,VanDam2025,,,^ʒ ə m ₂ l i ₂$,default,yvmx.lix,2024
 MuishaungNeedham-255_where-1,,MuishaungNeedham,255_where,m.ʧu.lɑ,m.ʧu.lɑ,m + tʃ u + l ɑ,,Needham1897,,,^m . ʧ u . l ɑ$,default,m´jû´lâ,1897
-MuishaungModern-255_where-1,,MuishaungModern,255_where,m₁ʒuʔ₄la₃,m₁ʒuʔ₄la₃,m ¹ + ʒ u ʔ ⁴ + l a ³,,VanDam2025,,,^m ₁ ʒ u ʔ ₄ l a ₃$,default,mz.yuq.lac,2024
+MuishaungModern-255_where-1,,MuishaungModern,255_where,m₁ʒuʔ₄la₃,m₁ʒuʔ₄la₃,m ₁/³¹ + ʒ u ʔ ₄/⁵⁵ + l a ₃/³³,,VanDam2025,,,^m ₁ ʒ u ʔ ₄ l a ₃$,default,mz.yuq.lac,2024
 MuishaungNeedham-256_white-1,,MuishaungNeedham,256_white,ɑ.ly,ɑ.ly,ɑ + l y,,Needham1897,,,^ɑ . l y$,default,â´lü,1897
-MuishaungModern-256_white-1,,MuishaungModern,256_white,ə₀lɨ₁,ə₀lɨ₁,ə ⁰ l ɨ ¹,,VanDam2025,,,^ə ₀ l ɨ ₁$,default,luiz,2024
+MuishaungModern-256_white-1,,MuishaungModern,256_white,ə₀lɨ₁,ə₀lɨ₁,ə ₀/⁰ l ɨ ₁/³¹,,VanDam2025,,,^ə ₀ l ɨ ₁$,default,luiz,2024
 MuishaungNeedham-257_who-1,,MuishaungNeedham,257_who,u.lɑ,u.lɑ,u + l ɑ,,Needham1897,,,^u . l ɑ$,default,u´lâ,1897
-MuishaungModern-257_who-1,,MuishaungModern,257_who,u₁la₃,u₁la₃,u ¹ + l a ³,,VanDam2025,,,^u ₁ l a ₃$,default,uz.lac,2024
+MuishaungModern-257_who-1,,MuishaungModern,257_who,u₁la₃,u₁la₃,u ₁/³¹ + l a ₃/³³,,VanDam2025,,,^u ₁ l a ₃$,default,uz.lac,2024
 MuishaungNeedham-258_why-1,,MuishaungNeedham,258_why,kʰʌm.lɑ,kʰʌm.lɑ,kʰ ʌ m + l ɑ,,Needham1897,,,^kʰ ʌ m . l ɑ$,default,kham´lâ,1897
-MuishaungModern-258_why-1,,MuishaungModern,258_why,kʰɐm₃ la₃,kʰɐm₃_la₃,kʰ ɐ m ₃ + l a ³,,VanDam2025,,,^kʰ ɐ m ₃_ l a ₃$,default,khvmc lac,2024
+MuishaungModern-258_why-1,,MuishaungModern,258_why,kʰɐm₃ la₃,kʰɐm₃_la₃,kʰ ɐ m ₃/³³ + l a ₃/³³,,VanDam2025,,,^kʰ ɐ m ₃_ l a ₃$,default,khvmc lac,2024
 MuishaungNeedham-259_wing-1,,MuishaungNeedham,259_wing,wu.rɒŋ,wu.rɒŋ,w u + r ɒ ŋ,,Needham1897,,,^w u . r ɒ ŋ$,default,wûrong,1897
-MuishaungModern-259_wing-1,,MuishaungModern,259_wing,βu₁rɐuŋ₂,βu₁rɐuŋ₂,β u ¹ + r ɐu ŋ ²,,VanDam2025,,,^β u ₁ r ɐu ŋ ₂$,default,wuz.rvungx,2024
+MuishaungModern-259_wing-1,,MuishaungModern,259_wing,βu₁rɐuŋ₂,βu₁rɐuŋ₂,β u ₁/³¹ + r ɐu ŋ ₂/²³¹,,VanDam2025,,,^β u ₁ r ɐu ŋ ₂$,default,wuz.rvungx,2024
 MuishaungNeedham-260_worm-1,,MuishaungNeedham,260_worm,ʧʰɪl.bɑ,ʧʰɪl.bɑ,tʃʰ ɪ l + b ɑ,,Needham1897,,,^ʧʰ ɪ l . b ɑ$,default,chil´bâ,1897
-MuishaungModern-260_worm-1,,MuishaungModern,260_worm,ʨɐl₂ba₁,ʨɐl₂ba₁,tɕ ɐ l ² + b a ¹,,VanDam2025,,,^ʨ ɐ l ₂ b a ₁$,default,jvlx.baz,2024
+MuishaungModern-260_worm-1,,MuishaungModern,260_worm,ʨɐl₂ba₁,ʨɐl₂ba₁,tɕ ɐ l ₂/²³¹ + b a ₁/³¹,,VanDam2025,,,^ʨ ɐ l ₂ b a ₁$,default,jvlx.baz,2024
 MuishaungNeedham-261_yesterday-1,,MuishaungNeedham,261_yesterday,mʌ.jɑ,mʌ.jɑ,m ʌ + j ɑ,,Needham1897,,,^m ʌ . j ɑ$,default,ma´yâ,1897
-MuishaungModern-261_yesterday-1,,MuishaungModern,261_yesterday,m₁ʒa₃,m₁ʒa₃,m ¹ + ʒ a ³,,VanDam2025,,,^m ₁ ʒ a ₃$,default,mz.yac,2024
+MuishaungModern-261_yesterday-1,,MuishaungModern,261_yesterday,m₁ʒa₃,m₁ʒa₃,m ₁/³¹ + ʒ a ₃/³³,,VanDam2025,,,^m ₁ ʒ a ₃$,default,mz.yac,2024
 MuishaungNeedham-262_you-1,,MuishaungNeedham,262_you,m.nʌŋ,m.nʌŋ,m + n ʌ ŋ,,Needham1897,,,^m . n ʌ ŋ$,default,m´nang,1897
-MuishaungModern-262_you-1,,MuishaungModern,262_you,m₁nɐuŋ₁,m₁nɐuŋ₁,m ¹ + n ɐu ŋ ¹,,VanDam2025,,,^m ₁ n ɐu ŋ ₁$,default,mz.nvungz,2024
+MuishaungModern-262_you-1,,MuishaungModern,262_you,m₁nɐuŋ₁,m₁nɐuŋ₁,m ₁/³¹ + n ɐu ŋ ₁/³¹,,VanDam2025,,,^m ₁ n ɐu ŋ ₁$,default,mz.nvungz,2024
 MuishaungNeedham-263_youngman-1,,MuishaungNeedham,263_youngman,jɑ.ro.wɑ,jɑ.ro.wɑ,j ɑ + r o + w ɑ,,Needham1897,,,^j ɑ . r o . w ɑ$,default,yâ´rôwâ,1897
-MuishaungModern-263_youngman-1,,MuishaungModern,263_youngman,ʒal₂ro₂βa₁,ʒal₂ro₂βa₁,ʒ a l ² + r o ² + β a ¹,,VanDam2025,,,^ʒ a l ₂ r o ₂ β a ₁$,default,yalx.rox.waz,2024
+MuishaungModern-263_youngman-1,,MuishaungModern,263_youngman,ʒal₂ro₂βa₁,ʒal₂ro₂βa₁,ʒ a l ₂/²³¹ + r o ₂/²³¹ + β a ₁/³¹,,VanDam2025,,,^ʒ a l ₂ r o ₂ β a ₁$,default,yalx.rox.waz,2024
 MuishaungNeedham-264_youngwoman-1,,MuishaungNeedham,264_youngwoman,jɑr.tu,jɑr.tu,j ɑ r + t u,,Needham1897,,,^j ɑ r . t u$,default,yâr´tû,1897
-MuishaungModern-264_youngwoman-1,,MuishaungModern,264_youngwoman,ʒal₂tu₂,ʒal₂tu₂,ʒ a l ² + t u ²,,VanDam2025,,,^ʒ a l ₂ t u ₂$,default,yalx.tux,2024
+MuishaungModern-264_youngwoman-1,,MuishaungModern,264_youngwoman,ʒal₂tu₂,ʒal₂tu₂,ʒ a l ₂/²³¹ + t u ₂/²³¹,,VanDam2025,,,^ʒ a l ₂ t u ₂$,default,yalx.tux,2024

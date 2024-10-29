@@ -87,14 +87,14 @@ y$	y	dy, kʌ.ry	MuishaungNeedham	19	U+0079 U+0024
 ŋ$	ŋ	rʌŋ, ɑ.tʰɪŋ	MuishaungNeedham	34	U+014b U+0024
 ũ$	ũ	βʌr.kũ	MuishaungNeedham	1	U+0169 U+0024
 ɐ	ɐ	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	69	U+0250
-ɐu	ɐu
+ɐu	ɐu				
 ɑ	ɑ	jɑ.kʰɑk, gɑp	MuishaungNeedham	54	U+0251
 ɑ$	ɑ	βɑ, jɑ.ʃɪk.ʃɑ	MuishaungNeedham	38	U+0251 U+0024
 ɑˀ$	ɑˀ	ʧʰɑˀ, ŋɑˀ	MuishaungNeedham	5	U+0251 U+02c0 U+0024
 ɑ̃	ɑ̃	βi.kɑ̃.wɑ	MuishaungNeedham	1	U+0251 U+0303
 ɑ̃$	ɑ̃	jɑ.ʃɪk.ʃɑ̃, βɑ̃	MuishaungNeedham	11	U+0251 U+0303 U+0024
 ɒ	ɒ	jɒk.tʰɪn, jɒk.tu.ɒp	MuishaungNeedham	42	U+0252
-ɒi̯	ɒi̯
+ɒi̯	ɒi̯				
 ɒu̯	ɒu̯				
 ɒ̃$	ɒ̃	kɒ̃, ɑ.kiɒ̃	MuishaungNeedham	2	U+0252 U+0303 U+0024
 ɔ	ɔ	ʨɐp₄bɔ₂, ɲer₂lɔ₂	MuishaungModern	13	U+0254
@@ -104,8 +104,8 @@ y$	y	dy, kʌ.ry	MuishaungNeedham	19	U+0079 U+0024
 ɣ	ɣ	ə₀ɣɤ₁, ə₀ɣɨuʔ₄βa₁	MuishaungModern	4	U+0263
 ɤ	ɤ	ə₀nɤ₂, βʌ.nɤm	MuishaungModern, MuishaungNeedham	9	U+0264
 ɨ	ɨ	rɨi₂, ʒɐuk₄t̪ʰɨn₃	MuishaungModern	80	U+0268
-ɨi	ɨi
-ɨu	ɨu
+ɨi	ɨi				
+ɨu	ɨu				
 ɪ	ɪ	jɒk.tʰɪn, jɑ.ʃɪk.ʃɑ	MuishaungNeedham	36	U+026a
 ɪ$	ɪ	mut.guɪ, tʌ.grɪ	MuishaungNeedham	2	U+026a U+0024
 ɲ	ɲ	ə₀ɲer₂, ə₀ɲɐuk₄	MuishaungModern	5	U+0272
@@ -119,18 +119,18 @@ y$	y	dy, kʌ.ry	MuishaungNeedham	19	U+0079 U+0024
 ʨ	tɕ	ʒal₂ʨɨk₄sa₁, na₃ʨi₃	MuishaungModern	8	U+02a8
 β	β	mi.βɑ.ʃɑ̃, ə₀βar₂	MuishaungModern, MuishaungNeedham	21	U+03b2
 ẽ$	ẽ	kʰẽ	MuishaungNeedham	1	U+1ebd U+0024
-₀	⁰	ə₀t̪ə₀rɐuŋ₂, ə₀re₂	MuishaungModern	60	U+2080
-₀_	₀ +
-₁	¹ +	βu₁ti₁, ʦəm₁tap₄	MuishaungModern	30	U+2081
-₁$	¹	lu₁, ʒal₂ʨɨk₄sa₁	MuishaungModern	77	U+2081 U+0024
-₁_	₁ +
-₂	² +	li₂kɔ₂ βa₁, ʒal₂ro₂βa₁	MuishaungModern	40	U+2082
-₂$	²	ʒɐuk₄ʃi₂, rɐuŋ₂	MuishaungModern	83	U+2082 U+0024
-₂_	₂ +
-₃	³ +	ʦɨŋ₃ʃiʔ₄, ʒa₃pi₂	MuishaungModern	12	U+2083
-₃$	³	ʒɐuk₄t̪ʰɨn₃, ə₀pɐuŋ₃	MuishaungModern	45	U+2083 U+0024
-₃_	₃ +
-₄	⁴ +	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	26	U+2084
-₄_	₄ +
-₄$	⁴	ɣap₄, ʨak₄	MuishaungModern	58	U+2084 U+0024
-₃_$	₃
+₀	₀/⁰	ə₀t̪ə₀rɐuŋ₂, ə₀re₂	MuishaungModern	60	U+2080
+₀_	₀/⁰ +				
+₁	₁/³¹ +	βu₁ti₁, ʦəm₁tap₄	MuishaungModern	30	U+2081
+₁$	₁/³¹	lu₁, ʒal₂ʨɨk₄sa₁	MuishaungModern	77	U+2081 U+0024
+₁_	₁/³¹ +				
+₂	₂/²³¹ +	li₂kɔ₂ βa₁, ʒal₂ro₂βa₁	MuishaungModern	40	U+2082
+₂$	₂/²³¹	ʒɐuk₄ʃi₂, rɐuŋ₂	MuishaungModern	83		U+2082 U+0024
+₂_	₂/²³¹ +				
+₃	₃/³³ +	ʦɨŋ₃ʃiʔ₄, ʒa₃pi₂	MuishaungModern	12	U+2083
+₃$	₃/³³	ʒɐuk₄t̪ʰɨn₃, ə₀pɐuŋ₃	MuishaungModern	45	U+2083 U+0024
+₃_	₃/³³ +				
+₄	₄/⁵⁵ +	ʒɐuk₄t̪ʰɨn₃, ʒɐuk₄ʃi₂	MuishaungModern	26	U+2084
+₄_	₄/⁵⁵ +				
+₄$	₄/⁵⁵	ɣap₄, ʨak₄	MuishaungModern	58	U+2084 U+0024
+₃_$	₃/³³				
