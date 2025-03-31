@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > van Dam, Kellen Parker & Wanglung Kelim Mossang. (2025). 'A Classified Account of J. F. Needham’s A Collection of A Few Môshâng Naga Words'. Journal of Asian and African Studies. No. 109. Tokyo: Research Institute for Languages and Cultures of Asia and Africa (ILCAA), Tokyo University of Foreign Studies
+  > van Dam, Kellen Parker & Wanglung Kelim Mossang. (2025). 'A Classified Account of J. F. Needham’s A Collection of A Few Môshâng Naga Words'. Journal of Asian and African Studies. No. 109. pp. 111-145. Tokyo: Research Institute for Languages and Cultures of Asia and Africa (ILCAA), Tokyo University of Foreign Studies https://doi.org/10.57275/ilcaajaas.2025.109_111
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -35,8 +35,6 @@ This dataset is licensed under a CC-BY-4.0 license
 |------------------------|-------------|------------------------------------------|----------|
 | Kellen Parker van Dam  | @patkaiist  | transcription, analysis, CLDF conversion | compiler |
 | Wanglung Kelim Mossang |             | analysis, data                           |          |
-
-
 
 ## CLDF Datasets
 
